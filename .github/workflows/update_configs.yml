@@ -1,0 +1,46 @@
+name: Update VPN Configs
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # setiap jam tepat (UTC)
+  workflow_dispatch:        # bisa dijalankan manual dari GitHub UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # diperlukan agar bisa push commit
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run config scraper
+        working-directory: assets/config_vpn
+        run: python main.py
+
+      - name: Commit and push updated configs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/config_vpn/configs.txt
+          git add assets/config_vpn/configs2.txt
+          git add assets/config_vpn/configs3.txt
+          git add assets/config_vpn/configs4.txt
+          git add assets/config_vpn/data.temp
+          git add assets/config_vpn/pointer.txt
+          # Hanya commit jika ada perubahan, [skip ci] mencegah loop trigger
+          git diff --staged --quiet || git commit -m "chore: update VPN configs [skip ci]"
+          git push
+

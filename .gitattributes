@@ -1,0 +1,32 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Force LF for all source files
+*.dart text eol=lf
+*.kt text eol=lf
+*.java text eol=lf
+*.py text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.gradle text eol=lf
+*.properties text eol=lf
+*.kts text eol=lf
+
+# Force CRLF for Windows batch scripts
+*.bat text eol=crlf
+
+# Binary files - no conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.aar binary
+*.so binary
+*.jar binary
+*.jks binary
+
