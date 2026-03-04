@@ -6,10 +6,9 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_v2ray_client/flutter_v2ray.dart';
 
 class ServerService {
-  /// GitHub raw base URL — ganti ke repo milikmu setelah push ke GitHub.
-  /// Format: https://raw.githubusercontent.com/USERNAME/REPO/main/assets/config_vpn/
+  /// GitHub raw base URL — repo resmi PVC.
   static const String _kRawBase =
-      'https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/assets/config_vpn/';
+      'https://raw.githubusercontent.com/aiksatria/pvc/main/assets/config_vpn/';
 
   /// Remote URLs — in priority order (freshest first).
   static const List<String> kDefaultConfigUrls = [
