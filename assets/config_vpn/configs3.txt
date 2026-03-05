@@ -494,3 +494,27 @@ vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?mode=auto&path=%2Fpwp
 
 vless://df8c77ef-8e6d-0be6-eb03-a849a6ac02e5@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&insecure=0&host=dabaius2.sylu.net&type=ws&allowInsecure=0&sni=dabaius2.sylu.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40iP_CF
+
+vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=%2FHellshop&security=none&encryption=none&host=ikcosales.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40iP_CF
+
+vless://4aea5374-09cf-489d-ebce-385b86a6f5a9@94.183.241.26:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40iP_CF
+
+trojan://b6d2auzt-3a62-gedm-fmrb-dtju58xn1xak@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://xtcpy6g7-lhmg-1822-hnpw-a5gohr4z1lug@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://l3qntplz-f1v2-sbfr-f5mb-frcxuhganqhh@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://8242f0cf-a7af-40f0-bae0-ca1f1daa85a9@78.40.117.71:8443?type=tcp&security=reality&sni=ign.dev&fp=qq&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://26524cce-d514-4014-a426-365fb266a14d@152.70.101.24:16048?type=ws&security=tls&path=/danfeng&sni=k7ryegiaeu.chinam.eu.org&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
+
+vless://26524cce-d514-4014-a426-365fb266a14d@43.153.61.80:40874?type=ws&security=tls&path=/danfeng&sni=k7ryegiaeu.chinam.eu.org&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
+
+vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40EmKavpn
+
+vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=rocket.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
+vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
