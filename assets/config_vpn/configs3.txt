@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://24d75d1c-4745-4df6-80f9-4a0de7eb4b2f@65.109.221.209:49797?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://d3bd917a-cd7c-85c9-caa5-557cc2a5cd82@photon.unlimiteds.site:660?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
-
-vless://df8c77ef-8e6d-0be6-eb03-a849a6ac02e5@photon.unlimiteds.site:660?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=photon.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&insecure=0&host=dabaius2.sylu.net&type=ws&allowInsecure=0&sni=dabaius2.sylu.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40iP_CF
-
-vless://e51a6f44-8fc3-402b-889a-405c7228ad5c@q.panel.digikalapro.ir:2095?path=%2FHellshop&security=none&encryption=none&host=ikcosales.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40iP_CF
-
-vless://4aea5374-09cf-489d-ebce-385b86a6f5a9@94.183.241.26:33553?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40iP_CF
-
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -75,20 +61,6 @@ trojan://nn1458rz-cdlk-9ak3-2cjb-f0xybedrfp0v@127.0.0.1:1080?security=tls&type=t
 trojan://adqldwyi-afza-fumu-pb6m-q5xeglg5j9sc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://2fiyxiyh-gf4k-lond-j13l-07gnmy578w2i@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://mt4y5qwn-7o4b-thrt-jmh8-1teavgmk8l4b@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://swyvq79b-bxgx-vv78-i9q4-gsmjk51cwet2@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://qbgphe0j-p44q-q34r-r6y6-r9dknq6oylhj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://telegram-id-directvpn@3.139.145.191:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://77a2fa7d-39b5-45af-9758-74e1fbaf1995@home1.metaworkcloud.ir:8449?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40EmKavpn
-
-vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=rocket.unlimiteds.site#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
-
-vless://750a3613-ff1b-9bcc-d61a-3abe6dfcfec2@rocket.unlimiteds.site:9874?type=tcp&headerType=http&host=fast.com&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
 
 trojan://nn9z8ex8-9j6v-6hiq-7ygc-qvspihev2o2x@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
@@ -255,4 +227,10 @@ vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?security=reality&e
 vless://f32854d7-2049-432e-9bc4-9498650293e0@188.213.198.179:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://f32854d7-2049-432e-9bc4-9498650293e0@188.213.198.179:4090?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vmess://eyJhZGQiOiAidWsxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogIjRiYjkxYjZjLWJlM2QtNTQ2Mi0zMGVkLWQxMjdmOGRkNjFhYSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAcGxhbkJfbmV0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+
+vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
 
