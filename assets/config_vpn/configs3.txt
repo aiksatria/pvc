@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://06120d66-16c1-0bb6-6e49-782335153281@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
-
-vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://9d163cea-6469-ec2e-38b9-aa93eaa44333@94.183.241.192:2092?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://9103470a-948d-45bd-a648-ae232f7de38a@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://9103470a-948d-45bd-a648-ae232f7de38a@connected5.starpo5.ir:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=divarcdn.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://11e42830-922a-50df-8414-b34c206c3356@meli2.ertebatgoostar.ir:2087?security=&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=51.68.220.27#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
-
-vless://d5ba8104-07dc-4029-ae9a-c316f32ac3ce@185.136.135.148:8700?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 vless://f25e7ea5-ef6b-4f63-8617-8151ca31b7b1@VIP2.xQFire.iR:811?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
 vless://ee73ff6e-af32-43df-854e-754253bd1bd8@de-2-tun-single.starping1.fun:8083/?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
@@ -43,6 +29,8 @@ vless://f32854d7-2049-432e-9bc4-9498650293e0@188.213.198.179:80?path=%2F&securit
 vless://f32854d7-2049-432e-9bc4-9498650293e0@188.213.198.179:4090?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vmess://eyJhZGQiOiAidWsxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogIjRiYjkxYjZjLWJlM2QtNTQ2Mi0zMGVkLWQxMjdmOGRkNjFhYSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAcGxhbkJfbmV0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
+
+vless://9103470a-948d-45bd-a648-ae232f7de38a@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
 vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
 
@@ -192,6 +180,8 @@ vmess://eyJhZGQiOiAiZGUtMS10dW4uaGVhbGluZ2ZsdWVuY2Uub3JnIiwgImFpZCI6ICIwIiwgImFs
 
 vless://91ba27b9-2daf-4f1d-b94e-f3ef4c4a1d03@haji.arezoni1.ir:666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
+vless://b083b539-a43a-44d1-a7dd-f90f94b9cfc6@connected5.starpo5.ir:8080?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
+
 vless://816d0dc6-2081-48b0-baea-0c8f1852640b@185.126.11.183:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigV2rayNG
 
 vless://585e33d7-c503-4b90-bff7-aca1b1bb8e4f@194.60.228.158:7710?mode=gun&security=none&encryption=none&type=grpc&serviceName=qwemmqwoedmqwoemdoqwmedpmqwedmpm#%F0%9F%8C%90%20GRPC-None%20%7C%20%40ConfigV2rayNG
@@ -295,4 +285,56 @@ vless://2ecd11c8-677f-4a28-81cf-c60d0f8b786e@37.32.9.9:80?encryption=none&type=t
 vless://43bfe589-bbcf-4288#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://55981ad0-8786-4678-92be-071fb99fb9ab@37.32.8.234:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+trojan://telegram-id-directvpn@15.188.164.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.164.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.164.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://e8fbac3b-04c2-4016-b56f-eee23b35f8c8@45.144.124.143:443?path=%2F&security=&encryption=none&host=45.144.124.143&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-1-tun.irantehrankhabar.fun:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@fl-1-tun.khabarirankerman.fun:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@nl-1-tun.khabarkhori.space:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-2-tun.irantehrankhabar.fun:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@nl-2-tun.khabarkhori.space:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@gb-1-tun.khabarirankerman.fun:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@tr-1-tun.khabarkermanshahiran.site:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@us-1-tun.khabarkermanshahiran.site:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-1-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-2-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-3-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-4-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-5-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-6-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@tak7.khabaronlinestar.site:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://062f5134-5ee9-48b8-928f-cfad28401afb@tak8.khabaronlinestar.site:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://6ad1f3ee-53f5-43a5-beea-eab20b5ecaf5@AE.DarinaService-IR.XYZ:2222?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
+vmess://eyJhZGQiOiAidHIxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogImI4NTA3ZTBlLTg5ZjEtNTJiNS05YTI0LTYyNjMyY2I0MGIyOCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBTcG90aWZ5X1BvcnRlZ2hhbGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vmess://eyJhZGQiOiAidWsxLmlyYW5pc2hvcHMuY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm15a2V0LmlyIiwgImlkIjogImI4NTA3ZTBlLTg5ZjEtNTJiNS05YTI0LTYyNjMyY2I0MGIyOCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBTcG90aWZ5X1BvcnRlZ2hhbGkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
+
+vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40kanfig_kade
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
