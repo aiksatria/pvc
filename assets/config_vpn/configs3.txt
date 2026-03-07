@@ -384,3 +384,5 @@ trojan://telegram-id-directvpn@15.224.0.245:22223?security=tls&alpn=http%2F1.1&i
 
 vless://c2b88a44-9000-4c86-9df9-cee546d793b7@178.239.146.50:2001?flow=&type=tcp&headerType=http&host=anten.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
+vless://8638f2b6-15d1-4889-9735-8a2e5e2cac80@vipde4.persianpinggame.com:9092?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40EmKavpn
+
