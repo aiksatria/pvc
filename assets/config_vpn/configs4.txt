@@ -40,3 +40,25 @@ trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&hos
 
 vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&insecure=0&fp=ios&type=grpc&serviceName=ssp&allowInsecure=0&sni=u710297u3374s249.okgfw.top#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://20e1938c-d198-4584-b62c-3b740c9a11ff@fn11.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
+
+trojan://telegram-id-directvpn@15.188.101.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.101.85:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.101.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c6c08b10-2484-4eea-ace7-b4379827a5d2@fn77.finuxmaster.shop:2053?security=none&type=tcp&headerType=http&path=%2F&host=soft98.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://ccac781d-1f3e-4e5b-99c2-d07d653b81e8@rk4no3.cdnhoo.top:80?encryption=none&type=ws&path=#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFdTLVRMUyB8IEB2Mm5vZGVzIiwgImFkZCI6ICJod3RxY3AudWhvbWRleC5zaG9wIiwgInBvcnQiOiAiODQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZWRkZWJjOTItYjlmNy00MDE5LThhMTEtMGQ3MzNiZmU2NjVkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJod3RxY3AudWhvbWRleC5zaG9wIiwgInRscyI6ICJ0bHMiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://74ed1341-f0e7-4892-9188-19d0e83829ef@op-g1-detun.a1mshop2.xyz:12000?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed@103.81.86.158:443?mode=gun&security=tls&encryption=none&fp=ios&type=grpc&serviceName=ssp&sni=u710297u3374s249.okgfw.top#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40ConfigX2ray
+
+vless://8993a817-4aa2-4d44-a27d-1d5351569bac@194.50.169.169:55283?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://8993a817-4aa2-4d44-a27d-1d5351569bac@194.50.169.169:55283?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
