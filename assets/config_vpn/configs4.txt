@@ -16,3 +16,33 @@ vless://8bf9cc75-5e11-4243-a3c0-eb13e345b0b6@185.206.92.22:2006?security=none&en
 
 vless://213a6ab9-84ed-45c7-ae5a-fed81893be98@newcd.newdesigne.ir:20981?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
+trojan://telegram-id-directvpn@52.29.115.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.29.115.99:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@52.29.115.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c71a9084-637b-43d5-8d26-802677443b89@109.95.65.242:900?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://0a20fddc-8d3d-46ab-a8d6-d8d00299f80d@arsim3.bestfrends.ir:2092?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://c4f3418c-6151-4371-8fec-56a969417d3f@digi.sorcepack.ir:44693?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://b83264f1-be67-4d09-9e32-fe3f28895f02@fn44.finuxmaster.shop:2087?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@fi.emshabshabe.ir:8086?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://67bfe904-b4d4-41b2-a846-932c8f74bd43@afk.mrsf.ir:52477?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://e4368ff3-f68f-448f-bb4f-524e2a13e84b@nhgr01.nyber.org:15000?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://280c9ff0-7efd-449f-818e-fe46b21aeafe@s3.tomandjery.eu:1004?security=reality&encryption=none&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
+
+vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40manVPN
+
+vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
+
