@@ -1,5 +1,33 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=finloijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=geroijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=ukamanaji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=swedenjji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+trojan://telegram-id-directvpn@35.181.15.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.15.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://JT82NfVfBaVbehRbuIvttb@45.89.52.5:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=tr2.alice#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
+
+vless://17740a24-5c75-4914-b7a0-97e9abe4aafa@37.32.42.90:48794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
+
 hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -71,48 +99,6 @@ trojan://tc8kozct-u75j-u393-6p2j-3lzk9ltlfjm3@127.0.0.1:4080?security=tls&type=t
 trojan://telegram-id-directvpn@3.65.251.210:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?type=tcp&security=reality&sni=chatgpt.com&fp=firefox&flow=xtls-rprx-vision&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://6c8f2ee5-effd-4601-90d3-8d289b2956ee@5.159.54.151:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://S144@5.159.54.144:21?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://f1eb7fed-bc91-4285-9e7f-23d941a0204a@www.speedtest.net:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#%F0%9F%8C%90%20GRPC-TLS%20%7C%20%40V2rayng_Fast
-
-vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.240.160:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://ca492b57-4e98-49d5-aed2-61b67a2ec559@85.133.227.68:35812/?type=tcp&encryption=none&flow=&sni=www.microsoft.com&fp=chrome&security=reality&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
-
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=finloijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=geroijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=ukamanaji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=swedenjji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-trojan://telegram-id-directvpn@35.181.15.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@35.181.15.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://JT82NfVfBaVbehRbuIvttb@45.89.52.5:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=tr2.alice#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
-
-vless://17740a24-5c75-4914-b7a0-97e9abe4aafa@37.32.42.90:48794?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#%F0%9F%8C%90%20WS-TLS%20%7C%20%40tik7net_vpn
-
-vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
 trojan://telegram-id-directvpn@13.36.46.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
@@ -557,4 +543,24 @@ vmess://eyJhZGQiOiAiMzEuNTguMjIzLjEzNCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6
 vless://df73212d-0481-4528-89eb-6aa322d05e50@85.133.247.103:38495?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
 
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
+
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://c19fb567-74a9-454f-9757-e612fc4be371@217.79.180.140:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://21a5d4cf-46d3-4f01-a5b4-a5d06ced6c29@meow.panbe.mom:2773?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
+
+vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=sun6-22.userapi.com&sid=0a2585c3c950f29a&fp=chrome&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40tik7net_vpn
+
+vless://7e64d758-c9f6-4297-904f-1a25f6525778@Wwwwstar.ar-panelar.coM:8080?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
+
+vless://bdd19991-442b-4014-b954-6368bc5ea6a0@95.216.137.167:55947?security=none&allowInsecure=0&encryption=none&type=tcp&host=fast.com,+www.speedtest.net&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
+
+vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.50.50:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://6b852256-0f83-470a-bead-6bb2fe7befa9@195.46.39.40:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.51.51:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
