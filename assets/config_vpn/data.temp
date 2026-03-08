@@ -1,17 +1,3 @@
-1772965348.969575|tik7net_vpn|vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@151.101.10.79:443?security=tls&type=ws&headerType=&path=&host=nesfhab.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%40Nftvici%20%F0%9F%94%A5
-1772965348.969575|tik7net_vpn|vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=finloijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%40Nftvici%20%F0%9F%94%A5
-1772965348.969575|tik7net_vpn|vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=geroijji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%40Nftvici%20%F0%9F%94%A5
-1772965348.969575|tik7net_vpn|vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=ukamanaji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%40Nftvici%20%F0%9F%94%A5
-1772965348.969575|tik7net_vpn|vless://f1f8a865-ca7d-4a20-aa2d-bfd08759b24b@fs.cedriklorenz.ir:443?security=tls&type=ws&headerType=&path=&host=swedenjji.global.ssl.fastly.net&sni=speedtest.net&fp=&allowInsecure=1#%40Nftvici%20%F0%9F
-1772968755.666224|DirectVPN|trojan://telegram-id-directvpn@35.181.15.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1772968755.666224|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.15.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-1772968755.666224|PrivateVPNs|trojan://telegram-id-privatevpns@35.181.15.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-1772968755.666224|V2rayng_Fast|vless://JT82NfVfBaVbehRbuIvttb@45.89.52.5:443?security=tls&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=tr2.alice#V2rayng_Fast
-1772968755.666224|V2rayng_Fast|vless://17740a24-5c75-4914-b7a0-97e9abe4aafa@37.32.42.90:48794?encryption=none&security=none&type=tcp&headerType=none#V2rayng_Fast
-1772968755.666224|V2rayng_Fast|vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?path=%2Fvpnjantit&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#V2rayng_Fast
-1772968755.666224|V2rayng_Fast|vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#V2rayng_Fast
-1772968755.666224|tik7net_vpn|vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#Ebtekar25
-1772968755.666224|tik7net_vpn|vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#Ebtekar25
 1772973744.442178|Trick_mobil|hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#@Trick_mobil
 1772973744.442178|Trick_mobil|hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
 1772973744.442178|Trick_mobil|hy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
@@ -416,3 +402,9 @@
 1773008441.17314|V2HUBIR|vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.50.50:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#@V2HUBIR
 1773008441.17314|V2HUBIR|vless://6b852256-0f83-470a-bead-6bb2fe7befa9@195.46.39.40:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#@V2HUBIR
 1773008441.17314|V2HUBIR|vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.51.51:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#@V2HUBIR
+1773012058.360742|Capoit|vless://c71575ee-4e0c-47f7-884b-2ead7fa2feaa@dl-film.digitalvortex.ir:3038?path=%2F&security=none&encryption=none&type=ws#@Capoit
+1773012058.360742|Capoit|vless://14110bc1-454f-4536-9ac5-74754e77b4d5@g1-de2-user.a1mshop.ir:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#@Capoit
+1773012058.360742|v2nodes|vless://4fd2d5f6-d417-03e8-9331-e20afde2fcd2@109.120.191.31:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🇩🇪[openproxylist.com] vless-DE
+1773012058.360742|v2nodes|vless://711f56b0-0d4c-4516-bea6-0e963749928c@mos-drywall.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#🇫🇮[openproxylist.com] vless-FI
+1773012058.360742|v2nodes|vless://711f56b0-0d4c-4516-bea6-0e963749928c@my-rebar.shop:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=my-rebar.shop&type=tcp#🇫🇮[openproxylist.com] vless-FI
+1773012058.360742|BrilliantGift|vless://3899ada4-de68-4ed9-9fae-8745410e4149@sdl15.shahramv1.site:80?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@BrilliantGift
