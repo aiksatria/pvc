@@ -314,3 +314,7 @@ vless://8a516e94-2762-46d5-a1c5-6687bb6b81f8@emg6.saipasamandemg6.sbs:2006?secur
 
 vless://8a516e94-2762-46d5-a1c5-6687bb6b81f8@emg3.saipasamandemg3.sbs:2003?security=none&type=tcp&headerType=http&path=%2F&host=anten.ir#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
+vless://5635fd67-8c75-de5d-38db-7d55648bd9ba@94.184.5.43:58173?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://81d51ca4-a8b4-4924-bb33-02f59333dcd5@mp.sanflow.ir:921?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
