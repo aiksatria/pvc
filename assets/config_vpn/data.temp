@@ -1,10 +1,3 @@
-1773039701.782151|DirectVPN|trojan://telegram-id-directvpn@63.176.126.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1773039701.782151|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.126.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
-1773039701.782151|PrivateVPNs|trojan://telegram-id-privatevpns@63.176.126.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-1773039701.782151|V2rayng_Fast|vless://78f027b7-440f-4473-9cad-3ff01bc3e9a5@hol.emshabshabe.ir:442?security=none&encryption=none&headerType=http&type=tcp#V2rayng_Fast
-1773039701.782151|V2rayng_Fast|vless://c8ab812b-6f61-42b0-b49c-59db13557d93@2.188.241.144:29332?security=none&encryption=none&headerType=none&type=tcp#V2rayng_Fast
-1773039701.782151|V2rayng_Fast|vless://948b6637-2bfb-4cd3-a586-53bd37c5faca@185.243.49.69:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#V2rayng_Fast
-1773039701.782151|V2rayng_Fast|vless://2e8fae9d-3656-466c-b30f-0c9dc10c11f4@emg6.saipasamandemg6.sbs:2006?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#V2rayng_Fast
 1773045661.021664|V2rayng_Fast|vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#V2rayng_Fast
 1773045661.021664|V2rayng_Fast|vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.152.254:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#V2rayng_Fast
 1773045661.021664|V2rayng_Fast|vless://c970f910-1103-446a-bdc8-a9cfb22381bf@144.31.214.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6HaGh1HqaHwxHL7-y-Xpi1vj1lsIM_b-jdY7iG5eOFA&security=reality&sid=a1b223d4&sni=fr4.darknet.run&type=tcp#V2rayng_Fast
@@ -275,3 +268,7 @@
 1773082183.737765|DirectVPN|trojan://telegram-id-directvpn@15.188.96.111:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1773082183.737765|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.96.111:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 1773082183.737765|PrivateVPNs|trojan://telegram-id-privatevpns@15.188.96.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+1773085135.542452|planB_net|vless://17f100d3-4b31-47f9-b8df-94d1a723d43e@140.248.155.104:443?path=%2F&security=tls&encryption=none&insecure=0&host=efixshop.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%40planB_net
+1773085135.542452|planB_net|vless://6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a@kzcdn1.suio.me:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kzcdn1.suio.me#%40planB_net
+1773085135.542452|planB_net|vless://0fff5f1b-370d-4e98-829d-7dca653fbca8@185.226.117.160:443?security=none&encryption=none&headerType=none&type=tcp#%40planB_net
+1773085135.542452|planB_net|vless://5635fd67-8c75-de5d-38db-7d55648bd9ba@94.184.5.43:58173?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40planB_net
