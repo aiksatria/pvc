@@ -1,25 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://c19fb567-74a9-454f-9757-e612fc4be371@217.79.180.140:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%F0%9F%87%B1%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://21a5d4cf-46d3-4f01-a5b4-a5d06ced6c29@meow.panbe.mom:2773?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
-
-vless://fe0f8774-4064-4d2c-a523-dcd7bf8809bf@217.13.104.112:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=sun6-22.userapi.com&sid=0a2585c3c950f29a&fp=chrome&pbk=o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40tik7net_vpn
-
-vless://7e64d758-c9f6-4297-904f-1a25f6525778@Wwwwstar.ar-panelar.coM:8080?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
-
-vless://bdd19991-442b-4014-b954-6368bc5ea6a0@95.216.137.167:55947?security=none&allowInsecure=0&encryption=none&type=tcp&host=fast.com,+www.speedtest.net&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
-
-vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.50.50:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://6b852256-0f83-470a-bead-6bb2fe7befa9@195.46.39.40:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://6b852256-0f83-470a-bead-6bb2fe7befa9@208.76.51.51:5380?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
 vless://c71575ee-4e0c-47f7-884b-2ead7fa2feaa@dl-film.digitalvortex.ir:3038?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Capoit
 
 vless://14110bc1-454f-4536-9ac5-74754e77b4d5@g1-de2-user.a1mshop.ir:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
@@ -169,4 +149,18 @@ vless://b86c0cdc-8a02-4da4-8693-72ba27005587@144.31.17.80:30677?security=reality
 vless://5229125c-af0b-4f28-a3d0-990d5ade9ac0@94.101.184.65:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=pz1.shahramv1.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40planB_net
 
 vless://7ab96fde-862d-4772-a6e6-d0e37e99f92b@usa.turbooserver.ir:8086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40planB_net
+
+trojan://telegram-id-directvpn@15.224.33.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.33.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.33.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://77ea8d6c-1a96-11f1-be1f-1744d2a6f511@tr2.vpnjantit.com:10004?path=%2Fvpnjantit&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://3cbad916-d882-4773-8dfb-15564f2d29fe@zone.ca.f2zone.ir:17759?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://c060fdf1-1376-858a-12a9-7147b9ac4f00@94.184.31.224:58132?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://26524cce-d514-4014-a426-365fb266a14d@144.24.140.37:443?&security=tls&fp=random&sni=lirpeuijr.chinav.indevs.in&type=ws&headerType=none&host=lirpeuijr.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2nodes
 
