@@ -14,3 +14,17 @@ vmess://eyJhZGQiOiAibGluazYubWl6YmFuZXJ0ZWJhdGZhcmRhLnNpdGUiLCAiYWlkIjogIjAiLCAi
 
 vless://44dc6ac1-6126-4627-b889-9792a8188012@81.90.29.39:2443?mode=gun&security=reality&encryption=none&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&fp=chrome&type=grpc&serviceName=TestChatGRPC&sni=academy.nvidia.com&sid=a1b2c3d4#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40tik7net_vpn
 
+trojan://telegram-id-directvpn@51.44.98.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.98.27:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.44.98.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://b45a9ac2-b6c9-475a-8c7a-0caba712f624@emergency-5580.flaptop.sbs:5580?mode=auto&path=%2F8908&security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&fp=firefox&type=xhttp&sni=gharar.ir&sid=9defe6#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLVRMUyB8IEB2Mm5vZGVzIiwgImFkZCI6ICJoaWdoc3BlZWR0ZXN0aW5nMDEucHVibGljdm0uY29tIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJhMzAxYzc3Yy1lNTQ5LTQ5NGUtYTFlMi1iMzg2NDEyZjRkMTEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dyZWRmYmdyIiwgImhvc3QiOiAiaGlnaHNwZWVkdGVzdGluZzAxLnB1YmxpY3ZtLmNvbSIsICJ0bHMiOiAidGxzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vless://8443c8da-1ba2-44ae-975b-080c7c19abcb@speed.mobilekamali.com:41000?security=none&allowInsecure=0&encryption=none&type=tcp&host=fast.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
