@@ -242,3 +242,23 @@ vless://bade902e-eaff-48c1-bb66-c7c064e4a422@mp.sanflow.ir:921?security=none&enc
 
 vless://738d8767-5eff-49dd-b9b9-766d377afd27@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2C+gharar.ir%2C+igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
+trojan://telegram-id-directvpn@13.36.100.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.100.6:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.36.100.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://0d7744c1-eba9-409b-8e54-3cf8d60e2a9a@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
+
+vless://fbb605a5-ce61-4aa9-804d-a2bd5baade57@meli2.ertebatgoostar.ir:2087?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
+
+vless://1f39feb4-3dc2-bb55-3db2-bfe2363c0ab0@85.133.214.67:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
+
+vless://7bed5d53-f043-4fa4-f20b-32e7d1f5a052@p-2-0-2-turk.turkabr.ir:39792?security=none&encryption=none&host=snapp.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://b6c07d52-0288-4005-9634-b5d4bd661535@94.101.177.169:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
