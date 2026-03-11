@@ -1,6 +1,10 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://ccae2ed1-0704-4cd2-8681-c882c8dc4673@92.42.207.68:443?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40EmKavpn
 
-vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+vless://ccae2ed1-0704-4cd2-8681-c882c8dc4673@92.42.207.68:443?mode=gun&security=none&encryption#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://ccae2ed1-0704-4cd2-8681-c882c8dc4673@92.42.207.68:443?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayng_Fast
+
+vless://12b11774-b58b-434b-91be-ba876df9ef5d@51.250.16.92:8444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&sid=6a608eaf9117&sni=ads.x5.ru#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
