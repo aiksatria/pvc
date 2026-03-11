@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a9c9aed0-1b90-3552-8dbd-04440612e071@pro.vpsino.com:20920?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://c3f30d4c-2ba7-4cb8-aee1-a1ce9652d5aa@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2C%2Bgharar.ir%2C%2Bigap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://396c904b-4b62-4334-b793-ee25fc0c61cc@162.159.152.4:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
 vless://be695a55-8ac5-40a1-92c2-cc864651360a@94.141.123.12:558?security=reality&encryption=none&pbk=15ZlM5p8DB5Fp4mtva2pvtC4IBtcxSxqeuZ0R7ffkRk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=4b8f669536c45c2b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
@@ -17,4 +13,10 @@ trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru
 vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
 
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://rbyk7sby-1ayr-ezn5-xs40-q074o6c1sary@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://cf42xaki-jpcc-l49u-al8c-rtpz839bbulm@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://qy3yoy3k-px38-wa0y-sn5j-j54dum5f5itb@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
