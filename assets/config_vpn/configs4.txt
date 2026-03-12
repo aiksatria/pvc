@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://4554447c-81cb-4ef8-8740-2928090f0265@85.133.227.106:443?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://41d265d2-5889-49e4-ba5b-4d017fcaf544@webpanel.trmas-po.ir:8080?security=none&type=ws&headerType=&path=&host=asli.svnteam-vip-fast.ip-ddns.com#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://157a6714-606b-4080-ae6f-eed8918e8c75@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
-
 vless://619815c6-fce7-4448-b881-4f58d82ce990@h1.msljha8844.site:2020?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 vless://6230f6ae-e514-4a4c-a403-389b5a78698f@tt.onepiecefamily.ir:57263?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
@@ -29,4 +17,10 @@ vmess://eyJhZGQiOiAiMTUxLjI0My4zLjU5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&security=reality&encryption=none&pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&fp=firefox&spx=%2F&type=grpc&serviceName=mci.ir&sni=www.apple.com&sid=9e569fc87f8d54#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40vmess_iran
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
+
+vless://91317a7e-c08e-4e60-9661-f97c4b2b6068@Edvard.mh.mygoldiran.com:10?path=%2Fwp-content%2Fuploads%2Fuser%2F&security=none&encryption=none&host=varzesh3.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://25168a7f-05e6-45a6-acaf-e00497c19024@91.92.182.230:5001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=/danfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#%F0%9F%87%A6%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2nodes
 

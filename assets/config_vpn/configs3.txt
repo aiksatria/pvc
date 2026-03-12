@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ffe756b3-a5c1-43c6-b1ef-19d216223385@star.jeyranim.ir:2053?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
-
-vmess://eyJhZGQiOiAiMzcuMzIuMjcuMjA0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICJkMjMzMDk5Yy0yNmJjLTRhYzgtOTg4Yi05YjkzYTE2YzhkNDkiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBycm9maWxlX3B1cnBsZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
-vless://42858609-7dfb-40e9-abdc-88da31a50ab7@theboy.ultimatechat.shop:50953?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayng_Fast
-
 vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
 
 vmess://eyJhZGQiOiAiMjE3LjIxOC41Mi4xIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmOTNmMTM0Zi03YWRiLTQ4YzMtYmNkMS0yNTMyZWRiMGI0NzgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEwNDEwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBUQ1AtTm9uZSB8IEBpUF9DRiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
@@ -169,4 +163,10 @@ vmess://eyJhZGQiOiAiMTUxLjI0My4zLjU5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vless://b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6@52.195.208.63:14564?mode=multi&security=reality&encryption=none&pbk=PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4&fp=firefox&spx=%2F&type=grpc&serviceName=mci.ir&sni=www.apple.com&sid=9e569fc87f8d54#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40vmess_iran
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
+
+vless://91317a7e-c08e-4e60-9661-f97c4b2b6068@Edvard.mh.mygoldiran.com:10?path=%2Fwp-content%2Fuploads%2Fuser%2F&security=none&encryption=none&host=varzesh3.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://25168a7f-05e6-45a6-acaf-e00497c19024@91.92.182.230:5001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.73.65.187:7000?path=/danfeng&security=tls&encryption=none&insecure=0&host=snippet.fgfw.indevs.in&type=ws&allowInsecure=0&sni=snippet.fgfw.indevs.in#%F0%9F%87%A6%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2nodes
 
