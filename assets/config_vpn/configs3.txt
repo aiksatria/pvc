@@ -266,3 +266,9 @@ vless://60a27a8d-bc44-411d-83c9-24f631e409cb@77.42.67.4:47141?security=reality&e
 
 vless://162a4efb-1f1c-47f9-b059-96db9c8c66ba@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?type=ws&path=%2F&host=a4.maxriser.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://bb4c2af2-c8b5-4688-bf60-50de46587f12@188.114.98.0:2087?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=x1.realitysec4.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1.realitysec4.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayngSeven
+
