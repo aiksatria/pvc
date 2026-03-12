@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://523cece2-1be9-47e4-bcad-60def7d726d9@nothome.noeq12.site:5050?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
-
-trojan://telegram-id-directvpn@52.28.114.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.28.114.17:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@52.28.114.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://523cece2-1be9-47e4-bcad-60def7d726d9@nothome.noeq12.site:5050?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@3.cdnconn.com:23335?security=reality&encryption=none&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=67b1e94e4dd1ef90#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://4c3a2f39-dc52-4322-ac66-83010d12bfc0@85.239.33.76:4354?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://ec0fecf4-598a-4319-9b1f-b0858a6f0fb3@185.26.32.251:8585?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
-
 vless://a3bd84b3-6432-481a-8237-56431d31f320@teamlifez.ir:3000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -147,4 +125,12 @@ vmess://eyJhZGQiOiAiMzcuMzIuMjcuMjA0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 vless://42858609-7dfb-40e9-abdc-88da31a50ab7@theboy.ultimatechat.shop:50953?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayng_Fast
 
 vless://1f39fef1-7887-fe10-78f7-faa773794f24@85.133.214.66:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Capoit
+
+vless://50390dae-1bdb-11f1-9350-92000723b4ab@dlc-new9.persianpinggame.com:5109?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://d40e96b2-0203-4e62-bffb-cc8f338917dd@L-iq-emergency2-7788yo.j0je.ir:5480?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.84.235.99:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#%F0%9F%87%BF%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2nodes
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.84.235.99:20205?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#%F0%9F%87%BF%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2nodes
 
