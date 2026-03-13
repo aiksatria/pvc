@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40PewezaVPN
-
-trojan://Yr6a2AD8P4@95.216.238.249:35153?security=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
-
-vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
-
-vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
-
-vless://d429bc6f-570b-457e-88b9-4697e849ae1d@n-g-f-1.m2v2.site:2101?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Capoit
-
-trojan://telegram-id-directvpn@18.156.11.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.11.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogInB1Yi5hcDIwMjYwMjI4LmNvbSIsICJwb3J0IjogIjY0MDE4IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJhNzM5ZTc4Mi0xNjgyLTM4YTUtOTE1My1hYWQwOWQ3NzlhZTkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJwdWIuYXAyMDI2MDIyOC5jb20iLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.197.182.128:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40manVPN
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 vless://8cab5d60-588b-41a4-a915-fc2b279bd277@77.42.67.4:47141?type=tcp&encryption=none&security=reality&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&fp=chrome&sni=www.cloudflare.com&sid=f4fa9f410d7134ea&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
 
 vless://256c5f48-4908-4255-83d1-c86cb58f22b4@78.40.116.242:443?mode=gun&security=reality&encryption=none&authority=&pbk=HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM&fp=chrome&type=grpc&serviceName=&sni=se.denditop.site&sid=9c2378562188c3cb#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40configraygan
@@ -118,6 +96,12 @@ vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security
 
 vless://ebfbb1e7-25ac-45cb-8f10-c417e0a035bf@85.133.240.234:46216?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
+trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+trojan://telegram-id-directvpn@18.156.11.33:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.156.11.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
+
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vmess://eyJhZGQiOiAiNzcuNDIuNjcuNCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICJmZWMyMDgwZS1lODVjLTRlZTgtYmJjNS1iZmM4ZGVmODRhYmIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAY29uZmlncmF5Z2FuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJ3d3cuY2xvdWRmbGFyZS5jb20iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
@@ -135,6 +119,10 @@ vless://d429bc6f-570b-457e-88b9-4697e849ae1d@n-g-f-1.m2v2.site:2101?security=tls
 vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://b25fbd87-36ba-4721-8cac-578e778b42c7@ml.lerntolern.com:54108?security=none&encryption=none&host=telewebion.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5@bl.khakimilad.online:58992?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://9d15d7ab-5867-4857-b813-bf1924510bca@ez.pubgping.com:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://41d576fb-a9a2-4c57-bb32-73427cd3d31a@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
@@ -157,6 +145,8 @@ vless://60a27a8d-bc44-411d-83c9-24f631e409cb@77.42.67.4:47141?security=reality&e
 vless://162a4efb-1f1c-47f9-b059-96db9c8c66ba@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
 vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
 
