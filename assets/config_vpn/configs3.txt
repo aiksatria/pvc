@@ -6,14 +6,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.41.239:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@15.224.41.239:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://ef0c3e81-5b8e-4cf8-b7d5-46932e9c9c42@37.202.248.51:3333?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://7c7d2112-89cc-418a-8e45-d874fbc6536f@212.80.8.48:9987?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://c048bd88-3e84-4f98-9699-8379f690ac7b@185.112.59.4:8446?security=reality&encryption=none&pbk=Az7yi4Q-UKI-hsYKtO4wvn1iW4JVW5ivrIXO0ICYtE0&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
-
-vless://b2d5d0d8-1c29-11f1-9350-92000723b4ab@dlc-new1.persianpinggame.com:5101?security=none&allowInsecure=0&encryption=none&type=tcp&host=filmnet.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.84.235.99:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#%F0%9F%87%BF%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2nodes
 
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -311,4 +303,12 @@ vmess://eyJhZGQiOiAiMjEyLjg3LjE5OC4xMDEiLCAiaWQiOiAiN2UxZWJiMGQtNjhjMC00ZDI2LTk0
 vmess://eyJhZGQiOiAiMjEyLjg3LjE5OC4xMDIiLCAiaWQiOiAiN2UxZWJiMGQtNjhjMC00ZDI2LTk0ZmQtMDRkMTRjYTU1MzUxIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDUxMzg0LCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vmess://eyJhZGQiOiAiMjEyLjg3LjE5OC4xMTMiLCAiaWQiOiAiN2UxZWJiMGQtNjhjMC00ZDI2LTk0ZmQtMDRkMTRjYTU1MzUxIiwgIm5ldCI6ICJ0Y3AiLCAicG9ydCI6IDUxMzg0LCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+
+vless://e370930f-fa08-474c-b4c2-a6ca7885ecf7@tr2.rhino.bottm.security-gmp.rhinnoo.ir:80?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vmess://eyJhZGQiOiAiMTA3LjE4OS43LjE3NiIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIyZDdmMzJiOS01NzIyLTRkMTItOTMyNS02YTRlZjk1Yzc4ZGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNTM0NjksICJwcyI6ICJcdWQ4M2NcdWRkZjFcdWQ4M2NcdWRkZmEgV1MtVExTIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vless://643a49dc-02c4-424b-8d87-7fa651644075@80.92.205.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww&sid=1434b433&sni=store.steampowered.com#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://be224aaf-618c-4a9e-877c-1cee0e32056b@45.139.27.44:443?security=reality&encryption=none&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rus.fasti.win&sid=feedbacc#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
 
