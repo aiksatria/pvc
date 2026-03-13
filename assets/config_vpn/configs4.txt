@@ -1,34 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@15.188.253.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.124:443?allowInsecure=1&encryption=none&host=war.connecticut-haloo.info&path=%2Flove&security=tls&sni=war.connecticut-haloo.info&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2nodes
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.253.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=nl4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=nl4.maxriser.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
 
-trojan://telegram-id-privatevpns@15.188.253.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ws2.beepn.info&fp=chrome&type=ws&allowInsecure=0&sni=Ws2.beepn.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
 
-vless://4e090ec6-1a42-447e-9579-474384e96bc9@f1.msljha8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
 
-vless://7fd3bf28-d85c-4b96-8f89-c33ea7ecd793@SofeWhite.legendperm.ir:4577?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-hysteria2://00a40f88-0900-4c29-9555-cf053a23071b@167.86.100.40:11801?security=tls&obfs=salamander&obfs-password=pGBT2RES32Gr7S8DQx&insecure=1&sni=167.86.100.40#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40V2HUBIR
-
-vless://65074e78-7974-48e1-b575-46ebf6a75646@k1.msjia8844.site:2099?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://3163a1be-663a-47ff-8b54-8e6a5591910d@hool.pollux.live:6064?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://3dd4e73d-305b-4002-8791-2e3ee496f456@dl2.xmeti.ir:56557?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@ep.tehrantolidi.ir:443?mode=auto&path=%2FXIXVPN%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=www.designseda.ir&fp=firefox&type=xhttp&allowInsecure=0&sni=65kcnqjbg1.designseda.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2HUBIR
-
-vless://5229125c-af0b-4f28-a3d0-990d5ade9ac0@94.101.184.65:443?path=%2FXIXVPN%3Fed&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=pz1.shahramv1.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
-
-vless://17f73553-c1da-4877-96cf-451efcb78512@simcard.parhamm1.ir:5066?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
-
-vless://c1e658cc-07d4-47d5-afc6-1fb78a725a75@STAR-17.starz-net.com:2075?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
-
-vless://cea9739e-50d9-4fbb-87e3-73e52e91d567@77.42.67.4:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.2Do-Va1SMMHGLqftB61-zvPgdxfeTgFu_DomYu6G4Sg&pbk=c_JfmGPZlvpdm22tfPSVaVA97Qd7pYXR3JII2Gsp708&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=0944bdbc711210#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://e1effa1a-1258-4b60-8f7a-7eedc6d1d563@77.42.67.4:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.2Do-Va1SMMHGLqftB61-zvPgdxfeTgFu_DomYu6G4Sg&pbk=c_JfmGPZlvpdm22tfPSVaVA97Qd7pYXR3JII2Gsp708&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=aws.amazon.com&sid=0944bdbc711210#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://8cb1833d-346d-49c7-921d-c64657eda145@185.235.196.90:1818?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
