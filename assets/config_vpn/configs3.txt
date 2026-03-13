@@ -372,3 +372,9 @@ vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?security=reali
 
 vless://62ad5a48-f452-4868-b7eb-d27df9b3d723@nlcdn7.suio.me:443?security=tls&encryption=none&headerType=none&type=tcp&sni=nlcdn7.suio.me#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ServerNett
 
+trojan://telegram-id-directvpn@15.188.253.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.253.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.253.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
