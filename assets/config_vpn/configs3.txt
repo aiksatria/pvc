@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://humanity@104.21.40.34:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.gossipglove.com&%3Btype=ws&%3Bsni=www.gossipglove.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://266169d9-665f-4fed-b1a8-da29794ee3cd@berovps.masoodbiranvand-230.workers.dev:2083?path=vless-ws/%3Fed%3D2048&%3Bsecurity=tls&%3Bencryption=none&%3Balpn=h2&%3Bhost=berovps.masoodbiranvand-230.workers.dev&%3Bfp=randomized&%3Btype=ws&%3Bsni=berovps.masoodbiranvand-230.workers.dev#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@93.94.51.210:443?security=tls&%3Bencryption=none&%3Binsecure=1&%3Btype=tcp&%3BallowInsecure=1&%3Bflow=xtls-rprx-vision&%3Bsni=deu549.worldbypass.org#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
-
 vmess://eyJhZGQiOiAibjE3NjEyOTY4NzcubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc2MTI5Njg3Ny5saWU1ZC5jeW91IiwgImlkIjogIjFlYmZkZmZhLTFhMzctNDMzNi04NDk0LWY4NWIzNmNkZjA4NyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBwcnJvZmlsZV9wdXJwbGUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
 vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
@@ -327,4 +321,26 @@ vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?securi
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+trojan://rdta5zfr-1x8l-abco-2syl-oq32ggdsomx8@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://s4xx0g6i-3zk1-wj8n-02x2-e5wbtsbi8fzg@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://n1f1zvzv-ycl9-6pwv-9wlg-sul0i35pzkre@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-directvpn@13.39.7.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.7.170:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://da4d9094-1890-4c97-bf67-7cee154d0854@ch2.fastlanehosting.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39&sni=store.steampowered.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://8562eac5-98e9-4059-80f3-85d281634475@cy-2.vpnd.io:39178?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=wypHcbjNm6Zr2DEuTFa8c3ff2cnCtPN7kRQb7OyULig&sid=df832f6d73c61b&sni=yahoo.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@138.124.62.115:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&sni=isp.speedload.online#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.117.119.93:2053?&security=tls&fp=random&sni=snippet.fgfw.cc.cd&type=ws&headerType=none&host=snippet.fgfw.cc.cd&path=%2Fdanfeng#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+
+vless://9da0953c-9ae1-44d9-8482-68d4dac8e6d9@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
