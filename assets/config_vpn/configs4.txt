@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://c7bca8ba-0d89-4e01-91a2-b81a266acac5@athena.fdping.com:443?security=none&encryption=none&host=%40persian_asasins&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://761de185-8b90-407c-89ad-6be8d880f6f8@bestcf.030101.xyz:443?encryption=none&security=tls&sni=xrqj.pages.dev&insecure=0&allowInsecure=0&type=ws&host=xrqj.pages.dev&path=%2Fclass%2Fsale%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://90404b8f-5259-b5a3-fef5-c22025a50de3@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://53631ed7-f06d-4e39-bcef-552ef2902495@193.134.101.252:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
-
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@151.242.183.219:35457?encryption=none&security=tls&sni=snippet.fgfw.ccwu.cc&type=ws&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng#%F0%9F%87%B5%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2nodes
-
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
-
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2Ftelegram-MTMVPN&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
 vless://49bfe74a-2a57-40f2-ad6e-39df3a0eb8de@162.55.190.0:433?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
 vless://9b0f923a-0c52-4618-b36e-416adb7ed7b1@162.55.190.0:50219/?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
@@ -47,4 +31,10 @@ vless://d264493a-9a60-4a3b-a2c7-9cd5f3009b61@185.143.233.120:443?path=%2F%3Fed%3
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
 
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2HUBIR
+
+vless://0e007ced-8c1e-43dd-b09d-fc43866cdf9e@mh52m5fsx0ztzs0jb1r6g4z9mn9o2c.ipsumnetwork.com:8540?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://643b3e2b-d9a2-466f-b0c4-cb0431da571f@79.175.149.240:7070?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://464854c0-d879-433b-8ae2-28bfe19ed08e@nl2.fastdbn.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn-fastly-v6.deb.debian.org&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
