@@ -22,3 +22,7 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.117.119.93:2053?&security=tls&f
 
 vless://9da0953c-9ae1-44d9-8482-68d4dac8e6d9@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://a85c4fd9-94a5-407a-b479-59d5a7240111@vipooo.trmas-po.ir:16092?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
+
+vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
