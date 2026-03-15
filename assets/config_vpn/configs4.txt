@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAiY24wMi4zNjVjbG91ZDU4NzguY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjYwMTkiLCAicHMiOiAiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-
-vmess://eyJhZGQiOiAiY24wMi4zNjVjbG91ZDU4NzguY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjYwNDMiLCAicHMiOiAiXHVkODNjXHVkZGU2XHVkODNjXHVkZGY5IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-
 vless://24694ce4-8352-461b-845c-a6123fbf9c06@212.233.74.30:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
 
 vless://24694ce4-8352-461b-845c-a6123fbf9c06@212.233.74.143:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
@@ -17,4 +13,12 @@ vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@89.117.0.166:8085?&security=tls&fp=
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://8330693c-4f84-43cb-b3be-e9bb02a5dae9@144.31.134.176:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=apple.com&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&sid=21342134#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://d0b3e27d-bbfc-4a3b-8e60-6973de8fcefa@157.254.223.44:18959?&security=reality&pbk=-hwVEdgFkvjku8ESuDoAA7id5yGGv_zXBvBW_RdhmHA&sid=d557c6895d014075&fp=chrome&sni=itunes.apple.com&type=tcp&headerType=none&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
+
+vmess://eyJhZGQiOiAiZnNkbnMxLmVjdHVubmVsdnBuLm1lIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImZzZG5zMS5lY3R1bm5lbHZwbi5tZSIsICJpZCI6ICI2YjJkODZlNS1kZjA1LTQ1MTEtYTc5Zi04MmQ1M2NlOTliMzYiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgV1MtTm9uZSB8IEB2Mm5vZGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
+vmess://eyJhZGQiOiAiY24wMi4zNjVjbG91ZDU4NzguY29tIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZjFlY2ZjYS0xM2E5LTQ4OGQtYWM4NC1hYWViNzNhOGQ1NzQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjYwMDQiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 
