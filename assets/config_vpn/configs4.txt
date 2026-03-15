@@ -1,26 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://14db8096-7800-4cb8-bb52-1856e3b65785@snt1.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=snt1.shahramv1.site#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40vmess_iran
+vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
-vmess://eyJhZGQiOiAiOC4yMTAuMTQxLjE0OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwgImlkIjogIjVlY2MzMDg2LTkzY2YtNDJlMy05NTZiLWYyMTgwZTA0MjUzNyIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFdTLVRMUyB8IEB2bWVzc19pcmFuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICI4LjIxMC4xNDEuMTQ5IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.56.163:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40vmess_iran
-
-trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%87%B7%F0%9F%87%BA%20TCP-TLS%20%7C%20%40vmess_iran
-
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@199.241.138.38:25631?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=ylnhh.cc.cd&type=ws&allowInsecure=0&sni=ylnhh.cc.cd#%F0%9F%87%B7%F0%9F%87%BA%20WS-TLS%20%7C%20%40vmess_iran
-
-vless://15fc3678-bb1e-4c72-8ff7-2d477f1b8434@emg6.saipasamandemg6.sbs:2006?security=&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
-vless://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
-vless://49bc99e9-305a-4045-a609-a258e8b2b76d@outbounde.iran-mehrbu.ir:16446?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
-vless://3898b276-c444-4d61-a563-7e69fc389026@viptun2.persianv2.ir:2096?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_iran
-
-vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=h32.1.beROzHA.IR&fp=ios&type=ws&sni=h32.1.beROzHA.IR#%F0%9F%8C%90%20WS-TLS%20%7C%20%40manVPN
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
+vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=app-core-02.secoxi.site&type=ws&allowInsecure=0&sni=uiuyoyw.secoxi.site#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
 vless://3075155b-439e-4f60-9041-e92ff75136fc@my.protag.ir:80?path=%2F&security=none&encryption=none&host=hubi.top-plus.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
 
@@ -34,6 +16,8 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFRDUC1Ob25lIHwg
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGZhIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsICJwb3J0IjogIjYwMjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjlmMWVjZmNhLTEzYTktNDg4ZC1hYzg0LWFhZWI3M2E4ZDU3NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImNuMDIuMzY1Y2xvdWQ1ODc4LmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
+trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
 vless://2cf2ffff-8988-444c-adfa-e4012a2cd880@37.152.189.165:33189?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
@@ -46,9 +30,27 @@ vless://253e0b00-ed89-464f-b98d-11b39d4e9dbf@vip.gxnetshop.ir:1015?security=none
 
 vless://5cc82fdd-847a-4b11-9f91-3d8f35ff9e09@farzandeiran.iransalar.top:21531?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://fb2c0e80-a66c-4132-9b90-509d4ed369d5@SofeWhite.legendperm.ir:4722?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
 vless://17f7f5d0-0b56-4fb6-905b-064df6db5752@92.114.24.195:443?mode=auto&path=%2Fapi%2F&security=tls&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2HUBIR
 
 vless://ae29791e-b4e7-4a42-bab1-e937a24ab4a1@we.configfast.site:1142?security=none&encryption=none&host=bale.ai%2C%20web.splus.ir%2C%20igap.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
+vless://6f9c8f91-26fd-480e-bc7c-c29df94d3b6c@ir.shomalchat.com:2021?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vmess://eyJhZGQiOiAiOTQuMTgzLjE0OS4xMjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAieWFzZGwuY29tIiwgImlkIjogIjRkNDhkYzEzLTdjOWQtNDViNC1iOWVkLTdlY2JmMTUwNjZjMSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzkxMSIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAVjJIVUJJUiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+
+vless://d43391ff-975c-4a70-a64a-e4ff9d8c8d08@85.133.227.119:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=learn.microsoft.com&sid=82cada35130f1ef2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
 vless://544aa173-d4ef-4ba7-8e40-4d54cc5e61b9@46.34.163.42:80?mode=auto&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2HUBIR
+
+vless://578d7696-fe6e-421e-afcc-5ad3d30b8658@sv.letknow.shop:1001?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://b7b5590a-eccb-48cf-949a-8202880ce929@185.213.195.179:80?encryption=none&type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://a914cfb9-52f3-4545-bcbe-96cb4b684a94@al.crunch-crunch.com:11111?encryption=none&type=xhttp&mode=packet-up&path=/new-weels&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
+
+vless://5952ea01-0669-4f5e-8010-61f8abee3600@nl.grizzlyvpn.work:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=bDdOq3qmxktZkzTC1GoPmod0H4yYpCdMKQXiahg0iBk&sid=1970a26157d7bf98&sni=nl.grizzlyvpn.work&path=&host=&spx=/#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@103.173.155.158:443?security=tls&flow=xtls-rprx-vision&sni=u710948ub8e9s229.okgg.top&type=tcp&host=s229.okgg.top&fp=random#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
 
