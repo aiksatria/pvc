@@ -58,3 +58,5 @@ trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http/1.1&h
 
 vless://17cdeaa0-d9f0-443d-8f14-80cef1de5529@ma-1.vpnd.io:12574?type=tcp&security=reality&encryption=none&pbk=_rRqFVyD5EgBQt9YWutbSjidLJEjoLcxBejrytypBDU&fp=chrome&sni=amazon.com&sid=7fa5d084&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+

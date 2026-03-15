@@ -1,22 +1,14 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.39.7.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.7.170:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@77.110.119.35:2053?type=ws&security=tls&encryption=none&sni=zgtwylnhh.cc.cd&path=Telegram🇨🇳&host=zgtwylnhh.cc.cd#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
-
-vless://a85c4fd9-94a5-407a-b479-59d5a7240111@vipooo.trmas-po.ir:16092?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40azadi_config
-
-vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
 vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
 
 vless://ede52d9c-2ce3-45d8-9f1a-f84ee2857155@hamrahiran.sorenashoping.xyz:44941?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
+vless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
 vless://2aa8ba19-ad44-42cd-806c-8bb328df46c6@82.202.137.97:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayng_Fast
+
+trojan://telegram-id-privatevpns@13.39.7.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
 
 vless://a72f055b-8929-4947-bbcd-1eb567e1f69e@62.60.198.57:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
@@ -232,6 +224,8 @@ vless://da4d9094-1890-4c97-bf67-7cee154d0854@ch2.fastlanehosting.ru:443?security
 
 vless://9da0953c-9ae1-44d9-8482-68d4dac8e6d9@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.mahanmapcdn.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
+trojan://telegram-id-directvpn@13.39.7.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.7.170:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&headerType=none&type=tcp&sni=8443.golden-cards.me#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
@@ -413,4 +407,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.93.56.163:22224?type=ws&security
 trojan://telegram-id-privatevpns@54.93.56.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://17cdeaa0-d9f0-443d-8f14-80cef1de5529@ma-1.vpnd.io:12574?type=tcp&security=reality&encryption=none&pbk=_rRqFVyD5EgBQt9YWutbSjidLJEjoLcxBejrytypBDU&fp=chrome&sni=amazon.com&sid=7fa5d084&spx=/&flow=xtls-rprx-vision#%F0%9F%87%B2%F0%9F%87%A6%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
