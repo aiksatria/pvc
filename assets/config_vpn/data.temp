@@ -1,4 +1,3 @@
-1773637942.09934|v2nodes|trojan://BxceQaOe@95.40.9.23:18503?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com] trojan-HK
 1773645178.683639|DirectVPN|trojan://telegram-id-directvpn@18.194.236.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1773645178.683639|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.236.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 1773645178.683639|PrivateVPNs|trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -109,3 +108,6 @@
 1773677266.410619|ConfigX2ray|vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2&path=/XIXVPN?ed=2560#🇳🇱 The Netherlands 🍓 https://t.me/ConfigX2ray
 1773677266.410619|ConfigX2ray|vless://8b70357d-b654-4a29-85de-e5fef1afefbd@se.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.connectv.net&path=/XIXVPN?ed=2560#🇸🇪 Sweden 🍓 https://t.me/ConfigX2ray
 1773677266.410619|ConfigX2ray|vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.32.47:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=/XIXVPN?ed=2560&security=tls&sni=ir1.airpanel.top&type=ws#🇨🇦 Canada 🍓 https://t.me/ConfigX2ray
+1773683884.077264|v2nodes|vless://46eb533d-e25d-4b15-a689-5ec0e834f0b9@nl.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=nl.katanavpn.ru&fp=chrome&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=c8e5fbd3087e0a09#🇳🇱[openproxylist.com] vless-NL
+1773683884.077264|v2nodes|vless://7018878c-7b26-4eec-8feb-3137f9b74394@de.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=de.katanavpn.ru&fp=chrome&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb#🇩🇪[openproxylist.com] vless-DE
+1773683884.077264|BrilliantGift|vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?path=%2F&security=none&encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&type=ws#@BrilliantGift
