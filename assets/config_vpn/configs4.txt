@@ -74,3 +74,11 @@ trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1
 
 vless://682f13ec-421f-4a71-b116-60c45d6dc1ed@trailers.sv1.cdn.yoozmovie.com:16771?type=tcp&headerType=http&host=google.com&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
+trojan://telegram-id-directvpn@35.181.221.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.221.95:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.181.221.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://b73855fb-2ec9-4039-935a-a206dda339f8@144.31.242.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zqpRqT4mXPEh8LEBDqSMmRRTrDT-pF6Idv2Z0NXGUCk&security=reality&sid=a1b223d4&sni=dk.darknet.run&type=tcp#%F0%9F%87%A9%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2nodes
+
