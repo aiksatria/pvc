@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://46eb533d-e25d-4b15-a689-5ec0e834f0b9@nl.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=nl.katanavpn.ru&fp=chrome&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=c8e5fbd3087e0a09#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://7018878c-7b26-4eec-8feb-3137f9b74394@de.katanavpn.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=de.katanavpn.ru&fp=chrome&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&sid=82978722b1a42ddb#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://cb213db5-803d-49dd-a7e2-46d938af0751@104.18.3.11:2082?path=%2F&security=none&encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
-
 trojan://telegram-id-directvpn@15.188.103.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.103.210:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -203,4 +197,12 @@ vless://6888427e-8af1-4e19-a61a-382250a32b01@46.225.239.217:8880?security=realit
 vless://53fa2131-611e-413f-8b1a-3aed45529a52@158.160.171.167:443?security=reality&encryption=none&pbk=w8WltGLAGvOi6tsvnTQ80309byZo0Wo_Gs3fr8F6ixE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=84.img.avito.st&sid=331a54c7ab4b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vless://d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549@vb04.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+trojan://telegram-id-directvpn@18.158.21.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.21.192:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.158.21.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
