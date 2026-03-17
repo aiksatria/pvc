@@ -1,2 +1,24 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://telegram-id-directvpn@15.224.3.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.3.38:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.224.3.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://049f0970-4160-f0f1-9519-0e9349419709@mak3.vpsino.com:20960?encryption=none&type=tcp&headerType=none&host=nobitex.ir&path=/&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://18e0d426-cbe2-4e80-a8d0-6af4116ec811@185.243.49.69:14300?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://c0fbea6a-3c80-ded1-46ed-585d541f5b50@promax.vpsino.com:20960?security=none&encryption=none&host=nobitex.ir&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=/XIXVPN?ed=2560&%3Bsecurity=tls&%3Bencryption=none&%3Bhost=3k.pureboy.eu.org&%3Bfp=chrome&%3Btype=ws&%3Bsni=3k.pureboy.eu.org#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
+
+vless://b9233171-b534-4bdd-8826-7921c3ac59ac@92.114.24.195:443?encryption=none&type=ws&host=api.meibourse.com&path=/XIXVPN?ed=2560&security=tls&fp=chrome&sni=api.meibourse.com&mux=8#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2HUBIR
+
+vless://14818654-7689-453a-9a1f-4c72f89782d5@nl-amst-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=chrome&spx=/&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63&path=/XIXVPN?ed=2560#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.95.176:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=95ec618532fa065e&type=tcp&headerType=none&path=/XIXVPN?ed=2560#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2&path=/XIXVPN?ed=2560#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
