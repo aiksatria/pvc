@@ -52,3 +52,6 @@
 1773827513.844473|Trick_mobil|trojan://3u76uwaj-nysn-x7b9-ik7r-ejvgiuwmrg2j@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 1773827513.844473|Trick_mobil|trojan://qsnckeur-2yal-evhj-jzvo-fqmg35dxu3gn@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 1773827513.844473|Trick_mobil|trojan://ul4txp89-aufo-b7dj-znpd-q4t30sf0su7s@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+1773831026.942335|DirectVPN|trojan://telegram-id-directvpn@15.224.60.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+1773831026.942335|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+1773831026.942335|PrivateVPNs|trojan://telegram-id-privatevpns@15.224.60.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
