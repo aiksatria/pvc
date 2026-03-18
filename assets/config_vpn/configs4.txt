@@ -1,12 +1,6 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://9hk9oqel-18es-xapf-v02k-tfiju2btsfzw@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://wflksiqr-gndh-asdy-7lfd-7est3hy7jp5b@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://te4vd2vr-gar0-4fh0-k891-558mvhydk7o1@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://b10aaf79-0721-454b-9d82-6418413561b8@89.149.243.213:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
-
 vless://ca73d911-29f4-42d8-ada5-81dee679e96a@vps.zakir.web.id:80?encryption=none&host=vps.zakir.web.id&path=vless&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20WS-None%20%7C%20%40v2nodes
+
+vless://3fce3b0d-0b92-4e92-9a78-18051dd648b4@45.136.59.44:13344?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo&sid=e2bd9802e29deb#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2nodes
 
