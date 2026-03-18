@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://269e3247-d58e-4648-a13b-1f3126c4b87f@91.192.160.150:59943?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 vless://8751adb7-1370-45f9-b35b-e0e697f4f41c@s1.choosename.org:443?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://25df3742-9ff2-457b-9ad8-9d2045aed5cd@212.192.14.250:49566?type=tcp&encryption=none&security=reality&pbk=Cd3LPNhFi80MCCI5E-Dkod16JwMIO8AWL3gtdUXBmEY&fp=chrome&sni=yandex.ru&sid=a385cabc9fd9759b&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
@@ -113,4 +111,8 @@ trojan://telegram-id-directvpn@15.224.60.191:22223?security=tls&alpn=http/1.1&he
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.60.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@15.224.60.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c3d4e5f6-7890-1234-5678-90abcdef1234@vpn3.rnmcnm.com:443?encryption=none&security=tls&type=ws&path=%2Fray#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2nodes
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogImNuMDEuMzY1Y2xvdWQ4NzU0LmNvbSIsICJwb3J0IjogIjYwMDEiLCAidHlwZSI6ICJub25lIiwgImlkIjogImRiNzViYzkyLTRlMzItNDhkZC1iNzkyLWQ3YThiNzA3NjI2YyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogImNuMDEuMzY1Y2xvdWQ4NzU0LmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
