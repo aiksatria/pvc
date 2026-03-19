@@ -220,3 +220,29 @@ trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&insecure=0&headerType
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAicGxhbmIubW9qY24uY29tIiwgInBvcnQiOiAiMTY2MTgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQyMzU1YmUyLWFmNjEtNGIzYi04NjZjLWQzYzVlYTg3NDhjNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZmViY2UxZDI5YThhNGM2OGUwMTZlMGJlYzgzZmEyNDUubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 
+vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+vless://ca6e4902-1e1f-11f1-8d30-2ddfba49052f@jsv-ir2.randino.ir:9624?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://72adc5b8-146a-4bfe-921b-5c9e1df016e0@51.250.95.176:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=95ec618532fa065e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+trojan://telegram-id-directvpn@3.123.214.232:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.214.232:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@3.123.214.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://217e8d75-528f-4198-8217-ae2885ac9dba@srv13.ezcon24.online:11444?type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.sun6-21.userapi.com&pbk=vII0ktWC5uuvMBFEvgYpftqq6mCjEfCpEg_s8eT_oh8&fp=chrome&bx=/#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://1501076a-e6de-4b28-aa17-524e7ac747fb@144.31.234.125:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IF1iDd3XqdfMBlwSpBBS-GREC-pti_C8Hs4wWcFYUkw&security=reality&sid=3fe43f2880aa68fa&sni=ads.x5.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://IL37892054@engaged-ram.rooster465.autos:443?allowInsecure=0#%F0%9F%87%A6%F0%9F%87%BA%20TCP-None%20%7C%20%40v2nodes
+
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=0&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://729764b1-149c-49f2-b170-322544df7b5b@pl202.mechvpn.online:443?allowInsecure=0&alpn=h3%2Ch2%2Chttp/1.1&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%BE%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://7349bbae-4b76-4c60-aece-053b1b3fbf04@germany.fast.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=cafepedia7.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40manVPN
+
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
