@@ -214,3 +214,9 @@ vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@193.109.120.119:443?encryption=none
 
 vless://ccd85f23-9105-37fd-96b9-9dcbc89ff3eb@s392.ccgfw.top:443?encryption=none&type=grpc&headerType=none&fp=ios&host=s392.ccgfw.top&path=&flow=&security=tls&sni=u710948u635fs392.ccgfw.top&serviceName=ssp&mode=gun&alpn=#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-TLS%20%7C%20%40v2nodes
 
+vless://14db8096-7800-4cb8-bb52-1856e3b65785@snt1.shahramv1.site:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=snt1.shahramv1.site#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
+
+trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayng_Fast
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAicGxhbmIubW9qY24uY29tIiwgInBvcnQiOiAiMTY2MTgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQyMzU1YmUyLWFmNjEtNGIzYi04NjZjLWQzYzVlYTg3NDhjNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiZmViY2UxZDI5YThhNGM2OGUwMTZlMGJlYzgzZmEyNDUubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
