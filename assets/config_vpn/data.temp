@@ -1,4 +1,3 @@
-1773962854.627423|v2nodes|vless://aa167bb9-4882-417e-a9d1-676250111f70@md-kiv-2.blook.network:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SqYAVrG01Mk0KXzlkmckO6lxvv6iZBJJvxE6PvD2vD0&security=reality&sid=3c2f8f52&sni=md-kiv-2.blook.network&type=tcp#🇺🇦[openproxylist.com] vless-UA
 1773985820.174865|v2nodes|vless://4e607c90-e3cf-4e02-9d3e-5aa5a5567f71@usap01.jumperservice.com:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sni=www.icloud.com&type=tcp#🇺🇸[openproxylist.com] vless-US
 1773985820.174865|v2nodes|vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@109.120.189.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=ads.x5.ru&type=tcp#🇩🇪[openproxylist.com] vless-DE
 1773985820.174865|v2nodes|vless://3fce3b0d-0b92-4e92-9a78-18051dd648b4@45.136.59.44:13344?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=chrome&pbk=DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo&sid=e2bd9802e29deb#🇰🇿[openproxylist.com] vless-KZ
@@ -112,3 +111,6 @@
 1774002922.342187|Raiv2mmr|vless://448432c3-2726-43f6-9dd4-9fa05ec875fa@91.192.160.5:38916?encryption=none&security=none&type=ws&path=%2F#%40Raiv2mmr
 1774002922.342187|Raiv2mmr|vless://05a17ccb-a231-4e8c-af1a-810691c27d88@vip2.xqfire.ir:811?encryption=none&security=none&type=tcp&headerType=none#%40Raiv2mmr
 1774002922.342187|Raiv2mmr|vless://6492fd55-4ab8-4da5-bed4-83e5c3f5b178@www.goldenshopify.ir:2031?encryption=none&security=none&type=tcp&headerType=none#%40Raiv2mmr
+1774006178.262426|DirectVPN|trojan://telegram-id-directvpn@13.36.80.221:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+1774006178.262426|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.80.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+1774006178.262426|PrivateVPNs|trojan://telegram-id-privatevpns@13.36.80.221:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
