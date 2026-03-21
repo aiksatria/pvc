@@ -1,5 +1,13 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://kmnqzk6e-z7a5-htqj-254m-ud9fz2wmsort@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?type=xhttp&security=reality&path=/&sni=vk.com&fp=chrome&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&sid=938f14cf6757a249#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40Trick_mobil
+
+vless://a55a1cb4-cdb3-43db-9095-a8321ca1e9ad@whitelist2.124515.xyz:8443?type=tcp&security=reality&sni=whitelist2.124515.xyz&fp=chrome&flow=xtls-rprx-vision&pbk=p6rBxt_9BHHS3ODfWh3gE3nnzsbVqidNUisM5rRk-n0&sid=c10b9c49979ca3ad#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://8aaa4ed2-0fca-48b7-bca6-5f692e278d5d@77.83.245.191:62391?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=28C36ojKr0JugqCel9_zMI5YRzx2B2VG2TfziOhc_Qo&sid=b57dc6123dbccf12#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
 trojan://gvcw3p3d-598r-rgff-uxeu-z9ixpoj6ebtg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://9utiujkw-2bl8-soa6-6re7-wzce3htub7v9@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -92,6 +100,8 @@ vmess://eyJhZGQiOiAiMTg1LjE4MS4xODMuMTI0IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZw
 
 vless://bb89519d-d352-466e-a223-ad7bf282fb4f@65.21.145.122:30448?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
 
+vless://f2b041e5-58be-41c6-a090-3bf44ba7ee2d@farzandeiran.iransalar.top:41316?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
+
 trojan://zhtzq23x-v2j3-6x7v-qy0u-yxqnfteghayj@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://5kr9r0sj-5pjf-ki7f-mkfx-2py2mc7lzkmq@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -114,19 +124,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.46.125:22224?type=ws&securit
 
 trojan://telegram-id-privatevpns@35.181.46.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.163:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=safari&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.68:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://2997ff07-edc5-40f9-8ee6-7b2aa5701d5f@str.lntunvip.com:1020?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@162.159.36.5:80/?type=ws&encryption=none&flow=&host=tt.andishehparenting.com&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://b11e7751-4758-4391-ad40-801bb005e848@srw5.radnet.click:8443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20TCP-None%20%7C%20%40v2nodes
-
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
-
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.196.13:8880?path=%2Ftelegram-channel-mtmvpn---telegram-channel-mtmvpn&security=none&encryption=none&host=c.82313369.xyz&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%87%A6%F0%9F%87%BA%20WS-None%20%7C%20%40manVPN
+vless://379becec-7e34-4281-943f-d222a981630d@teamlifez.ir:3000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
