@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@18.199.182.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.182.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@18.199.182.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.53.115:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=/&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
 
 trojan://24900_tc0b8476d@los7.ee2.in:33741?allowInsecure=0&sni=los7.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
@@ -189,4 +183,8 @@ trojan://telegram-id-directvpn@51.44.137.34:22223?security=tls&alpn=http/1.1&hea
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.137.34:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
 trojan://telegram-id-privatevpns@51.44.137.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vmess://eyJzZXJ2aWNlTmFtZSI6ICJub25lIiwgImFkZCI6ICJtZWwuZGlnaXRhbGxkbnMuY29tIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAic2VlZCI6ICIiLCAiYWlkIjogIjAiLCAiZGV2aWNlSUQiOiAiIiwgIm1vZGUiOiAiIiwgImV4dHJhIjogIiIsICJmcmFnbWVudCI6ICIiLCAiZnAiOiAiIiwgInR5cGUiOiAibm9uZSIsICJwYXRoIjogIiIsICJhdXRob3JpdHkiOiAiIiwgImhvc3QiOiAiIiwgInRscyI6ICJub25lIiwgIm5ldCI6ICJ0Y3AiLCAiaGVhZGVyVHlwZSI6ICJub25lIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgVENQLU5vbmUgfCBAY29uZmVncmFpZ2FuIiwgImlkIjogIjczMDBlYjJkLTk2NTAtNDNkZC04OGIwLWE1OGRmNjlmYTllZCIsICJ2IjogIjIifQ==
+
+vless://47cb5726-b426-1a8c-d83e-9c13c7b90251@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
 
