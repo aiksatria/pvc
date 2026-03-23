@@ -1,10 +1,14 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJzZXJ2aWNlTmFtZSI6ICJub25lIiwgImFkZCI6ICJtZWwuZGlnaXRhbGxkbnMuY29tIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAic2VlZCI6ICIiLCAiYWlkIjogIjAiLCAiZGV2aWNlSUQiOiAiIiwgIm1vZGUiOiAiIiwgImV4dHJhIjogIiIsICJmcmFnbWVudCI6ICIiLCAiZnAiOiAiIiwgInR5cGUiOiAibm9uZSIsICJwYXRoIjogIiIsICJhdXRob3JpdHkiOiAiIiwgImhvc3QiOiAiIiwgInRscyI6ICJub25lIiwgIm5ldCI6ICJ0Y3AiLCAiaGVhZGVyVHlwZSI6ICJub25lIiwgInBvcnQiOiAiODQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWEgVENQLU5vbmUgfCBAY29uZmVncmFpZ2FuIiwgImlkIjogIjczMDBlYjJkLTk2NTAtNDNkZC04OGIwLWE1OGRmNjlmYTllZCIsICJ2IjogIjIifQ==
-
-vless://47cb5726-b426-1a8c-d83e-9c13c7b90251@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40confegraigan
-
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
 
 vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
+
+trojan://x6j3vu3j-a38i-eowj-9vuy-bnsyu66zue6y@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://vy5mgl92-ffje-wikv-6ky1-kfhcud1pg7fa@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://hr3nwsn2-9sel-cnpc-jbpr-9uh6t4mh4e01@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://430399ca-d329-44c3-949c-0f74e3eb3b09@anten.ir:443?type=ws&path=%2F%3Fed%3D2048&host=cpcalendars.digital-ping.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpcalendars.digital-ping.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
