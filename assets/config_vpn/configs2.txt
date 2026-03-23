@@ -100,11 +100,9 @@ vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&
 
 vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.21.7.147:8880?path=%2F&security=none&encryption=none&host=kk195.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro.&type=httpupgrade#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-None%20%7C%20%40manVPN
 
-vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@109.120.189.174:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=ads.x5.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+vless://22753114-c3cb-4613-9f2d-759a871489f7@ir.gafe-lorbad.ir:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
-
-vless://52dbc2d8-00c5-2710-a898-22718fb85c12@ing.anti-vpn.ru:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+vless://22753114-c3cb-4613-9f2d-759a871489f7@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40tik7net_vpn
 
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@172.64.33.91:443?allowInsecure=1&encryption=none&host=639073677260074624.civic-perma.info&path=/cahttingws&security=tls&sni=639073677260074624.civic-perma.info&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2nodes
 
