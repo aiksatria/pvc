@@ -1,16 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@35.181.217.149:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+trojan://telegram-id-directvpn@52.47.165.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.217.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.165.179:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
 
-trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.165.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://898f08d1-f64a-4cc1-8e70-5e9b3a2494dc@tun2.wopeq.com:921?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+vless://53821f3c-5b03-456a-89f3-f8379f130752@51.89.229.134:443?encryption=none&fp=chrome&pbk=4e4FI0siWxFtLCRCVDQurn1wLTuvKWhRY0zj1SaUcyw&security=reality&sid=a13a7cc5&sni=www.samsung.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40prrofile_purple
+vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
-vless://4f93c1f9-6dbf-4103-bfa7-2239105ae9d6@ir.gafe-lorbad.ir:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.47.45:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=/tsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2nodes
 
-vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=yg.bantony199.top&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%87%A6%F0%9F%87%BA%20WS-None%20%7C%20%40manVPN
+
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?path=%2FTelegram%40TELEGRAM-MTMVPN%2B%2F%3Fed&security=none&encryption=none&host=cs.laoyoutiao.link&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
