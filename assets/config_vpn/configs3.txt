@@ -156,3 +156,13 @@ vless://c01733dd-3e58-4da9-910b-cdd4560295bc@94.103.0.92:2443?encryption=none&fp
 
 vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@94.131.8.31:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://d70415c7-b3fb-43e9-915a-df66b2274c32@e2.aurorix.net:25930?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iyV9M7K4Et9DgpzehijZ61ih3H1DnYCvjpSb-zC_qhk&sid=911451a18252bb5a&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://b78582f9-07f7-4b47-837c-3ef3e31cafee@185.226.117.223:8443?encryption=none&type=tcp&headerType=none&host=www.speedtest.net#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://823762e9-9a03-47ad-87ba-2409027ce738@45.81.18.34:443?security=reality&encryption=none&pbk=ioufLXV7_DfXZ1oomDTaUMxdduFNWI-j4Ssa3QuME0Q&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.aparat.com&sid=bcf760#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
+
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.109.107:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:8443?path=%2FnQrQ1eTYHqjVOYx6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=s1.MitIvpN.wOrkeRs.dEv#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40manVPN
+
