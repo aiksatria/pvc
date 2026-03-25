@@ -1,5 +1,9 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+vmess://eyJ2IjoiMiIsInBzIjoiWFggXHVkODNjXHVkZmYzXHVmZTBmIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyBcdTI1MDcgTm9uZSIsImFkZCI6InRyLmdhbWVjZW50ZXJ2aXAuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJkNDllMmJmMC1jNjUyLTRhNzItYjE1My1iMTIyYWIyZjIzZDYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInBhdGgiOiIvIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
+
+trojan://0tk8c576-mxq5-6sqe-xv14-b04f8ofluufd@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
 trojan://n59sg90d-im6p-htzs-25x3-r31l330z10bh@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://wogr6g7u-ye93-nato-l7ig-l715uaz0m0vj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -60,7 +64,15 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&enc
 
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
-vless://a1056081-76c5-4185-a16d-da6657e088d0@82.41.181.60:443?encryption=none&fp=chrome&pbk=R8DxeKsBWjG5_roszdd2bT_jW5Lq5WyBKSKuoQjvcAE&security=reality&sid=c0&sni=www.google.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
+
+vless://18e35ca4-4b6e-43dd-9c28-b3ef89966821@mlh.mynethub99.top:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=mlh.mynethub99.top#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40PewezaVPN
+
+vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?&security=tls&alpn=http/1.1&sni=639073677236045352.mustang-perma.info&type=ws&headerType=none&host=639073677236045352.mustang-perma.info&path=%2Fxxfzrfws#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2nodes
+
+vless://750f9853-c182-37fa-82d3-9de3b7e48f89@cloud.vpsino.com:48324?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://c9cee867-a170-4af4-ac6b-da240f20b1e7@w1star.meepo1.com:2083?type=tcp&encryption=none&path=%2Fapi&headerType=http&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
 
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:3700?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
 
@@ -117,16 +129,4 @@ vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?type=tcp&security
 trojan://jn8rpn0y-1xy7-qi3m-9y8n-zl29w698mdew@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://wpipd6af-di0z-6lqt-wdln-kg40119d1tka@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://153sdok9-kps3-ursl-6su3-9gdfxr28ngjk@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://39ad7d26-09a1-41c1-9a30-d17dfd28de2d@45.90.99.242:8443?type=tcp&security=reality&sni=aws.amazon.com&fp=chrome&flow=xtls-rprx-vision&pbk=LJkDgEjaOEpTTHz4NDhDfE-NUqHVrSIx_OWUekbCqTY&sid=22#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://d0dea598-9047-4567-a934-84c2797c0978@176.120.67.95:8443?type=tcp&security=reality&sni=ozon.ru&fp=chrome&flow=xtls-rprx-vision&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&sid=f1071c148a5aefc4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://telegram-id-ArV2ray@185.234.65.133:4423?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://bi4ywupg-8nxp-13c7-hiwu-emz7grdp55e5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://nyhnjdvx-qc77-rngy-tcsa-v733l6nrrvz8@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
