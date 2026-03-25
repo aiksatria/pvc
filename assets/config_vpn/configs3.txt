@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@51.44.127.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ConfigX2ray
-
-vless://27eb0fca-8d45-4b8c-8bf2-a29451146f42@mahdi.netvip1.ru:2087?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
 vless://910fac92-8630-4a74-a22b-9f8efb398443@rz.TheRetroVip.com:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
 
 vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&security=reality&sid=12af0dd9&sni=tunnel.vk-apps.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
@@ -164,6 +154,10 @@ vless://78c5b6bd-1cb6-463c-bcba-9f17ef70c85b@www.visa.com.sg:8880?path=%2F&secur
 
 vless://1babf197-af69-406e-aae2-83c411ae979f@89.125.78.120:443?security=reality&encryption=none&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3ef8cdbc#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
+vless://27eb0fca-8d45-4b8c-8bf2-a29451146f42@mahdi.netvip1.ru:2087?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&sni=fuck.rkn&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
 vless://1e97f262-296c-45cf-afc0-6ed86f768013@57.129.119.115:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
@@ -183,6 +177,10 @@ vless://4c003bc1-6e72-40d4-8b9b-0e814e315336@snapp.doctor:80?path=%2F&security=n
 vless://8443a8a4-cf3b-42bc-9ea8-899c54194918@193.242.125.155:11892?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://3e8796c1-b19f-474a-a0ff-9df5fa029266@theboy.ultimatechat.shop:38975?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+trojan://telegram-id-directvpn@51.44.127.193:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
+
+trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.193:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
@@ -339,4 +337,10 @@ trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10
 trojan://7964@162.159.33.81:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 hysteria2://auth@49.12.142.89:443?insecure=1&sni=www.microsoft.com&alpn=h3&fastopen=1&up=50&down=100#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Outline_ir
+
+vless://d85af30e-f25e-4208-b7e6-c0595c2b9624@voip7.divar.mom:55007?security=reality&encryption=none&pbk=vxdmULi_cO7dha2aQnsjSViARO15hvI9HWyo0pVPlkQ&headerType=none&fp=chrome&type=tcp&sni=www.amazon.com&sid=c385#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
+
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
