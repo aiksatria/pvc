@@ -44,3 +44,6 @@
 1774519130.405962|Trick_mobil|trojan://eyfamj0w-xpcr-3jm5-z445-n41yb0smv9wp@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 1774519130.405962|Trick_mobil|trojan://bpb-trojan@digiclassor.ir:443?sni=10-Bpb-WOrKer-paneL.pagEs.DeV&peer=10-Bpb-WOrKer-paneL.pagEs.DeV&security=tls#@Trick_mobil
 1774519130.405962|Trick_mobil|trojan://7964@162.159.33.81:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&security=tls#@Trick_mobil
+1774522856.697199|DirectVPN|trojan://telegram-id-directvpn@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+1774522856.697199|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.214.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+1774522856.697199|PrivateVPNs|trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
