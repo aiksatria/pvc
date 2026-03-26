@@ -86,3 +86,10 @@
 1774537282.76211|Trick_mobil|trojan://m65k7f3y-35p2-u9md-h3fe-gmpbajfs05ic@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 1774537282.76211|Trick_mobil|trojan://eo5iydxy-pxbm-3brw-29y0-g6d2py00hdpa@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 1774537282.76211|Outline_ir|vless://bc019623-ecae-4ee0-8826-6e96f6942263@lithuania1.labburo.su:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=Md6aue1Va7LhOd3dfKwSV4GnRCJYKyzf1JmGlD-7IH8&sid=3c7dbf0e7bd3d03c&sni=lithuania1.labburo.su&path=&host=#outline_ir
+1774544280.723102|DirectVPN|trojan://telegram-id-directvpn@52.58.26.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+1774544280.723102|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.26.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+1774544280.723102|PrivateVPNs|trojan://telegram-id-privatevpns@52.58.26.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+1774544280.723102|v2nodes|vless://1f0a8364-ae34-07d0-b999-34a723111ebd@5.42.116.74:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🇷🇺[openproxylist.com] vless-RU
+1774544280.723102|v2nodes|vless://1f0a8364-ae34-07d0-b999-34a723111ebd@72.56.12.195:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#🇺🇸[openproxylist.com] vless-US
+1774544280.723102|manVPN|vless://76ad8213-4617-47eb-92cc-5392b39b45ce@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=eLOQuENt-caSE.ZUlaIR.orG.&type=ws#🆔ManVPN👈IRAN%20144%20%28%40Outline_Vpn%29%20free
+1774544280.723102|manVPN|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.25.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪42MTKW
