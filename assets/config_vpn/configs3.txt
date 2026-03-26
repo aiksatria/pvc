@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://910fac92-8630-4a74-a22b-9f8efb398443@rz.TheRetroVip.com:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40daily_configs
-
-vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.74.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vMinYb8gKWa5nS3KpDcpr31s1guSnow99f_ffRKK3Dg&security=reality&sid=12af0dd9&sni=tunnel.vk-apps.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://130e98f6-18ad-4505-9a6e-6e00424bd058@172.64.146.102:443?allowInsecure=1&encryption=none&host=639073677251729790.corolla-perma.info&path=/jsdrzrws&security=tls&sni=639073677251729790.corolla-perma.info&type=ws#%F0%9F%87%AA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
-
-vless://f1f26b76-ebc8-4f46-a3cf-8438c2f249a0@185.181.208.246:443?encryption=none&fp=chrome&pbk=UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE&security=reality&sid=dc&sni=www.google.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://92b82d0f-d2f8-4f6f-b177-08f681a337e6@192.200.160.20:443?allowInsecure=1&encryption=none&host=639073677243791121.camry-perma.info&path=/njvqoews&security=tls&sni=639073677243791121.camry-perma.info&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20WS-TLS%20%7C%20%40v2nodes
-
-vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@la1.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://41808414-6496-4d3c-89d6-9442f76a155a@94.131.86.204:443?encryption=none&fp=chrome&pbk=pl0X8gUdDuJlCmJkPIgVL3HIbD8pL9LHGVUMgqQIlio&security=reality&sid=c6&sni=www.google.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 vless://f2032be3-a30f-4ba0-9f18-7abc10f4a25e@www.p4free.site:28254?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
 
 vless://a93a8999-82bf-46ff-86a9-fba981f35cdc@85.9.104.8:62727?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
@@ -184,11 +166,17 @@ trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&alpn=http/1.1&
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.127.193:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
 vless://243203a9-77f5-4f55-b0b0-5f4ca08d3b1a@147.45.163.208:9800?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@144.31.1.59:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.sky-vault.top&sid=ae64c9b46bff174a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
 
 vless://b32aa6de-443c-494b-be04-f75c5c2e218c@144.31.131.237:443?security=reality&encryption=none&pbk=B-6reKIRUuJLg_uETy7SY_BqIEdLqOHy1JSLp7bjs2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=md1-2.buzzapi.space&sid=6a3ef901cc88882d#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
+
+vless://910fac92-8630-4a74-a22b-9f8efb398443@rz.TheRetroVip.com:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
@@ -343,4 +331,6 @@ vless://d85af30e-f25e-4208-b7e6-c0595c2b9624@voip7.divar.mom:55007?security=real
 trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://mj5JfghL49jcoBbx4E1GsjQ7YFtC9pYG@77.239.126.65:5540?security=reality&type=grpc&authority=eh.vk.com&serviceName=eh.vk.com&mode=gun&sni=eh.vk.com&fp=chrome&pbk=4s1R7bVPiC0TCN4KRDsamYxDEj8RA7Mp4Fb5G7VbqnA&sid=3ef8cdbc7b7c4c5f#%F0%9F%87%AA%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2nodes
 
