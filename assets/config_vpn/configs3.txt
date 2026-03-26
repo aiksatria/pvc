@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.214.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 trojan://telegram-id-directvpn@13.36.51.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.51.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
@@ -137,4 +131,6 @@ vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=n
 vless://fa803a1e-2ec6-4dc4-a4bd-3718fd48a442@65.21.145.122:25709?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=AFP%2BDQBPAAAgACC9xSlkvyEgSiGP9PerOAyHpYaHe8mkOt25rQvwSOveEwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40ConfigX2ray
 
 vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=?ed%3D2048&sni=dl.io-laptop.ir&fp=chrome&mode=auto&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
+
+vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl.io-laptop.ir&fp=chrome&type=xhttp&sni=dl.io-laptop.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
 

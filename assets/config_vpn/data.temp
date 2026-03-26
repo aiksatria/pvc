@@ -1,6 +1,3 @@
-1774522856.697199|DirectVPN|trojan://telegram-id-directvpn@13.36.214.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1774522856.697199|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.214.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-1774522856.697199|PrivateVPNs|trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 1774530545.005677|DirectVPN|trojan://telegram-id-directvpn@13.36.51.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1774530545.005677|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.51.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 1774530545.005677|PrivateVPNs|trojan://telegram-id-privatevpns@13.36.51.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -129,3 +126,4 @@
 1774564023.269579|v2nodes|vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#🇦🇹[openproxylist.com] vless-AT
 1774564023.269579|ConfigX2ray|vless://fa803a1e-2ec6-4dc4-a4bd-3718fd48a442@65.21.145.122:25709?type=tcp&encryption=none&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&ech=AFP%2BDQBPAAAgACC9xSlkvyEgSiGP9PerOAyHpYaHe8mkOt25rQvwSOveEwAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAAAAA%…#https://t.me/ConfigX2ray
 1774564023.269579|ConfigX2ray|vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=?ed%3D2048&sni=dl.io-laptop.ir&fp=chrome&mode=auto&alpn=h2,http/1.1#https://t.me/ConfigX2ray
+1774567769.691265|FarazV2ray|vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl.io-laptop.ir&fp=chrome&type=xhttp&sni=dl.io-laptop.ir#%40FarazV2ray
