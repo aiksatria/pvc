@@ -4,3 +4,7 @@ vless://a6abf70b-f734-42e5-ace6-208e4d53d207@95.85.234.172:443?encryption=none&f
 
 vless://98d8cefc-499a-4969-9a59-f03e947adf78@87.251.69.48:8443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=at16.fastlanehosting.ru&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-TLS%20%7C%20%40v2nodes
 
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.80.183:51615?security=none&encryption=none&host=zula.ir%2F%3Ftelegram-%40MTMVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
