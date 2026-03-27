@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.36.51.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.51.154:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.36.51.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
 vless://7b85b51d-4b64-4931-854c-5130389297ab@snapp.ir:80?path=%2F&security=none&encryption=none&host=dl2.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
 
 vless://1effb118-1f2d-4577-a689-20e21fb50b13@104.64.32.87:443?mode=multi&security=reality&encryption=none&pbk=LXCcjZmNLdp52SG4KRQ6n_yTjkMO9ZkxQGBf3RJ8tiM&fp=firefox&spx=%2F&type=grpc&serviceName=mci.ir&sni=www.telewebion.ir&sid=cf5415b64e15#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40prrofile_purple
@@ -133,4 +123,8 @@ vless://fa803a1e-2ec6-4dc4-a4bd-3718fd48a442@65.21.145.122:25709?type=tcp&encryp
 vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=?ed%3D2048&sni=dl.io-laptop.ir&fp=chrome&mode=auto&alpn=h2,http/1.1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
 
 vless://9d7c1761-90de-48d1-8eda-31410ac8e848@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl.io-laptop.ir&fp=chrome&type=xhttp&sni=dl.io-laptop.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vless://eef044ee-21f4-4a8a-80cb-0d2af3df34c3@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl.io-laptop.ir&fp=chrome&type=xhttp&sni=dl.io-laptop.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40FarazV2ray
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxIFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogInYzMC5oZGFjZC5jb20iLCAicG9ydCI6ICIzMDgzMCIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ2MzAuaGRhY2QuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 
