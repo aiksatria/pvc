@@ -1,18 +1,2 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.39.70.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.70.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.39.70.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://WF42809561@model-stingray.crayfish192.xyz:443?security=tls&sni=model-stingray.crayfish192.xyz#%F0%9F%87%B3%F0%9F%87%B1%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://3d737761-5951-462e-86c1-ff921d9f9999@au-1.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=93983a&sni=pass.qvinti.net&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://6fcb287e-1b92-4c03-b5ca-aa668dad2f51@S1.LoadBalance.LAT:9090?mode=gun&security=reality&encryption=none&authority=&pbk=OTv4I7eaaqHgYAlL5EIrDlotApPujvk9OoJU58FRGz4&fp=firefox&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=e17185329455b179#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40manVPN
-
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
