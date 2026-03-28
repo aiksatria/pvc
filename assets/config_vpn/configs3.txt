@@ -276,3 +276,5 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&enc
 
 vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
 
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
+
