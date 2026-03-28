@@ -1,8 +1,3 @@
-1774693761.502386|v2nodes|trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com] trojan-FR
-1774693761.502386|VIPV2rayNGNP|vless://fae38aae-0342-4752-834d-3f7d2ec58ea8@172.237.128.199:443?type=xhttp&path=/&host=&mode=stream-one&security=none# https://t.me/ConfigX2ray
-1774697189.984891|DirectVPN|trojan://telegram-id-directvpn@13.37.130.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-1774697189.984891|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.130.107:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
-1774697189.984891|PrivateVPNs|trojan://telegram-id-privatevpns@13.37.130.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 1774702228.53455|Trick_mobil|hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#@Trick_mobil
 1774702228.53455|Trick_mobil|hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#@Trick_mobil
 1774702228.53455|Trick_mobil|hy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
@@ -180,3 +175,5 @@
 1774733235.750885|v2nodes|vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇷🇸[openproxylist.com] vless-RS
 1774733235.750885|manVPN|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.25.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪42MTKW
 1774733235.750885|manVPN|vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.11:80?type=ws&host=cs.laoyoutiao.link&path=/Telegram@TELEGRAM-MTMVPN+/?ed&security=none#🆔ManVPN👈🇺🇸 @ProxySnipeKST6LJ
+1774740501.831708|tik7net_vpn|vless://7c4890be-57ec-4900-9bab-50dfd927021a@2.188.227.168:36729?security=none&encryption=none&headerType=none&type=tcp#%40tik7net_vpn
+1774740501.831708|tik7net_vpn|vless://b358bf1e-cb40-4791-8017-0eb7e70d72ef@2.188.227.168:36729?security=none&encryption=none&headerType=none&type=tcp#%40tik7net_vpn
