@@ -156,3 +156,13 @@ trojan://telegram-id-privatevpns@18.158.157.203:22222?security=tls&alpn=http/1.1
 
 vless://8f3f467e-bf21-41ce-99ea-46625fae1142@185.143.234.122:80?path=%2F&security=none&encryption=none&host=amm3.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFdTLVRMUyB8IEB2Mm5vZGVzIiwgImFkZCI6ICJjaHVuY2hlb24wMy56Z2pvay5jb20iLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjgxZDVjYWM0LWQwMzktNDg3NC05YTIwLWMzOTFmNTgwMDEyZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiY2h1bmNoZW9uMDMuemdqb2suY29tIiwgInRscyI6ICJ0bHMiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
+
+trojan://WF42809561@premium-lab.rooster465.autos:443?allowInsecure=0&sni=premium-lab.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BA%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?mode=auto&path=%2F%40custom_config&security=reality&encryption=none&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&type=xhttp&sni=yahoo.com&sid=fbe3b0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
+
