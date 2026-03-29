@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://d85a60b3-b6c2-4a4e-8ab9-9632a1043751@2.144.7.216:1010?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@185.143.233.235:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=endpoint.parhamm2.ir&path=/&sni=endpoint.parhamm2.ir&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
 vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@phone.parhamm1.ir:80?security=none&allowInsecure=0&encryption=none&type=tcp&host=mirror.arvancloud.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
 vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=none&allowInsecure=0&encryption=none&type=tcp&host=speedtest.net&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
@@ -33,6 +39,20 @@ vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@simcard.parhamm1.ir:5066?security=n
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=%2Fpath&security=none&encryption=none&host=google.com&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40manVPN
 
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.83.129.17:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=sni.111000.indevs.in&path=/&sni=sni.111000.indevs.in&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://19666df6-009d-4426-8f05-7e19b7dc9da9@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=my.simin123.shop&fp=chrome&type=ws&allowInsecure=0&sni=my.simin123.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://19666df6-009d-4426-8f05-7e19b7dc9da9@snapp.ir:443?path=%2F&security=tls&encryption=none&host=my.simin123.shop&fp=chrome&type=ws&sni=my.simin123.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://315fd462-2bf9-416e-8790-bd4a0ad9595a@omgspacir.clearpa66thdata.shop:41647?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://26a8a48e-262c-4e9a-8717-f8976f7cfea2@snapp.ir:80?path=%2FDL%3Fed%3D2053&security=none&encryption=none&host=m4.articler.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://4d0e0ed6-188a-43cd-a1ee-57c987a02e4b@snapp.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kharidfollower.ir&fp=chrome&type=ws&sni=kharidfollower.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://d29cf368-c2d3-4d72-bbc0-cb4588039226@185.143.234.122:80?path=%2F&security=none&encryption=none&host=dl.koremusic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@54.168.243.160:21413?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2nodes
 
@@ -129,10 +149,4 @@ trojan://nk1vkf6b-40mn-6q47-qe9y-kn3gwvukdq0d@127.0.0.1:4080?security=tls&type=t
 trojan://humanity@188.114.98.0:443?sni=www.creationlong.org&peer=www.creationlong.org&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://telegram-id-privatevpns@13.37.210.125:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://d85a60b3-b6c2-4a4e-8ab9-9632a1043751@2.144.7.216:1010?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://08238f73-88ae-49e0-81ad-aa0cf0e901d9@185.143.233.235:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=endpoint.parhamm2.ir&path=/&sni=endpoint.parhamm2.ir&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
 
