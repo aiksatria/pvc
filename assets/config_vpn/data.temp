@@ -192,3 +192,5 @@
 1774812619.296671|DirectVPN|trojan://telegram-id-directvpn@51.44.121.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1774812619.296671|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.121.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 1774812619.296671|PrivateVPNs|trojan://telegram-id-privatevpns@51.44.121.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+1774816123.432651|v2nodes|vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@85.208.108.63:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#🇨🇦[openproxylist.com] vless-CA
+1774816123.432651|v2nodes|vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.82.76.253:443?path=/?ed=2560&Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#🇺🇸[openproxylist.com] vless-US
