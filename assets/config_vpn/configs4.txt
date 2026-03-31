@@ -78,3 +78,15 @@ trojan://telegram-id-privatevpns@15.224.22.33:22222?security=tls&alpn=http/1.1&h
 
 vless://a32240a5-ad06-4075-954b-2fcdd6df5616@185.143.233.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://832169cc-30ca-4e00-bb34-fdee426ef46c@bo2.ghognus.com:29096?security=none&encryption=none&host=nic.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://1a239b2c-a103-4645-9ef8-8ceb23e5f061@po.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+
+vmess://eyJhZGQiOiAibWVsLnVzZHRiYW1hLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjRhNTEzY2QtYmVkYy00YjcyLTlhZjAtYWVlMTgyN2UxZGUwIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQHBycm9maWxlX3B1cnBsZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://be7efcd5-23f9-4281-e772-f88e310d02f1@hamrahiran.sorenashoping.xyz:47345?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+vless://c40d826c-6406-4bbb-b9da-44a9c0160d23@pconf.q2k.ir:80?encryption=none&host=a2pc.yooring.ir&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://16ca4f6f-b540-691b-579a-ceb710a5eb7d@u11-unlim.standalonemsnew.cam:88?security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
