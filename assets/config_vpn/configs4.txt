@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://23d6295f-0337-438f-be52-388bbe321ae4@a.samrayan.ir:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=a.samrayan.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40confegraigan
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.150.74:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 trojan://y6i748bh-1uxi-1gb8-219k-j4zggg6vqsr3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://hakebcnn-hp94-4ebh-t0a7-bouxf948jzbr@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -53,4 +47,12 @@ vless://b4533604-a36e-44d1-a8ab-043df362ba8f@new.idbedam.com:1000?security=none&
 vless://6dbfe3a2-e04c-4aae-a3d7-a6aef2a3bdc2@new.idbedam.com:1000?security=none&type=grpc&headerType=&serviceName=&authority=&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40VIPV2rayNGNP
 
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&he…#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://397e5b06-5adb-40b7-a9f7-314081aeaabc@dash.programming-coding.ir:26228?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://24f7eec5-fd6e-43d9-ab7e-0c048f21ddb8@Arvancloud.ir:2082/?type=ws&encryption=none&path=%2F&host=Cd.bede-baqbon-bilbezane.store&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://b3845dc9-26af-47fe-8b5c-4b94d1cfdc59@adi.asaltabie.online:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=adi.asaltabie.online&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://fc6373a5-39f0-4478-8267-9524395fa125@chatgpt.com:8080?encryption=none&security=none&type=tcp&headerType=http&host=shahr.minecraftiran.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
