@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://67a2738a-9928-4106-a814-a5ac8497a4a5@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
 trojan://telegram-id-directvpn@3.79.124.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.124.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -357,4 +355,6 @@ vless://b4e9234c-4517-400b-ac85-4e4b37657838@iribnewreport.watch-out.ir:443?path
 trojan://telegram-id-privatevpns@35.181.231.212:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
 
 vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://f8db6882-e6b2-4f57-bed8-515d094a39e3@79.175.167.196:4041?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
