@@ -1,21 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://ee740b72-87f6-45e4-a680-85d8d1cc3df1@braskivo.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7HejPU15kdTl9QG_8AygEM3w0ythsbhG6q_SwUumyR0&security=reality&sid=f1071c148a5aefc4&sni=rbc.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://b4533604-a36e-44d1-a8ab-043df362ba8f@new.idbedam.com:1000?security=none&type=grpc&headerType=&serviceName=&authority=&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40VIPV2rayNGNP
-
-vless://0b2fe47a-f51c-4e00-85ba-eeae70addc80@217.25.56.173:443?security=&encryption=none&he…#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://6dbfe3a2-e04c-4aae-a3d7-a6aef2a3bdc2@new.idbedam.com:1000?security=none&type=grpc&headerType=&serviceName=&authority=&mode=multi#%F0%9F%8C%90%20GRPC-None%20%7C%20%40VIPV2rayNGNP
-
-vless://397e5b06-5adb-40b7-a9f7-314081aeaabc@dash.programming-coding.ir:26228?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://24f7eec5-fd6e-43d9-ab7e-0c048f21ddb8@Arvancloud.ir:2082/?type=ws&encryption=none&path=%2F&host=Cd.bede-baqbon-bilbezane.store&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://b3845dc9-26af-47fe-8b5c-4b94d1cfdc59@adi.asaltabie.online:443?encryption=none&type=ws&path=/&security=tls&fp=chrome&sni=adi.asaltabie.online&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
-
-vless://fc6373a5-39f0-4478-8267-9524395fa125@chatgpt.com:8080?encryption=none&security=none&type=tcp&headerType=http&host=shahr.minecraftiran.com#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
 trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?security=tls&sni=sao2.cdn-graph.click#%F0%9F%87%A7%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2nodes
@@ -141,4 +125,12 @@ trojan://2l2sxj4l-hk5b-w7bt-7ajg-u40aembdr0f6@127.0.0.1:2080?security=tls&type=t
 trojan://y3vdy85f-vrs6-a88l-66dk-raac8khufr4m@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vless://a91b9d7f-eca5-43a5-9524-2201817225d6@45.140.167.229:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4UNvbZjAgdHgE666FNCcYos7-9CyJG0vgCdDKmg6uFw&security=reality&sid=4ab2d871&sni=google.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://telegram-id-directvpn@15.188.250.243:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.250.243:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.188.250.243:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://db3df5e2-231c-44c6-83ff-7afe8a154fcc@new.imap33.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=&fp=chrome&type=tcp&sni=cp.dsdivar.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
 
