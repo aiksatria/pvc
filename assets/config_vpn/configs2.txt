@@ -1,5 +1,17 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://vy7142m2-jpfm-1dd0-1dn1-rch3oyhb0t64@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://7lczeqjr-b2lz-upjn-3hqr-lsmq6la23nva@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://v76l1wuw-xmln-bult-dr9j-6pqih6jj95wm@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-privatevpns@52.208.136.122:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://7964@162.159.33.81:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://telegram-id-directvpn@13.37.137.164:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
 trojan://a8195x0b-89fp-kqwc-pt3k-qccn5ypz0xmg@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://1av4kk91-mx2w-swl9-d7zx-3t3bsk1hqhbo@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -14,21 +26,35 @@ trojan://3ftom89v-47io-gzgd-e4kz-5m0ki8462a57@127.0.0.1:4080?security=tls&type=t
 
 trojan://Mojtaba-shieldheart@104.16.155.68:8443?sni=broken-bread-6ba6.shieldheart4.workers.dev&peer=broken-bread-6ba6.shieldheart4.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
-trojan://telegram-id-directvpn@13.38.154.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+vless://e4b5ae50-0b7b-4875-8706-b06dbc56e335@rfiksma.top:13232?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.154.88:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+vless://b678614e-2bd6-4cf4-875b-b12f4c48a823@ww.boldtest.ir:8880?type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
-trojan://telegram-id-privatevpns@13.38.154.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+vless://281ca528-3ea5-4a4d-b531-818f6b4e785d@req.playshoptv.com:443?security=reality&encryption=none&pbk=PmPvtSJjLfQsKDqdzTMrnTCf131Z6bAzmCVgHU7MqgQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=3769cf03#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
 
-vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?type=ws&encryption=none&path=%2F&host=new.sordo.store&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+vless://9c9356a7-edbc-4e12-b566-c8f1f3df550d@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
-vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+vless://7250610a-b2e4-4e1d-9855-cda1a4fcbb93@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
-vless://0fcba976-da97-4f11-aed7-3d55cf275468@rfiksma.top:13232?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+vless://b30db338-2e08-4daf-af29-9ea8660a6709@Mahdi.netvip1.ru:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+trojan://telegram-id-directvpn@18.193.170.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.170.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@18.193.170.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vmess://eyJhZGQiOiAiY2cxYzEyLndhaW1hb2pkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogImNnMWMxMi53YWltYW9qZC5jb20iLCAiaWQiOiAiMDYzMmJmYTktYjE1Yy00MjU3LThjNzUtMzJmN2MwYzUzYjI3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3JhcGhxbCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRkZWNcdWQ4M2NcdWRkZTcgV1MtVExTIHwgQHYybm9kZXMiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@145.249.115.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.244.154.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJwb3J0IjogIjg0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjY1ZTJhOTg1LWFkMjAtNDQ4Ni1hN2VjLWI2N2IyMGVlNTZhZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
 vless://71271480-04bd-45ae-9de5-fb7eb15b57be@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?type=ws&encryption=none&path=%2F&host=new.sordo.store&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
 vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
@@ -46,29 +72,9 @@ vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?path=%2F&securi
 
 vless://097c0561-7dae-4af3-b701-fdc2f7fc5bde@v2.pcjxq.digital:19525?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
 
+vless://64d55326-fb18-4a17-8b96-d88fc091db42@185.143.233.5:80?path=%2Fapi%2Fv2&security=none&encryption=none&host=t.afaghqi.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40PewezaVPN
+
 vless://19f3a750-e0a7-4210-ad3e-694892266e44@vip.securnetwork.lol:8443?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
-
-vless://e4b5ae50-0b7b-4875-8706-b06dbc56e335@rfiksma.top:13232?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://b678614e-2bd6-4cf4-875b-b12f4c48a823@ww.boldtest.ir:8880?type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://281ca528-3ea5-4a4d-b531-818f6b4e785d@req.playshoptv.com:443?security=reality&encryption=none&pbk=PmPvtSJjLfQsKDqdzTMrnTCf131Z6bAzmCVgHU7MqgQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=3769cf03#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
-
-vless://9c9356a7-edbc-4e12-b566-c8f1f3df550d@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
-
-vless://7250610a-b2e4-4e1d-9855-cda1a4fcbb93@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
-
-vless://b30db338-2e08-4daf-af29-9ea8660a6709@Mahdi.netvip1.ru:2082?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-trojan://telegram-id-directvpn@63.183.109.175:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.109.175:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@63.183.109.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
 
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
@@ -113,16 +119,4 @@ trojan://lmje924m-61hi-rovq-j4ut-4d8lixytu75j@127.0.0.1:2080?security=tls&type=t
 trojan://2ieehq6o-sfog-omi6-c3qe-0klv6ssr06bz@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBRENJTC1BU04tMDEgXHUyNTA3IDE0NC4zMS41OC4xMzYiLCJhZGQiOiJjZzFjMTIud2FpbWFvamQuY29tIiwicG9ydCI6NDQzLCJpZCI6IjA2MzJiZmE5LWIxNWMtNDI1Ny04Yzc1LTMyZjdjMGM1M2IyNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwidGxzIjoidGxzIn0#%F0%9F%8C%90%20TCP-None%20%7C%20%40Trick_mobil
-
-trojan://vy7142m2-jpfm-1dd0-1dn1-rch3oyhb0t64@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://7lczeqjr-b2lz-upjn-3hqr-lsmq6la23nva@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://v76l1wuw-xmln-bult-dr9j-6pqih6jj95wm@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://telegram-id-privatevpns@52.208.136.122:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://7964@162.159.33.81:443?sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&peer=v2ngfast-v2ngfast-v2ngfast-v2ngfast.novaye6130.workers.dev&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://telegram-id-directvpn@13.37.137.164:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
