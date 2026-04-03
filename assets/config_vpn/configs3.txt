@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiNDcuOTAuMjQ0LjE1MyIsICJwb3J0IjogIjg0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjY1ZTJhOTg1LWFkMjAtNDQ4Ni1hN2VjLWI2N2IyMGVlNTZhZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
-vless://71271480-04bd-45ae-9de5-fb7eb15b57be@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?type=ws&encryption=none&path=%2F&host=new.sordo.store&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
-
-vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://60a3a29e-a6ec-4964-9bad-d11e63caa80a@marzgozar.shervinvip.site:2056?security=none&encryption=none&host=mci.ir&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40proxy_tunnel
-
-vless://88f964e1-4ab8-4280-9557-e1cd573abdec@forimarket.2.globalmymusic2.com:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=best.3.iran.avenflow.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?path=%2Ftelegram-MTMVPN&security=none&encryption=none&host=us.laoyoutiao.link&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
-vless://e37b9758-5026-4825-a4fb-8ef974103341@api.playshoptv.com:43173?encryption=none&type=tcp&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
 vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=new.sordo.store&fp=chrome&type=ws&allowInsecure=0&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40PewezaVPN
 
 vless://097c0561-7dae-4af3-b701-fdc2f7fc5bde@v2.pcjxq.digital:19525?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40PewezaVPN
@@ -100,6 +82,8 @@ vless://e4b5ae50-0b7b-4875-8706-b06dbc56e335@rfiksma.top:13232?security=none&enc
 
 vless://b678614e-2bd6-4cf4-875b-b12f4c48a823@ww.boldtest.ir:8880?type=ws&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
+vless://7d4f9ad9-060e-4f12-b957-f4bdee8ed62f@new.sordo.store:443?type=ws&encryption=none&path=%2F&host=new.sordo.store&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=new.sordo.store#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnplusee_free
+
 vless://281ca528-3ea5-4a4d-b531-818f6b4e785d@req.playshoptv.com:443?security=reality&encryption=none&pbk=PmPvtSJjLfQsKDqdzTMrnTCf131Z6bAzmCVgHU7MqgQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.amazon.com&sid=3769cf03#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
 
 vless://9c9356a7-edbc-4e12-b566-c8f1f3df550d@193.151.134.247:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
@@ -119,4 +103,12 @@ vmess://eyJhZGQiOiAiY2cxYzEyLndhaW1hb2pkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogImNn
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@145.249.115.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
 vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.244.154.200:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.201:18390?security=tls&fp=chrome&type=tcp&sni=osl7.solidly.click#%F0%9F%87%B3%F0%9F%87%B4%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://b4e9234c-4517-400b-ac85-4e4b37657838@iribnewreport.watch-out.ir:443?path=%2Fj%2F47164&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://telegram-id-ArV2ray@151.101.3.8:80?mode=auto&path=%2F-Arfilter@Arfilter-TEL--@Arfilter-TEL--@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL-@Arfilter-TEL--@Arfilter-JOIN-@Arfilter-TEL--@Arfilter&security=none&encryption=none&host=Mislebqoapdnwan.com&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-None%20%7C%20%40manVPN
+
+vless://telegram-id-ArV2ray2@www.speedtest.net:8880?path=%2F-Arfilter%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL-%40Arfilter-TEL--%40Arfilter-JOIN-%40Arfilter-TEL--%40Arfilter&security=none&encryption=none&host=www.speedtest.net.a.3.speedtest2029.com.&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40manVPN
 
