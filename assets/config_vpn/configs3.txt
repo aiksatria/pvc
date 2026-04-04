@@ -114,3 +114,5 @@ vless://e013cae2-2922-4874-914d-abd98eb8342d@ww.parspas.ir:8880?path=%2F&securit
 
 vless://42a0497e-39cc-4353-bc77-bd490a23cb7e@84.201.166.166:9443?type=tcp&sni=travel.yandex.ru&fp=chrome&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&flow=xtls-rprx-vision&allowInsecure=1#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vpnsal
 
+vless://ffa37367-6313-4cc5-86bd-3d8dc879c24e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
