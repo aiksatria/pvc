@@ -218,3 +218,35 @@ vless://6a89dc04-7781-46fe-b35c-e14a6b6e60b8@allsms.rozfa.com:443?path=//%3Fed%3
 
 vless://8b4f8df8-6d93-4b75-9906-b30c96a9ebc4@ww.parspas.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
+vless://e911c552-3a98-41e0-b5fb-0dd3879887b7@78.158.166.180:2096?path=%2Fapi%2Fv1%2Firc&security=tls&alpn=h2&encryption=none&host=vod.ensf.top&type=ws&sni=vod.ensf.top#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@shop.app:2053?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://7d7d00cb-53a3-4cb4-bef7-3b2d431b1107@104.21.47.38:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=telegram.proxie1-tel.workers.dev&path=%2FeyJqdW5rIjoiRlpGZjNZYno0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=tElEgRAm.proXIE1-tel.WORKers.deV&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://bf710ad2-4a43-4379-aa73-e684f00b6240@172.67.147.175:443?allowInsecure=1&encryption=none&host=broad-sky-9360.k7uztejf9ief.workers.dev&security=tls&sni=broad-sky-9360.k7uztejf9ief.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
+
+vless://ee6817f6-50fe-4114-b7ff-ce853b144282@45.136.129.109:59999?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&security=reality&sid=7c8d9e0f&sni=yastatic.net&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
+
+vless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?allowInsecure=1&encryption=none&host=hex.1tb.workers.dev&security=tls&sni=hex.1tb.workers.dev&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@38.135.53.160:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.vk.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
+
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
+
+trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.3.246:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://d7554bde-44d0-4466-8f87-0d68740e8951@147.45.153.236:443?encryption=none&fp=chrome&pbk=e1zt8g2cuQ9xfJR_fSrFbvD4gYCJcI0c-WYOMgId7xY&security=reality&sid=3c07801500a8&sni=www.vk.com&type=tcp#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
+
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.ftc.net:2053?encryption=none&host=qyi.fqjd663.ggff.net&path=%2F&security=tls&sni=qyi.fqjd663.ggff.net&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.215.249:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
