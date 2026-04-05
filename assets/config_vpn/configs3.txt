@@ -250,3 +250,21 @@ vless://8c4604ef-749c-4b56-adf1-7da405002a21@www.ftc.net:2053?encryption=none&ho
 
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.215.249:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://83249e96-5791-45ec-a81a-f5ff6c781b1b@vip-meli6.nightgemshop.com:41765?security=&encryption=none&headerType=&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40Free_World2
+
+vless://263552aa-5a5e-4703-a42d-374bda1566f6@snapp.ir:8080?path=%2F&security=none&encryption=none&host=titus.Tomas-gs.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Free_World2
+
+trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Free_World2
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.94.77.169:2053?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F&security=tls&sni=sni.111000.v6.navy&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Free_World2
+
+vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.12.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Free_World2
+
+vless://86a0b881-10a8-0541-151f-d161aa99380a@cloud3.vpsino.com:6344?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
+
+vless://fd9a715b-340f-45d8-9296-c172e413bb87@arvancloud.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=ai.faloweram.ir&type=ws&allowInsecure=0&sni=ai.faloweram.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vmess_iran
+
+vless://e05482d4-ba12-41ac-af45-2bf2afc56b4a@46.31.76.3:80?mode=auto&path=%2Fpwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40manVPN
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
