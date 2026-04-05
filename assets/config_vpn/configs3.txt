@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://f17d4129-ee8b-48f4-baa6-89de1e906b8e@45.152.113.189:4440?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=files.moscownews24.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
-
 trojan://telegram-id-directvpn@3.77.109.217:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.109.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -187,4 +185,16 @@ vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@45.39.255.21:8443?encryption=none&f
 vless://bc4d97ba-d54f-4555-ba71-f7421796d92c@185.143.234.111:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=frontend.parhamm2.ir&path=/&sni=frontend.parhamm2.ir&fp=random#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
 
 vless://b41ce518-dee4-4590-a42d-bed6185f1f30@snapp.ir:80?path=%2F&security=none&encryption=none&host=arc.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://ed052da1-2cdf-451e-8212-cb4f59ba6c39@germany.fast.hosting-ip.com:80/?type=xhttp&path=%2F%3Fed%3D2048&host=cafepedia7.net&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40manVPN
+
+vless://7349bbae-4b76-4c60-aece-053b1b3fbf04@germany.fast.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=cafepedia7.net&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40manVPN
+
+vless://6474f608-e5aa-4f81-8a2b-600d10c257da@tamin.ir:80?path=%2Fir&security=none&encryption=none&host=m2.y101.ir&fp=chrome&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://cde730ef-5d37-42dc-b59b-0c9b918d79b9@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://d5f620c2-c10a-49c5-b3f7-a49cedd0ed26@q.gostargate.top:8080?security…#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
