@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
-
-vless://6fb4c229-6f9a-449a-a533-9f2a8040c71c@185.238.140.212:443?security=reality&encryption=none&pbk=gMpp8SHZ5tGcxwaUEZ4e-ZHa8J0qIV7S5C0iO-qkEEE&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid= 6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40VIPV2rayNGNP
-
 trojan://0acb6dof-xwlr-s0bp-aqat-ioaxoaws3ig5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://xo8qxthl-g1yd-uryc-hk2r-wivzisti3l5n@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -73,4 +65,8 @@ vless://1a08696e-a375-4cf2-b303-b5b6f950f830@1NIFP6G:80?security=none&type=ws&he
 vless://1a08696e-a375-4cf2-b303-b5b6f950f830@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=arc.liarashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
 vless://1a08696e-a375-4cf2-b303-b5b6f950f830@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=ar.liarashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@5.252.23.53:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=576eZ6y-yeWeJnmleDLI5bjyy90_Zd92-rpgy67Q6gg&security=reality&sid=555fd87c44d272a4&sni=www.hyundai.com&type=tcp#%F0%9F%87%B8%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://c984bf83-d7cb-49d5-98ba-6ed29bf419f0@out1.un1ty.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
