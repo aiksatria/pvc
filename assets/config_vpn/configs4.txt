@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://603885a7-a570-4911-a74b-8e4eae5f7cd1@final.idbede.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://37bd59ad-2606-4f67-9d8d-cca22120a0fe@turki.esrtz.onl:8080?security=none&allowInsecure=0&encryption=none&type=tcp&host=fast.com&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.160.144:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2nodes
-
-vless://0123bfb9-41df-4d43-a292-58f4ab35d43e@fast.talesh.top:1382?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-trojan://telegram-id-v2rayvpnchannel@13.38.177.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
-
 vless://f08fd73b-6ec6-4bc5-80ec-34d3fa6cc6d5@1.9.reflecion.shop:35116?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 vless://2c432e61-9b1e-44bc-ab13-a5d8e104a32a@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
@@ -37,4 +27,22 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encr
 vless://c3af5997-2b5a-411f-8fee-8c1a7aa879b1@185.143.233.122:443?path=%2Flogin%2Fget%2F3929429349.rar%2Ffortnite&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=database-cbv.persianstorebnd.ir&fp=firefox&type=ws&allowInsecure=0&sni=database-cbv.persianstorebnd.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
 vless://b69eb4db-eb7a-416b-b314-b5173112e543@vip.gxnetshop.ir:1015?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://b8906ad5-7b9f-4e49-9999-5ba6d7c78c1a@185.143.234.122:80?path=%2F&security=none&encryption=none&host=S2.koremusic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=%2F&security=&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigX2ray
+
+vless://7dfb08b3-420d-4aaa-b7e4-5d85068eb774@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://dbffbd74-59db-46a3-942c-e8f543e36914@188.121.125.121:2000?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://0bf3ab52-e1b1-49e2-bfa5-389d9a251710@mim.md-teach.com:8443?encryption=none&type=ws&host=md2.moradi.online&path=/&security=tls&fp=chrome&sni=md2.moradi.online&alpn=h2,http/1.1,h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://0bf3ab52-e1b1-49e2-bfa5-389d9a251710@mim.md-teach.com:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=md2.moradi.online&path=/&sni=md2.moradi.online&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://0316fa1e-9d75-4b58-b838-c633d2fb87c1@final.digitalldns.com:8443?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?type=httpupgrade&encryption=none&path=%2F&host=non.zabuzabfr.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40VIPV2rayNGNP
+
+vless://6c40b547-cf6d-46fc-9c40-2976d3559a22@ss.trustpro.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
