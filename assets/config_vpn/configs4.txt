@@ -1,24 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://b8906ad5-7b9f-4e49-9999-5ba6d7c78c1a@185.143.234.122:80?path=%2F&security=none&encryption=none&host=S2.koremusic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?path=%2F&security=&encryption=none&host=non.zabuzabfr.ir&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40ConfigX2ray
-
-vless://7dfb08b3-420d-4aaa-b7e4-5d85068eb774@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://dbffbd74-59db-46a3-942c-e8f543e36914@188.121.125.121:2000?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
-
-vless://0bf3ab52-e1b1-49e2-bfa5-389d9a251710@mim.md-teach.com:8443?encryption=none&type=ws&host=md2.moradi.online&path=/&security=tls&fp=chrome&sni=md2.moradi.online&alpn=h2,http/1.1,h3#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
-vless://0bf3ab52-e1b1-49e2-bfa5-389d9a251710@mim.md-teach.com:8443?security=tls&allowInsecure=0&encryption=none&type=ws&host=md2.moradi.online&path=/&sni=md2.moradi.online&fp=chrome&alpn=h2,h3,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
-vless://0316fa1e-9d75-4b58-b838-c633d2fb87c1@final.digitalldns.com:8443?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vless://74c5af8f-1801-42a2-99ae-f3e5b7f3258a@non.zabuzabfr.ir:8880?type=httpupgrade&encryption=none&path=%2F&host=non.zabuzabfr.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40VIPV2rayNGNP
-
-vless://6c40b547-cf6d-46fc-9c40-2976d3559a22@ss.trustpro.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
 vless://9b4fd9d0-0508-4bcb-b60e-4275adb878bb@games.shabroo.com:6690?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://43488128-319e-f480-64ea-0acdc712e2a8@64.176.166.143:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tboI265nKvT77HoZPyA6bgZNuLap_Jy-XvAx2-4Rcwk&security=reality&sid=0c1553316a645758&sni=store.steampowered.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@45.143.167.170:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=a1b2c3d4e5f6&sni=www.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://f3a1017d-1ebf-11f1-8cae-c3845d39d2de@81.19.141.91:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=cafe01234567&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@104.194.158.80:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=a1b2c3d4e5f6&sni=www.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://bf5e8fce-29c8-4e21-891f-29200235e61a@mail.pastelluna.ir:13?encryption=none&type=xhttp&mode=stream-one&path=/&security=reality&fp=chrome&sni=aparat.com&pbk=bWvT77oE55ycFnzyQViVorwvD5w5bgL38w8bls-_LUc&sid=60&spx=/6mkXDptcNNyMojZ#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40VIPV2rayNGNP
+
+vless://b4e9234c-4517-400b-ac85-4e4b37657838@iribnewreport.watch-out.ir:443/?type=ws&encryption=none&path=%2Fj%2F47164&security=tls&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
