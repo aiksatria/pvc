@@ -204,3 +204,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.83:443?allowInsecure=1&e
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.149:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+trojan://telegram-id-directvpn@13.39.166.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.166.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.39.166.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://8c53daee-2173-4889-a483-4f698b4b0432@tangerine-5545db500b-kamdaug.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&insecure=1&host=tangerine-5545db500b-kamdaug.apps.ir-central1.a…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
+
