@@ -1,15 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
-
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?security=none&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
-
-vless://88be0cbb-12de-47fe-81a2-ba6b3bde5ebc@188.121.121.128:443?security=reality&encryption=none&pbk=VU5fpzPnI7AspEpuXy9uNKrXS3HwlGq4hjp5gYBg_hQ&headerType=none&fp=chrome&spx=%2F6blEdti7lYW9Hl1&type=tcp&sni=www.aparat.com&sid=8aab12ab78afcd53#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
-
-vless://88be0cbb-12de-47fe-81a2-ba6b3bde5ebc@188.121.121.128:443?security=reality&encryption=none&pbk=VU5fpzPnI7AspEpuXy9uNKrXS3HwlGq4hjp5gYBg_hQ&headerType=none&fp=chrome&spx=%2F6blEdti7lYW9Hl1&type=tcp&sni=www.aparat.com&sid=8aab1…#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40BrilliantGift
-
-vless://d2f66ace-8e0e-4cd4-bafe-d6a126bcd127@star.fast-uploader.net:6004?security=&encryption=none&host=cafeariel.ir&headerType=http&fp=firefox&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
 vless://d2f66ace-8e0e-4cd4-bafe-d6a126bcd127@star.fast-uploader.net:6004?security=none&encryption=none&host=cafeariel.ir&headerType=http&fp=firefox&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
 
 vless://8aec2d92-0e14-adb5-d004-072ee9955f35@titan.socialxxmedia.pro:1937?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=titan.socialxxmedia.pro#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
@@ -21,6 +11,8 @@ vless://4ba9a59a-fd53-4fcd-b206-69ce84abd6f2@verso.legion-bot.site:443?path=%2Fv
 vless://c71b2a75-cb1d-452f-b85b-8918c76d5f6a@151.101.192.223:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
 
 vless://275f7e47-e57b-47fb-ba75-5eb40ff79453@37.152.189.74:4431?security=none&allowInsecure=0&encryption=none&type=ws&host=live-azd1102.telewebion.ir&path=/ek/irinn/live/1080p/#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.158.166.180:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
 trojan://telegram-id-directvpn@51.45.56.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
@@ -229,4 +221,8 @@ vless://ea27e2ab-7095-4e5a-93df-75ff738ae4c0@sv2.lokhtkon.site:53514?security=no
 vless://2101adeb-fe06-4aa2-8323-cc2178b60f6a@snapp.ir:80?path=%40Gangstersdonotcry&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@146.19.254.220:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&security=reality&sid=deadbeef42&sni=www.apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://1a76bf9d-e3f8-49ca-a0ca-d7388ecf452f@194.147.221.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pbO31C8T53OfUhnw152DBaQ0qRPPcStHth61s5OYdV4&security=reality&sid=aabbccdd&sni=www.microsoft.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
