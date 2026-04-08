@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://187dda4498be9ac4f28db939d5940185@160.16.132.38:29370?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
-
 trojan://telegram-id-directvpn@35.157.169.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.169.92:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -191,4 +189,16 @@ vless://aca8bc97-2e78-4933-8bc8-ada7cd5a5f20@94.182.92.94:10552?security=none&en
 trojan://Xh-7ctiKWe95VbDKYB50TQ@vip4.srvtg.com:2585?security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
 vless://TrueVPN@idpay.ir:80?encryption=none&security=none&type=xhttp&host=sv2.hormozgantennis.ir&path=%2Fblog%3FTRUEVPN-TRUEVPN&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://6c25102c-da39-40e6-958d-e46d21e0b21a@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.airasiadl.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://b917d23a-7d43-4a88-a872-4e17befe3c58@AM-188.2.globalmymusic2.com:80?encryption=none&type=ws&headerType=none&path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&host=best.3.iran.avenflow.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://b917d23a-7d43-4a88-a872-4e17befe3c58@AM-188.2.globalmymusic2.com:80?encryption=none&type=ws&headerType=none&path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.t…#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://c387b0f2-5d9e-4c95-882d-1d5eeb443ce2@varzesh3.com:443?path=%2Fmovie&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nginx-3b1e7ed824-abol.apps.ir-central1.arvancaas.ir&fp=#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://TrueVPN@188.121.109.209:80?type=xhttp&encryption=none&path=%2Fblog%3FTRUEVPN-TRUEVPN&host=six.hormozgantennis.ir&mode=auto&security=none#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40VIPV2rayNGNP
 
