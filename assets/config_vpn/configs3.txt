@@ -148,3 +148,7 @@ vless://51e673c9-6e15-4268-802a-439fb27a542a@104.17.148.22:80?path=%2FMosiv2---M
 
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#%F0%9F%87%BA%F0%9F%87%B8%20HTTPUpgrade-TLS%20%7C%20%40manVPN
 
+vless://fb23ca7d-c435-4d1d-8912-97639b9e4135@st.alaedinshoping.com:58318?security=none&encryption=none&host=Filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ultrasurf_12
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFRDUC1Ob25lIHwgQHYybm9kZXMiLCAiYWRkIjogIjIxNi4xMDYuMTgzLjM1IiwgInBvcnQiOiAiMjIzMjQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
