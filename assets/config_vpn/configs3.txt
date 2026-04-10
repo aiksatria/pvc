@@ -1,27 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@3.76.25.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.25.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.76.25.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://dd1f7d8e-02ed-4292-ad57-c8e837b0e371@185.143.234.5:443?encryption=none&type=ws&host=alef.ir.oadeflantrogm.abrirmahan.com&path=/?ed%3D443&security=tls&fp=randomized&sni=alef.ir.oadeflantrogm.abrirmahan.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
-
-vless://ab5ea12b-ffc9-4b61-a174-e5bd68c29c84@koroqlu.ir:49899?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://2101adeb-fe06-4aa2-8323-cc2178b60f6a@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=ar.liarashop.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://d94ed1b2-0128-4842-896d-27f2239e5203@vp.irajapan.store:20202?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
-
-vless://344c6974-6621-413b-8c39-222093bbc2b0@37.152.189.74:4431?security=none&type=ws&headerType=&path=%2Fek%2Firinn%2Flive%2F1080p%2F&host=live-azd1102.telewebion.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://45963c75-f9d2-4c90-93b2-20e6188f9873@final.usdtbama.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://1d088ad0-3831-4588-8a20-00d9e27da330@85.198.10.195:80?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
-vless://8a41fccd-f65d-4eae-9241-f7df4dfeeacc@elite.tornado-ping.com:26261?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
-
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?insecure=1&sni=🔒#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -222,6 +200,8 @@ vless://aebb73e5-e656-4d84-8844-87fbcff612cb@37.32.27.85:80?path=%2F&security=no
 
 vless://1ec3774f-e4b9-4c65-9e4a-c6250efc5695@37.32.27.85:8080?path=%2F&security=none&encryption=none&host=a1.supreme-xfast.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40configraygan
 
+vless://45963c75-f9d2-4c90-93b2-20e6188f9873@final.usdtbama.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
+
 vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&security=tls&encryption=none&host=de02.abvpn.ru&type=ws&sni=de02.abvpn.ru#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://f88fc142-cd33-47bc-a2cb-bf657a9922b4@final.digitalldns.com:8443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40configraygan
@@ -277,4 +257,16 @@ trojan://telegram-id-privatevpns@35.180.106.44:22222?security=tls&alpn=http/1.1&
 vless://2e791d3a-bcf2-4580-a4fd-e9a80d125b77@keendatastarvipconect.navidsa.sbs:51882?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ultrasurf_12
 
 vless://6845b107-4bd7-4b63-92d8-c7d3cb21bb8d@valen.vlaen776.sbs:28889?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.180.11.15:443?&security=tls&fp=chrome&sni=3-7v4.pages.dev&type=ws&headerType=none&host=3-7v4.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#%F0%9F%87%B4%F0%9F%87%B2%20WS-TLS%20%7C%20%40v2nodes
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAiZ3RtMS5rdG13YW4ubmV0IiwgInBvcnQiOiAiMTI4ODgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjIxMzI0ZTc3LWI0ZDItNGZjYS04ODg0LTVlOGI3NTgzNmQyYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+
+vmess://eyJhZGQiOiAiMTA3LjE3NS45MS4xMTgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjFiYjFmOTVmLTc0MjUtNDQ0Mi05M2Y3LThmYzFiZDFhMjAwMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXktd2lzcCIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLVRMUyB8IEB2Mm5vZGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+vless://97bd457e-77dd-4895-90dc-633bd51f0e78@snapp.ir:80?path=%2F&security=none&encryption=none&host=br.dbrun-gorsap.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
+
+vless://eac32a6e-414d-4d09-bf33-edab977fedd8@vip-nightgemshop.sap-tanbol.ir:80?path=%2F&security=&encryption=none&host=vip-nightgemshop.sap-tanbol.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://93657156-0c60-49e3-84f9-95321f36d0f1@varzesh3.com:2082?path=%2F&security=none&encryption=none&host=salamirani.radv.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
