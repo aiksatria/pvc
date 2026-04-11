@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@3.75.144.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.75.144.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@3.75.144.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://ef87653e-f1e4-4e47-9202-474557f924e9@acv-76.f-sub.xyz:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ultrasurf_12
-
 vless://08c41e17-9d1c-4d4a-9edc-242d3d71c1ac@188.114.97.3:443?security=tls&%3Bsni=oRdEr.fortGIFT.ir&%3Balpn=http/1.1&%3Bfp=randomized&%3Btype=ws&%3Bpath=**/B7tnDeiaEFHTS0Li**&%3Bhost=order.fortgift.ir&%3Bencryption=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40netmelli15
 
 vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=%2Fpwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-Reality%20%7C%20%40manVPN
@@ -307,4 +299,12 @@ trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&h
 trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
 
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80/?type=ws&encryption=none&flow=&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://82b5b465-3307-4a25-acef-abd1649bbedf@nl1.samovargate.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://de55177f-80f2-45e5-aea5-2b69b6f93698@final.idbedam.com:8443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40netmelli15
+
+vless://bca367b1-8a15-4b52-ba7f-9d708f981526@185.143.232.32:8080?path=%2F&security=none&encryption=none&host=ir-st5.ge9.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://974b3230-5193-44c9-984b-4c4c8da344bb@37.32.27.85:80?encryption=none&type=ws&host=a1.supreme-xfast.ir&path=/&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
