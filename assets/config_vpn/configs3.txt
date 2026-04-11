@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://94d805fa-a93b-4d39-a043-4e3516dc1cd0@185.143.234.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vmess://eyJhZGQiOiAicHQtbmdpbngtdGVoLWVjZjM5ZDE4YzktcnJodnAuYXBwcy5pci10aHItYmExLmFydmFuY2Fhcy5pciIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGM3NDhiNWQtMjBhNS00NThmLTgyNTYtNGI3OGJiNWViZGM0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvZGlyZWN0IiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1UTFMgfCBAQ29uZmlnWDJyYXkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@194.87.240.185:2083?path=/trojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%F0%9F%87%A7%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
 
 trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
@@ -99,4 +95,32 @@ vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002/?type=ws&e
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=dsfr.parsimas.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002?path=%2F&security=none&encryption=none&host=igap.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+trojan://telegram-id-directvpn@15.236.102.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.102.48:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.102.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://d0643e54-5c6e-47c9-b950-ec9ffe83a32d@ip.iran.mobileemdad.top:8080?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://6a26ac1a-074f-4cfb-8917-e611a9fc93d3@turk-shop.runawaygablo.site:39854?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vless://682dd228-efcd-46cc-96b4-20a070003c9d@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://d789b04a-a47d-4fb0-89c5-63ecaf1d586e@185.143.233.104:8080?path=%2Fws&security=none&encryption=none&host=hz.deragonconfig.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ultrasurf_12
+
+vless://1e45a266-9a04-47af-b703-e53a67373cc9@45.86.70.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zQ3SBKNWRtAsrnU-Y2XiSEHodF_sgZ3UsKNfmIwRbjI&security=reality&sid=9ff26c38f9b488&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@dongjing2.zqjsqapi.com:443?encryption=none&security=tls&sni=dongjing2.zqjsqapi.com&type=ws&host=dongjing2.zqjsqapi.com&path=%2Fproxy#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2nodes
+
+vless://e79adaed-57f2-46c1-8b5b-a70d5b4b3410@snapp.ir:8080/?type=ws&encryption=none&flow=&host=vip.elmovipservice.ir&path=%2Fpath#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://e79adaed-57f2-46c1-8b5b-a70d5b4b3410@snapp.ir:8080/?type=ws&encryption=none&flo w=&host=vip.elmovipservice.ir&path=%2Fpath#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
+
+vless://0b5df3ea-c7d6-49e3-a2f9-9e550d11cc8a@snapp.ir:2052?path=%2F%3Fed%3D2560&security=&encryption=none&host=arvv.teamlifez.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://46235eef-378b-4b28-9733-4dcd13f51b9f@Strlink.academybartar.fun:12809?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://d789b04a-a47d-4fb0-89c5-63ecaf1d586e@185.143.233.104:8080?path=%2Fws&security=&encryption=none&host=hz.deragonconfig.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
