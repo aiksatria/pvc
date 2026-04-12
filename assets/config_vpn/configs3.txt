@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://187dda4498be9ac4f28db939d5940185@13.231.242.181:9201?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://telegram-id-privatevpns@63.183.254.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
-
 trojan://telegram-id-directvpn@3.121.58.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.58.242:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
@@ -263,4 +259,12 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=%2…#%F0%9
 vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
 
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://c9e8702e-a8ee-4e65-adf8-8dce8254fb14@a-m.iran-mehrbu.ir:3348?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
+vless://f1b6f91d-a1f3-42b1-9ed1-572c5d322cde@smartwiew.totalwarseriesgameserver.ir:2001?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
+vless://66383431-6263-4136-a436-343833616164@46.38.151.42:3128?path=%2Fus%2Fl%2Fw%2FY3YwGNO9Gl7jnlTD%3Fed%3D2047&security=none&encryption=none&host=mail.nic.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40netmelli15
+
+vless://322053d0-ce20-4da2-9415-6a275ae67838@static1.firenetapp.ir:30047?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=&encryption=none&host=static2.firenetapp.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
