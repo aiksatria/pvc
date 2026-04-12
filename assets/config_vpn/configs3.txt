@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?allowInsecure=1&alpn=http%2F1.1%2Ch2&encryption=none&security=tls&serviceName=grpc&sni=nice.ducks.tel&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-TLS%20%7C%20%40v2nodes
-
-trojan://telegram-id-privatevpns@35.180.104.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://MdVpnSec@91.99.199.145:443?security=reality&encryption=none&pbk=Nx4K6MTHh3ZDnRbOTc0ZORSZ-lh6IXuIc9K-sM5mrXA&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=7399588d8eeb#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
 vless://fafe7971-b3fb-4f99-a9d7-46374153f64e@a-m.iran-mehrbu.ir:3131?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
 vless://fcfb8d41-5e52-4604-8279-3c9357241cd8@185.143.233.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
@@ -295,4 +287,14 @@ vless://080c3754-5cde-4320-ba78-8b86c804c0b4@snapp.ir:8080?path=%2F&security=non
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40manVPN
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://2cb978f2-772b-47a3-8399-c7ca12ff281c@snapp.ir:80?encryption=none&security=none&type=ws&host=c.hshonar.ir&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://09b2d3cc-551a-4e4f-a816-671ea55f9278@snapp.ir:80?type=ws&encryption=none&path=%2F&host=n1.abantrust.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://65810b67-7c80-4448-abea-f317824701c5@4NWTX7W_TEST:80?security=none&type=ws&headerType=&path=%2F&host=liarashop.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
+vless://65810b67-7c80-4448-abea-f317824701c5@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=arc.liarashop.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40BrilliantGift
+
+vless://65810b67-7c80-4448-abea-f317824701c5@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=ar.liarashop.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40BrilliantGift
 
