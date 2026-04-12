@@ -8,3 +8,7 @@ vless://MdVpnSec@91.99.199.145:443?security=reality&encryption=none&pbk=Nx4K6MTH
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://fafe7971-b3fb-4f99-a9d7-46374153f64e@a-m.iran-mehrbu.ir:3131?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
+
+vless://fcfb8d41-5e52-4604-8279-3c9357241cd8@185.143.233.235:80?security=none&allowInsecure=0&encryption=none&type=ws&host=vixon.portab.org#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
