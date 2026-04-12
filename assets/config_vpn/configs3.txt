@@ -268,3 +268,19 @@ vless://66383431-6263-4136-a436-343833616164@46.38.151.42:3128?path=%2Fus%2Fl%2F
 
 vless://322053d0-ce20-4da2-9415-6a275ae67838@static1.firenetapp.ir:30047?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=&encryption=none&host=static2.firenetapp.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
+vless://e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04@104.18.12.149:2053?mode=auto&path=%2F&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=itfgnf…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40vmessorg
+
+trojan://telegram-id-directvpn@51.45.0.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.0.19:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.45.0.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://050fb692-dba7-4b69-b1fd-182c8e1c53eb@ge-6.flowersyellow.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&security=reality&sni=www.samsung.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://2202983c-4238-4beb-8519-27cd3dcd12ab@109.234.39.219:443?encryption=none&fp=chrome&pbk=iE7UA_fWJTdKZ2SUaAMY_8F9hpawC14D431KNkcXfkI&security=reality&sid=de71&sni=yahoo.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://82b5b465-3307-4a25-acef-abd1649bbedf@fr1.samovargate.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&security=reality&sid=f04729f65b9ea261&sni=www.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://110d7bad-5e17-4ce3-afd0-2cf2ebc71787@n05.zqwerty.ru:2053?encryption=none&fp=chrome&pbk=aFsY-EZjSNTomlAFShKwQIQMJ5pHiZQXXJpWvcz8WkQ&security=reality&sid=0858af97f4e7324d&sni=music.yandex.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
