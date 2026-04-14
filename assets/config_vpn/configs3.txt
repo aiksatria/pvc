@@ -1,13 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://a5dcba0c-78ce-4108-b545-bca2092bbee3@62.60.197.67:4090?path=%2Fwss%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=c1.semnanse.sbs&fp=chrome&type=ws&allowInsecure=0&sni=c1.semnanse.sbs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
-
-vless://f645c00e-92ee-4028-8512-0d81fecc1ab5@185.209.42.213:36729?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-vmess://eyJhZGQiOiAic25hcHAuaXIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAidmlwMi5hcmlhdGFrcG95YW4uaXIiLCAiaWQiOiAiYTEyZWJiNzMtNTZkYi00YzY0LTgxYjQtYmE0MjkxYTI5MzBlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90YWsiLCAicG9ydCI6ICIyMDk1IiwgInBzIjogIlx1ZDgzY1x1ZGYxMCBXUy1Ob25lIHwgQFZJUFYycmF5TkdOUCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-
-vless://03ab6794-0c03-4c6c-adc5-2767a5ac9dc5@plesk.iranwiki.mom:55002?path=%2F&security=none&encryption=none&host=igap.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
 vmess://eyJhZGQiOiIxMDQuMTguMTIuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc29vbnRlYW0udG9wLiIsImlkIjoiNzVlMDM1MjYtODM4Ny00ZDEwLWExMjktYjUxMjU2M2IzMWI2IiwiaW5zZWN1cmUiOiIxIiwibmV0IjoieGh0dHAiLCJwYXRoIjoiL1RlbGVnc…#%F0%9F%8C%90%20TCP-None%20%7C%20%40BugFreeNet
 
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&insecure=0&allowInsecure=0&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40sezar_sec
@@ -409,4 +401,14 @@ vless://716fdeaf-f256-4101-a329-fbfd60ed11ad@104.18.16.56:8443?path=%2FeyJqdW5rI
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40vpnsal
 
 vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@188.114.97.3:2053?mode=auto&security=tls&encryption=none&insecure=0&host=eng.worldwidesuccesscatalysts.com&type=xhttp&allowInsecure=0&sni=eng.worldwidesuccesscatalysts.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vpnsal
+
+vless://f07e31fb-7491-450a-921f-b99400d34796@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://Telegram-Parsashonam@188.114.96.3:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Parsashonam
+
+vless://e1833ff8-b125-4a05-902b-0b1c5aedb216@80.89.238.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2cdGHEGP5A3WdXhrCSZEdNtMe80thM6o2mhzre3sMhY&security=reality&sid=af04f5b2bf4071af&sni=apple.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://b87a0563-4256-4ca2-a5e7-6c8e32e6dbb0@185.235.197.184:443?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40netmelli15
+
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&insecure=1&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=1&sni=y6-3cj.PAgES.DEV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
 
