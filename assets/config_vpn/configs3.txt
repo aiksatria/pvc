@@ -328,3 +328,21 @@ vless://e6e62041-221c-46b2-b313-c2d131e74dd6@tun2-vip.apbxz.com:43187?security=&
 
 vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=kamalnet.pages.dev&path=/&sni=kamalnet.pages.dev&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:443?sni=sni.111000.v6.navy&host=sni.111000.v6.navy&type=ws&security=tls&path=%2F&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:2096?sni=sni.jpmj.dev&host=sni.jpmj.dev&type=ws&security=tls&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://2601740f-12a1-4e61-ba12-4e84915f5ed8@185.143.234.235:80?host=vixon.portab.org&security=none&type=ws&path=%2F&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Capoit
+
+trojan://telegram-id-directvpn@51.102.234.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.102.234.219:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://c8b6a94f-eb38-4b68-9ae7-fadc7d690e16@lovefishingfishes.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=randomized&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40manVPN
+
+vless://e9b5e97e-e042-4a0d-ad47-4149352db54f@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
