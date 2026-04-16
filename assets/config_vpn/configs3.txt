@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAiMjE2LjE2Ny40My4yOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDFkMzQ4MmUtMjdmNS00ZWFjLWFiNWUtOTA2Nzg3YmIzMmVmIiwgIm5hdGlvbiI6ICIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjM0MzgiLCAicHMiOiAiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFdTLU5vbmUgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzZXJ2ZXJQb3J0IjogMCwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-
 vless://09d12e6b-c25b-4c78-bc5d-99941c52177e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vless://05632886-f2b2-4409-bb8a-d85b64891fe0@185.143.235.200:80?type=httpupgrade&encryption=none&path=%2F&host=omran.pointspeed.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
@@ -123,4 +121,8 @@ vless://3fa43a99-b7c8-4d73-889e-63d186f41d5b@91.197.1.218:15655?encryption=none&
 vless://050fa956-29ab-41c9-b257-6162e7b30c5e@37.152.189.74:4431?path=%2Fek%2Firinn%2Flive%2F1080p%2F&security=none&encryption=none&host=live-azd1102.telewebion.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40planB_net
 
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@swiss-2.illusion-vpn.ru:52000?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&security=reality&sid=edd8887128ea&sni=music.yandex.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40BigSmoke_Config
+
+vless://0b910d60-bfa7-44d6-90cc-c7e48d13634b@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
