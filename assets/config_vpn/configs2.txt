@@ -1,9 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@3.66.203.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.203.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
 trojan://telegram-id-privatevpns@3.66.203.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://6fd98b96-9dd2-442c-92a4-a449cdf0fd1e@5.239.245.250:443?path=%2Fapi%2Fv1%2Fuuid%2F9e97a8c9-fdb0-4dfb-9557-2a90a554aee4&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ef88878e-c5a7-412f-82f1-0b09c6792d29.hollowspot.ir&fp=safari&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
@@ -112,6 +108,22 @@ vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&path=%2F&security=tls&encry
 
 vless://0b910d60-bfa7-44d6-90cc-c7e48d13634b@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?encryption=none&security=tls&sni=webassets.cafebazaar.ir&insecure=1&allowInsecure=1&type=ws&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://f9d9a8e6-7df0-4c7b-bb2d-97d1c7e14f1f@45.82.136.188:443?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=webassets.cafebazaar.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&fp=chrome&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://dff81e98-e184-4dec-8edc-4b796a75e079@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://3b80a4b4-187a-49b0-a52c-5c455c41ba98@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://a2053fc4-7daf-4a78-a53e-394a483c13db@pish152.manikhan.ir:22470?security=&encryption=none&headerType=&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://164bd44f-d0be-465d-9875-e15a0bef3d29@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://288c6693-95a3-4cc4-a280-07e78a419b88@194.59.171.217:14774?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
 vless://09d12e6b-c25b-4c78-bc5d-99941c52177e@snapp.ir:80?path=%2F&security=none&encryption=none&host=ar.liarashop.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vless://05632886-f2b2-4409-bb8a-d85b64891fe0@185.143.235.200:80?type=httpupgrade&encryption=none&path=%2F&host=omran.pointspeed.ir&security=none#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40V2rayng_Fast
@@ -125,4 +137,8 @@ trojan://telegram-id-privatevpns@51.102.234.219:22222?security=tls&alpn=http/1.1
 vless://1c45e98c-8a4a-45e7-acc5-3a3cc962f463@144.31.220.136:25565?encryption=none&fp=chrome&pbk=n00VSaVEImUfNI-8882Ecum-Er2KIHLg32Y-MWQGeh8&security=reality&sni=hypixel.net&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40v2nodes
 
 vless://4b581293-af3a-4658-b9b2-06949626bf86@104.17.72.206:443?mode=auto&path=%2F%40SheriffNet&security=tls&encryption=none&insecure=0&host=cdnde.sheriffbus.com&fp=firefox&type=xhttp&allowInsecure=0&sni=cdnde.sheriffbus.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40ConfigX2ray
+
+trojan://telegram-id-directvpn@3.66.203.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.66.203.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
