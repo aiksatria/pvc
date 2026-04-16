@@ -224,3 +224,5 @@ vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?encryptio
 
 vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=ws&allowInsecure=0#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
 
+vless://1cd5fa1a-fae9-45a3-a4b8-2bc636ec0952@185.143.234.200:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/w0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&mode=auto#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40netmelli15
+
