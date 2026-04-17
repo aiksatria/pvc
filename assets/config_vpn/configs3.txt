@@ -142,3 +142,9 @@ vless://9a58741b-b9d2-41d6-9910-d5ea4fce6139@185.143.233.5:443?encryption=none&s
 
 vless://eff7f741-5bbd-46ae-bf5d-d49a6d27a682@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
+vless://43457127-ee2f-439f-bfd0-54c515043804@sub.starfast.site:443?security=none&encryption=none&host=www.filimo.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
+
+vless://72ac2733-7da7-464e-9570-b63c47449b2d.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=1&sni=dn.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://b3aea81d-3977-4b9d-8fd4-4a500c8cf075.143.232.201:443?path=%2F&security=tls&encryption=none&insecure=1&host=query.parhamm2.ir&fp=random&type=ws&allowInsecure=1&sni=query.parhamm2.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
