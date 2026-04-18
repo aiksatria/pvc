@@ -1,58 +1,14 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@15.188.200.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.200.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+vless://a01daac7-1e65-4645-854d-b47d226f6b08@8.6.112.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
 
-trojan://telegram-id-privatevpns@15.188.200.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
 
-vless://7951f95b-96ad-47ba-9f3a-78715d3e4bdb@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=dl700tobi.sudoserver.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
 
-vless://613bb0a0-da3f-47d9-8267-7d9f4e3f18d6@94.183.176.168:80?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+vless://3a6b6256-5a3d-4331-9126-c4db16dd67dc@8.6.112.0:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cfcf.metipoxbozorg.shop&fp=chrome&type=ws&allowInsecure=0&sni=cfcf.metipoxbozorg.shop#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ultrasurf_12
 
-vless://71271480-04bd-45ae-9de5-fb7eb15b57be@vzbw.piko-network.top:1433?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
-
-vless://3264ccbe-dbc5-4d14-8dbe-1c62041cc43f@104.18.46.50:443?&security=tls&fp=ios&sni=sk-hk1.feimavip.sbs&type=ws&headerType=none&host=sk-hk1.feimavip.sbs&path=%2Fhk%2F1#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40v2nodes
-
-vless://7e4e3fa6-a6e2-4978-89fa-9db9d0a07d8e@snapp.ir:80?security=none&encryption=none&host=firelink.arian-go-internet.ir&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
-
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-trojan://humanity@188.114.98.0:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsICJwb3J0IjogIjIyMzI0IiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFRDUC1Ob25lIHwgQGNvbmZpZ3JheWdhbiIsICJhZGQiOiAiNjYuMTgxLjM2LjE3NCIsICJwb3J0IjogIjUyOTE0IiwgImlkIjogIjhhZTFjMmYwLTMxMjctNDlhYy1hY2FkLWRlZjU1YjA0YzIzMSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiaHR0cCIsICJob3N0IjogIiIsICJwYXRoIjogIi9BQkNERSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40configraygan
-
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40configraygan
-
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://98ef96cd-7f4c-420c-8feb-8f16268017e2@104.18.12.149:8443?encryption=none&security=tls&sni=turkiye-fast.rocketset.fun&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=turkiye-fast.rocketset.fun&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://248d1886-8ae0-4079-a281-4d21bdb74ba4@152.53.60.114:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=qq&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://97b2cd5b-b98d-494f-8f97-3a06e8c1bbd2@18.245.54.3:443?encryption=none&security=tls&sni=d2241b25w3zftf.cloudfront.net&fp=chrome&type=ws&host=d2241b25w3zftf.cloudfront.net&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://d46056cf-da4e-4426-a3e4-39fcbfefa112@63.141.128.188:443?encryption=none&security=tls&sni=d2-us1.djwstlsweb.top&fp=chrome&type=ws&host=d2-us1.djwstlsweb.top&path=%2Fdjjc%2Fus1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40configraygan
-
-vless://4649d681-7f26-4959-a3f2-02eb8866230f@72.56.8.156:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=wAYsJ6RJXFy94w_WaTIhp1ZfCePAPoZmP27RarvUqXg&sid=2344766a270a6298&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://913c6074-a747-492b-a7e9-5abfcad6369d@gr.milas.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gr.milas.click&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://148cf088-5fa8-48a2-afbb-7003696c5cc1@bot2.jetstoreapp.ru:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=bot2.jetstoreapp.ru&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40configraygan
-
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://9768f14f-a790-4c78-b1d9-60cc0e9d99a0@217.114.11.246:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=FZbK0E3QBK7QslwVEXimX6vmXC8cb6826lSLJUkIEgU&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40configraygan
-
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.69:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40manVPN
+vless://74f2d518-fb8e-46d3-90a1-bd74b10b5cce@p.brun-tbsop.ir:40408?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40ConfigX2ray
 
