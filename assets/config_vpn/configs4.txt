@@ -40,3 +40,19 @@ vless://52dd2455-b2ce-4a04-a075-0b7f2bde9989@snapp.ir:80?path=%2F&security=none&
 
 vless://cfee0059-5510-4934-a728-52728ec227b2@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv1-dl.persianmusics.site&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
+vless://f8fcf9f9-b690-4595-b9c4-222d785cb3de@185.143.233.235:443?encryption=none&security=tls&sni=nobitex.ir.cdnlx11u.shahramcloud.com&insecure=0&allowInsecure=0&type=ws&host=nobitex.ir.cdnlx11u.shahramcloud.com&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://63b05f16-2a71-47e6-a070-cc94f9ee76bc@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://65ea4681-21ad-47a3-9589-de4864135ee1@shop.shadowroute.site:443?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8d0e5f7e-f5a6-478e-9b82-e2d380f5e476@185.143.234.235:2095?path=%2Fapi&security=none&encryption=none&host=d.nazincup.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://a6c3baf9-76f0-48ec-a1b2-d646354f7f12@snapp.ir:2087?type=ws&security=tls&encryption=none&path=%2Fs5&host=am3.fardaamoz.ir&sni=am3.fardaamoz.ir&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://fQmMJwOLMlqHednu2SVED8gi-+H-db9kbg@194.87.10.31:23357?allowInsecure=0&sni=sgp9.node-resource.click#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://41c1375f-1e8d-47af-e526-59aa698a3b37@tr.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.188#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
