@@ -1,18 +1,8 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9Ob3RpZl9DaGF0IiwgInBvcnQiOiA1NTE4NSwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInBzIjogIlx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBXUy1Ob25lIHwgQHYycmF5X2NvbmZpZ3NfcG9vbCJ9
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.36.5:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://662d440c-7567-41ec-b220-c7d69cb2f67c@Chatgpt.com:443?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=SHARAF.followerarzon1.com#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://9a527482-3271-46e1-aaf4-b515f4d8aac8@shayan.chehre-negar.ir:80?encryption=none&type=ws&host=shayan.chehre-negar.ir&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://d74a0017-5855-5abe-eb64-9db3b9de9a1b@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://5377335c-508c-42e9-9e20-1f6c1eebed03@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
-vless://47d149e3-8ba6-07d0-b91f-3dd9771fa7cc@khamenei.ir:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=vaja.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40BrilliantGift
-
-vless://4d377d44-3d1d-a5f2-d8c2-0422e09a467a@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.190#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+vless://3b0b4246-5209-7069-c12f-9312b32e37bd@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.190#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
