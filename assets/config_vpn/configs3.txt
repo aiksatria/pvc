@@ -1,35 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://d377314c-dfb9-4a4f-911f-2094721d3e6d@node5.telegavpn.org:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node5.telegavpn.org&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://Telegram-Parsashonam@104.18.13.149:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%F0%9F%87%A8%F0%9F%87%A6%20XHTTP-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.238.69.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.66.44.211:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://8e7269cd-e5c0-48fa-970e-bc0e63c35d19@104.16.133.220:443?allowInsecure=1&encryption=none&host=fornewiranvpn6.fornewiranvpn6.workers.dev&path=%2F&security=tls&sni=fornewiranvpn6.fornewiranvpn6.workers.dev&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://93f0761d-4393-4b43-a523-e812fa0b7e83@chatgpt.com:443?encryption=none&host=cf.cfvip.lol&path=%2Fpyip%3D47.251.95.178&security=tls&sni=cf.cfvip.lol&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://64774a0f-6580-4475-97b5-5f88fce449ee@snapp.ir:8080?encryption=none&type=ws&path=%2F&host=grezamax.restaurantstudio.ir&allowInsecure=#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://d6fed165-4068-4b99-98a7-23e77960ff8b@ez1g-80-s2-h.adelshoop.net:2052?path=%2F&security=none&encryption=none&type=w#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://913c6074-a747-492b-a7e9-5abfcad6369d@171.22.181.107:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=uk.milas.click&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://ee8ecba5-ccfb-4885-9a45-f1c8ebbf2d11@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://477df237-88e0-4017-b19f-6b4e54079e64@s1.masterdadeh.ir:80?type=ws&security=none&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-trojan://telegram-id-directvpn@15.237.148.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.148.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@15.237.148.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?allowInsecure=1&encryption=none&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443&security=tls&sni=blackshadow.dpdns.org&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -55,6 +25,12 @@ vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=%2F%3Fed%3
 vless://af812bdd-7190-4c62-84a8-10a9cc96a50d@185.143.234.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=1&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=1&sni=alef.ir.oadeflantrogm.realirshop.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
 vless://5785444d-596b-425c-8b1c-727a539508d9@2.144.20.130:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40prrofile_purple
+
+trojan://telegram-id-directvpn@15.237.148.202:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.148.202:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.237.148.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
 vless://c664b00e-7410-4963-a911-b029928d2401@ram.greenbookvip.online:22992?encryption=none&type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=_K7LTG-QOMMaAYYW6XtVX3BHPNblhdhfCUfYVm3DDjM&sid=473019&spx=%2F#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40netmelli15
 
@@ -495,4 +471,8 @@ vless://1d5d64ed-d27a-45ee-a8ae-8bdadf20c4a9@185.143.233.5:443?encryption=none&t
 vless://b6813330-7199-4926-95d4-19cb8aeabe41@s2.tehranionliine.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
 vless://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://c5bbdac7-6ff5-4762-87bf-870f55a03581@nld.pink-world.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tB6tQr-pmLTdMM8DVOb9KsS27lDkAjjelbdu_Gp1SR0&security=reality&sid=f27d8b541b5f48bf&sni=nld.pink-world.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://40e1b62b-6245-4ec0-b57d-6dc4190db762@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=io.binping.lol&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmess_iran
 
