@@ -1,36 +1,34 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=fr.denditop.site&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://a2aa9012-57c4-4e7f-9a1d-018ed0292f2b@snapp.ir:80?path=/&security=none&encryption=none&host=trx.noventa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-trojan://1234567890@84.75.76.8:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A8%F0%9F%87%AD%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://d134e959-783c-4ef9-a10b-f63285ce10de@snapp.ir:8080?path=/&security=none&encryption=none&host=dnsdivar.khanumjan.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-trojan://1234567890@217.177.10.105:443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=98c3d62ba1c26863&sni=www.argos.co.uk&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.22:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@94.131.105.125:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://599a4b63-e1da-410d-baa1-67d265141966@cdn2.whitepol4.ir:2095?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vmess://eyJpZCI6ICJmOWFhM2I1NC02OWM4LTQyZTktYTAzNC04ZjUzYTBhMDQ5M2QiLCAiZnAiOiAiIiwgIm5ldCI6ICJ3cyIsICJwb3J0IjogIjgwIiwgInBhdGgiOiAiLyIsICJhdXRob3JpdHkiOiAiIiwgInNuaSI6ICIiLCAiaGVhZGVyVHlwZSI6ICIiLCAiZXh0cmEiOiAiIiwgImZyYWdtZW50IjogIiIsICJ0bHMiOiAibm9uZSIsICJhZGQiOiAic25hcHAuaXIiLCAidHlwZSI6ICJub25lIiwgImRldmljZUlEIjogIiIsICJtb2RlIjogIiIsICJob3N0IjogImRhcnhoaW50ZWFtLmJyYXZvLXNpeC5pciIsICJhbHBuIjogIiIsICJzZWVkIjogIiIsICJzZXJ2aWNlTmFtZSI6ICJub25lIiwgImFpZCI6ICIwIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjcgV1MtTm9uZSB8IEB2MnJheV9jb25maWdzX3Bvb2wifQ==
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#%F0%9F%87%B8%F0%9F%87%A8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-trojan://1234567890@46.225.5.182:8443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+trojan://1234567890@144.31.138.127:443?security=tls&sni=kfm-bn0.pages.dev&type=ws&host=kfm-bn0.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://309fa273-6579-4cb2-9143-7cad50401eba@91.99.106.117:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://b1ac23fb-b336-4d37-a3c0-64b29c4ef3a4@s2.tehranionliine.ir:80?encryption=none&type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://f78be3f8-309e-4f55-8df3-dc5512478ad6@vizo.pardazwe.ir:2082?encryption=none&type=ws&path=/&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://599a4b63-e1da-410d-baa1-67d265141966@cdn2.whitepol4.ir:2095?encryption=none&type=ws&path=/#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://edde8ee0-abe7-7fbd-ef22-8b91f4b97559@meli2.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://379eb22a-b620-421e-be6d-52bf64637e3b@snapp.ir:80?encryption=none&type=ws&path=/&host=gp.shsoft.store#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
-vless://56c41039-532d-4360-86be-4bc7849b4dea@Snapp.ir:80?path=%2F&security=&encryption=none&host=S1.webvps.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://8f8380ae-9f5d-4cb5-8f5f-0f70fbe054a9@45.43.75.69:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
-vless://efa8cfd9-559a-42e1-9533-9626cdfc79f3@snapp.ir:80?security=none&type=ws&headerType=&path=%2F&host=ar.liarashop.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://26524cce-d514-4014-a426-365fb266a14d@unpkg.com:443?&security=tls&fp=chrome&sni=qt2cte0z61.gfw.hidns.co&type=ws&headerType=none&host=qt2cte0z61.gfw.hidns.co&path=%2Fdanfeng%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://530379aa-a261-4645-a913-c5ba3f6d607a@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vless://21a5ab3c-5299-4f69-97e2-0f592a2421d6@185.143.235.200:80?type=ws&encryption=none&path=%2F&host=wiki.mastervps.ir&security#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.34.152.234:8443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
-vmess://eyJhZGQiOiAiY2RuLmlwLXN0YXRpYy5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiUE9MMDAxLm1pZGFzbmV0LndvcmsiLCAiaWQiOiAiZDc0OWU4MTQtYzc1Yi00MTZlLThhZWQtZjc0NDkwM2QwZWVjIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSBXUy1Ob25lIHwgQEJyaWxsaWFudEdpZnQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-
-vless://5143de63-b862-461b-a8b9-9b4bf3745022@arvancloud.ir:80?path=%2Fws&security=none&encryption=none&host=app.s7r.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+vless://55cb8179-ce11-4ec8-a03c-333f797265f9@162.159.14.88:80?encryption=none&host=long-forest-ac72.salari1382m.workers.dev&path=/&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40v2ray_configs_pool
 
