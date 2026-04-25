@@ -1,5 +1,7 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://telegram-id-privatevpns@63.181.194.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
 vless://3dc5eda5-bb38-b777-cfe7-c8a73c467bd5@snapp.ir:80?path=%2F&security=none&encryption=none&host=new-game-server.supgame.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&insecure=0&host=my.vulmart.ir&type=ws&allowInsecure=0&sni=my.vulmart.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -23,4 +25,28 @@ vless://a7a9ba8d-fefe-4f91-804b-75ce163fa0a0@snapp.ir:80?security=none&allowInse
 vless://a7a9ba8d-fefe-4f91-804b-75ce163fa0a0@snapp.ir:80?path=%2F&security=none&encryption=none&host=ssssssma.linuwebtunnel.site&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://f5549415-75d3-48dc-a7cb-6208c5f33811@185.143.235.253:80?encryption=none&host=ss.oppobot.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@japan.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@malaysia.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@russia.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@singapore.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@skk.moe:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visa.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visa.com.hk:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visa.com.tw:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visa.co.jp:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.visakorea.com:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://9a8b2f09-5d3e-4e83-8f35-68f29fba5115@www.gco.gov.qa:443?mode=multi&security=tls&encryption=none&type=ws&sni=v6.bangfw.dpdns.org#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 
