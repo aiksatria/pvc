@@ -454,3 +454,39 @@ vless://26524cce-d514-4014-a426-365fb266a14d@43.167.157.65:12345?host=snippet.fg
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
 
+vless://9e8d2012-bafc-4f43-8baf-94ac4de60784@abr.superip.ir:2082?path=%2FAPI%2Fsuperip&security=none&encryption=none&host=cd.phill-up.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%B1%F0%9F%87%B9%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-directvpn@15.236.1.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-privatevpns@15.236.1.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.1.234:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fba80791-8349-482d-a7a4-3b26f704babd@varzesh3.com:80/?type=ws&encryption=none&path=%2F&host=sajjad.panivo.ir&security=None #%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://d8506e85-4631-4513-9651-5914b8b33e5d@104.21.67.187:2087?path=%2F%40saeedtelcom%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=unitedkingdom.iranfastspeed.net&fp=firefox&type=httpupgrade&sni=unitedkingdom.iranfastspeed.net#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=dn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://fba80791-8349-482d-a7a4-3b26f704babd@varzesh3.com:80/?type=ws&encryption=none&path=%2F&host=sajjad.panivo.ir&security=None#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://50e13a40-364d-4291-9279-5028a1410f4a@snapp.ir:80?type=ws&encryption=none&path=%2F&host=newbalance.zivaroid.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://8fc0be57-8e6f-ca0f-5d0c-11708b348864@hmt.masterdadeh.ir:80?type=ws&host=&security=none&sni=185.226.94.190&alpn=&path=/&headerType=http#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://telegram-id-v2rayvpnchannel@15.236.1.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://850255c0-8444-4b92-bf3f-01cde9f52fab@office.weai.ir:443?security=reality&encryption=none&pbk=065ekp_uJftu5-HVe7NziOIS7ajpv0dylhsJK6ylzRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=git.revi.voto&sid=ffe4b45f7e2f0778#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40ultrasurf_12
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir%2F%3FTelegram%40MTMVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
