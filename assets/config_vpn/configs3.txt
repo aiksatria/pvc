@@ -210,3 +210,17 @@ vless://52115d71-4895-4010-9b5d-5f456b08aebd@eco.gymplusplus.com:2052?path=%2F&s
 
 vless://01b04de5-99ef-6b90-a943-8adbaaa815cd@snapp.ir:80?path=%2F&security=none&encryption=none&host=new-game-server.supgame.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
+trojan://telegram-id-directvpn@13.38.179.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.179.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://abc4acff-8344-4744-a76a-77a81da03287@172.64.149.54:443?&security=tls&fp=chrome&alpn=http/1.1&sni=cf1.year26jfieqppq.cc&type=ws&headerType=none&host=cf1.year26jfieqppq.cc&path=%2FsgJsLdvyM8PYvlckTviAm#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
+
+vless://f1b31d32-0dc9-4141-9818-45a0e8dd213b@uk.baqi.indevs.in:39001?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2nodes
+
+vless://f1b31d32-0dc9-4141-9818-45a0e8dd213b@kr.baqi.indevs.in:39010?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20WS-None%20%7C%20%40v2nodes
+
+vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
+
