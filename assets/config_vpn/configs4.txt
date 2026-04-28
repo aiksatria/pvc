@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@13.38.179.226:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.179.226:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://abc4acff-8344-4744-a76a-77a81da03287@172.64.149.54:443?&security=tls&fp=chrome&alpn=http/1.1&sni=cf1.year26jfieqppq.cc&type=ws&headerType=none&host=cf1.year26jfieqppq.cc&path=%2FsgJsLdvyM8PYvlckTviAm#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2nodes
-
-vless://f1b31d32-0dc9-4141-9818-45a0e8dd213b@uk.baqi.indevs.in:39001?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#%F0%9F%87%AC%F0%9F%87%A7%20WS-None%20%7C%20%40v2nodes
-
-vless://f1b31d32-0dc9-4141-9818-45a0e8dd213b@kr.baqi.indevs.in:39010?&type=ws&headerType=none&host=d0a6b4d945dbfc846b18fade7d631883.mobgslb.tbcache.com&path=%2F#%F0%9F%87%B0%F0%9F%87%B7%20WS-None%20%7C%20%40v2nodes
-
-vless://75356919-6ece-455c-ba7a-9f042a60d2c5@91.198.220.226:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40v2nodes
-
 vless://0d4ee180-aefd-4770-87bc-ae0784f5f973@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=cdngraph.newmew.site&fp=chrome&type=ws&sni=cdngraph.newmew.site#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://91c514fe-7cf0-42f1-9aa2-1e60b743b093@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=jn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=jn.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
@@ -51,4 +37,20 @@ vless://ff943148-d5db-46df-a419-81536ed1ad9e@snappfood.ir:80?path=/ws&security=n
 vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
 vless://2b907f5f-87ef-46bb-838c-9f18c1fd2c2f@arvancloud.ir:80?encryption=none&type=ws&path=%2Fed%3D44&host=blog.s7r.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+
+vless://27fa3c76-57f1-4c83-929c-0b5b2d6d8ffb@abr.superip.ir:8080?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=ne.landing-sours.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://27fa3c76-57f1-4c83-929c-0b5b2d6d8ffb@abr.superip.ir:2086?security=none&type=ws&headerType=&path=%2FAPI%2Fsuperip&host=tu.bi6x.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ffd3cce2-d894-4abd-b1c3-ab305949686f@185.143.234.235:8080?type=ws&encryption=none&path=%2F&host=io.binping.lol&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.193.96:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=/&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%87%A8%F0%9F%87%BF%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.20.6.134:2096?encryption=none&type=ws&security=tls&path=%2F&sni=sni.111000.indevs.in&allowInsecure=0#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40manVPN
+
+trojan://4OE9MojBpg@37.32.20.55:80?type=tcp&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
