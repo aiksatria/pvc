@@ -1,20 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://875c345e-d200-4709-9ffa-7b4c65531f6e@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
+vless://a3bfe21b-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=in.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=in.8lack.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
-vless://ef577789-7259-4b62-ad82-6b9fc63a3f9e@snapp.ir:8880?type=ws&encryption=none&path=%2F&host=omidvar.arvhamrah.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://d025ab69-864f-4370-ae56-e5bcafd62199@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
-vless://b72f5e56-b947-48bf-80ef-6254f8835441@varzesh3.com:80?type=ws&encryption=none&path=%2Fws&host=nobody.fasterspeed.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vless://2a45d4d3-232e-4720-a15f-442f3ef443f4@irri.hosmci.ir:35163?path=%2Fupload%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=de.hosmci.ir&fp=chrome&type=ws&sni=de.hosmci.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
-trojan://telegram-id-directvpn@52.57.232.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+vless://4f2d4f06-6590-495e-9bac-7edb1c340eb6@170.168.103.156:8081?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.57.232.245:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
-
-trojan://telegram-id-privatevpns@52.57.232.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MTMVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-None%20%7C%20%40manVPN
-
-vless://78aef44a-9c73-4143-87d1-2f6812bab94b@arvancloud.ir:80?path=upload%3Fed%3D256&security=none&encryption=none&host=website.vgpsl.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
+vless://37c23ba9-1123-b1fc-978d-2ae157af8902@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
