@@ -8,3 +8,7 @@ trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&alpn=http/1.1&h
 
 vless://e8e1e1fc-83e6-4de3-9e08-7d77521e67b4@cf.comecloud.ir:443?path=%2Ftest%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Clu.servert1op.ir&fp=chrome&type=ws&allowInsecure=0&sni=Clu.servert1op.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
+vless://78e1c47b-d2d2-4908-ad59-687d4e638ad0@13.35.196.67:443?path=%2Fzaou8XGhXp3dJkOw9QJ1mxpndqC&security=tls&alpn=http%2F1.1&encryption=none&host=atoll.pashmparty.fun&fp=chrome&type=ws&sni=atoll.pashmparty.fun#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Capoit
+
+vless://21751d42-6262-467d-b3cd-5a12d6dbff57@snapp.ir:2052?security=none&allowInsecure=0&encryption=none&type=ws&host=aban.m610.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40ultrasurf_12
+
