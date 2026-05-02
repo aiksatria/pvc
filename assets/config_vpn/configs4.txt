@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://26524cce-d514-4014-a426-365fb266a14d@65.21.62.180:443?allowInsecure=0&sni=ynwta9.api-edge.fgfw.qzz.io&type=ws&host=ynwta9.api-edge.fgfw.qzz.io&path=/danfeng?ed=2560fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@2.56.172.83:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=tradingview.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B8%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@72.18.132.149:2053?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=/?ed=2560&Telegram#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=/?telegram+@wangcai2=&security=tls&sni=sni.111000.indevs.in&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.245.62.4:8443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AF%F0%9F%87%B5%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://c62b5011-c0c8-4fd9-bd59-9a275469da7c@185.143.233.5:443?encryption=none&type=ws&host=in.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=in.8lack.ir&alpn=h2,http/1.1#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.72.18:443?allowInsecure=1&encryption=none&host=sni.111000.dynv6.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vmess://eyJhZGQiOiAieGcxYTQud2FpbWFvZnV3dWpkLmNjIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxYTg3ZmM4MS02ODQ2LTQyNDYtYWRkMy0wMGEzOGJhYThjMGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92MS9ncmFwaHFsIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBXUy1UTFMgfCBAdjJub2RlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAieGcxYTQud2FpbWFvZnV3dWpkLmNjIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
 vless://9249776a-d5c7-4c6f-b95d-3c63a0ab4756@ursa.pardazwe.ir:2052?encryption=none&host=&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
 
 vless://8f4478a2-bae4-4c27-b034-33ba1a3f8a2b@ursa.pardazwe.ir:2052?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
@@ -44,7 +26,13 @@ vless://c6a36680-536b-4578-9bad-3b6ad0329a95@snapp.ir:80?encryption=none&type=ht
 
 trojan://telegram-id-privatevpns@35.180.146.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
 
+vless://ba559782-c9d9-4cc9-a1e9-fec690382e64@185.143.233.5:443?encryption=none&type=ws&host=hn.8lack.ir&path=/chat?ed%3D128&security=tls&fp=firefox&sni=hn.8lack.ir&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://88f67f47-74e5-4964-b144-92625d8e15a1@snapp.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=cm.programming-coding.ir&path=/#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
+
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
+
+vless://bf34098a-a829-4567-af44-cb1427719d0d@nemava.ir:8080?path=%2F&security=none&encryption=none&host=v1-blackdragon.ckalaf.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40BrilliantGift
 
