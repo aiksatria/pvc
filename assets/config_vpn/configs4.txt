@@ -40,3 +40,19 @@ vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?encryption=none&t
 
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?encryption=none&type=ws&path=%2F&host=al1.apicallminecrafegame.online#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://469b6631-f0ab-4ad7-93af-869dd32535e3@185.143.234.235:80?path=%2F&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://04ec7bda-de0b-45a2-ac31-7b83963e5768@185.143.234.122:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://3b36d989-801f-49d7-95e4-133fbdf7eee4@snapp.ir:8880?encryption=none&security=none&type=ws&headerType=none&path=%2Fprivate&host=tr.sapax-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://04ec7bda-de0b-45a2-ac31-7b83963e5768@185.143.234.122:80?path=%2F&security=none&encryption=none&host=germany.lezzaluxa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://3b36d989-801f-49d7-95e4-133fbdf7eee4@185.143.234.200:8080?encryption=none&security=none&type=ws&headerType=none&path=%2Fprivate&host=de.sapax-cloud.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://ac64a896-a39d-4569-b858-57e354e92c60@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin8.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin8.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://d9902d78-9e1f-4f24-bb6f-01f482fe1897@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
