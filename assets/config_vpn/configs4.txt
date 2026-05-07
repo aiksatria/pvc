@@ -42,3 +42,27 @@ trojan://qb1pr9zb-nom4-f0c3-sb64-fl76i8956ptg@127.0.0.1:4080?security=tls&type=t
 
 vless://c664b00e-7410-4963-a911-b029928d2401@ram.greenbookvip.online:22992?type=grpc&security=reality&sni=www.aparat.com&fp=chrome&pbk=_K7LTG-QOMMaAYYW6XtVX3BHPNblhdhfCUfYVm3DDjM&sid=473019#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40Trick_mobil
 
+vless://0695c698-cc46-45ff-a450-98f450afa5ea@milli.gold:80?path=/&security=none&encryption=none&host=Pan4e.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.107.115:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+
+trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+trojan://da0a777c-3643-47ef-be7a-59c24a7ee8a6@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+vless://0a5ccd78-b0e2-4769-9f9e-839f66a49257@snapp.ir:80?type=ws&encryption=none&path=/&host=n1.abantrust.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://abead01d-48f7-417c-be6d-008dfd320668@snapp.ir:80?type=ws&encryption=none&path=/&host=n1.abantrust.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://87e1bd3e-120f-441f-bcf5-6cf60e30ca61@snapp.ir:80?type=ws&encryption=none&path=/&host=n1.abantrust.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://a1a8810d-d3d3-4783-9e29-615649d3ac69@snapp.ir:8880?type=ws&path=/&host=hooshmasnoei-aidigibikalasnapptaxi-newversion.nove-kort.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+trojan://47eb05ea-9e7d-4fc7-82eb-327b501b9643@jplic.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AF%F0%9F%87%B5%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+trojan://47eb05ea-9e7d-4fc7-82eb-327b501b9643@usrna.osaip.net:25055?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%BA%F0%9F%87%B8%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
+trojan://47eb05ea-9e7d-4fc7-82eb-327b501b9643@hkzoa.osaip.net:443?allowInsecure=0&peer=&sni=&type=grpc&serviceName=violet#%F0%9F%87%AD%F0%9F%87%B0%20GRPC-None%20%7C%20%40v2ray_configs_pool
+
