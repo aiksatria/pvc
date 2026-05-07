@@ -40,3 +40,27 @@ vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://b72f5e56-b947-48bf-80ef-6254f8835441@varzesh3.com:80?type=ws&encryption=none&path=/ws&host=nobody.fasterspeed.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bfecb5a8-d1e2-498c-86e7-503c9e132b2e@snapp.ir:80?type=ws&encryption=none&path=/&host=cwh.persianstorebnd.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://51b8154f-2b4f-4801-835f-e89281e6d178@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin10.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin10.8lack.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://b72c336a-cebc-4ab8-887a-5fce0c9c7f3a@parbam.baaq-yas.ir:2096?path=%2Findex.html&security=tls&encryption=none&insecure=0&host=parbam.baaq-yas.ir&fp=chrome&type=ws&allowInsecure=0&sni=parbam.baaq-yas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ecd24aab-1e25-46f2-b7c7-ca78f995d7fa@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://7911ddcf-da37-4bcf-8717-9b6d9720a8ba@line2.gymplusplus.com:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://bc9c342f-99cc-44e0-8e08-424e3c217c6c@arp.kilosheet.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://35052760-5467-401c-9c1d-847354bc9449@sr.onavanet.com:80?path=/&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://52c79ebd-7778-49d9-be4d-833335ece27e@milli.gold:80?path=/&security=none&encryption=none&host=wh.nexoratechcenter.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://0a1e15c3-5587-4252-96ac-eb4fd8ab7a86@snapp.ir:8880?path=/razstarlocal&security=none&encryption=none&host=p1.razstar.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
+vless://b72c336a-cebc-4ab8-887a-5fce0c9c7f3a@parbam.baaq-yas.ir:2096?path=/index.html&security=tls&encryption=none&insecure=0&host=parbam.baaq-yas.ir&fp=chrome&type=ws&allowInsecure=0&sni=parbam.baaq-yas.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ecd24aab-1e25-46f2-b7c7-ca78f995d7fa@snapp.ir:80?path=/&security=none&encryption=none&host=simorgh.darerio.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+
