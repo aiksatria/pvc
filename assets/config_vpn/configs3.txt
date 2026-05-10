@@ -412,3 +412,35 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.92.102:22224?type=ws&security
 
 trojan://telegram-id-privatevpns@51.44.92.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
 
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%87%AE%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@160.22.16.187:443?allowInsecure=0&sni=gogo10.kmj.qzz.io&type=ws&host=gogo10.kmj.qzz.io&path=/fp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.247.186.199:443?&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws&headerType=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40v2ray_configs_pool
+
+trojan://8t43vjc0-xded-in6u-j20c-s4xacg3l4ofl@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://rnieff3p-ba0d-t36u-xsnb-7jnru5eqymui@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://ee5yo2ov-6fdq-wvlp-nelu-x5m6omtp82xx@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://589e8847-af73-450d-9e6e-d413a1995e34@ru.githuub.ir:32016?type=tcp&security=reality&sni=google.com&fp=firefox&pbk=zsj7iO3Wo8BiajXZXfo9XCgn30FfOd47iMmKFaQEzlY&sid=2a1dbf3db2f9822e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://3f42b528-59ef-45f9-9ba3-6292ca46f909@wolfb24.servers1mart.ir:2096?type=tcp&security=reality&sni=play.google.com&fp=firefox&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&sid=42c0b628ba6a42a9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://ivng6fkn-59ou-wc3p-5cjn-9silrfbozrpw@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://uwjgmi00-gwed-53p5-ye90-n1697t6wr0ec@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://g47p3jrg-hza2-9u6f-dyz9-yw8ltgmzix5m@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://891300bc-11b2-4b24-8056-b329b098888b@62.182.192.20:443?type=tcp&security=reality&sni=readthedocs.org&fp=chrome&flow=xtls-rprx-vision&pbk=8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE&sid=a1590469acbe31#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://0dcd0d55-8a1c-4a8b-91c5-6967720a8444@frankfurt1.ap221.com:443?type=tcp&security=tls&sni=frankfurt.ap221.com&fp=chrome&flow=xtls-rprx-vision#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?type=tcp&security=reality&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://41c9e6be-cd11-4511-996c-7db798d38540@185.8.172.182:20249?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IFdTLU5vbmUgfCBAdjJub2RlcyIsICJhZGQiOiAibS5jbm1qaW4ubmV0IiwgInBvcnQiOiAiMTY2MTciLCAidHlwZSI6ICJub25lIiwgImlkIjogImYzNjU2MzBkLTE1YjUtNGJkNC1hZDU1LWFhNjI4NGQ3YmUzMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiOGE2ODdkYTk0NThjYzQ2ZTgwYWJjODVlYzhkOGFkYTcubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+
