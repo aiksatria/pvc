@@ -422,3 +422,9 @@ vless://ce0539de-480a-4aa2-9fe1-49d1dd257753@net.vbgroup.site:993?mode=auto&path
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.217.177.48:8443?type=ws&security=tls&path=%2f&host=sni.jpmj.dev&sni=sni.jpmj.dev&allowInsecure=1&encryption=none#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
 
+vless://f1381f30-729f-4548-ae0f-ed51d35e91a6@185.143.233.200:80?encryption=none&type=ws&path=%2F%3Fed%3D2080&host=final.idbedam.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://d8ed00b9-6002-4482-ade0-611f357a0f3b@91.99.204.242:19056?mode=auto&path=%2FFamilyVIP%3Fed%3D2560&security=reality&encryption=none&pbk=Ip9iGBdMZdKp22Qil5zPD-aAsxch6ACEZ75h8CQCySQ&fp=chrome&spx=%2Faduh83fh392rdasudkfhkjcd94301&type=xhttp&sni=github.com&sid=f1663ee0#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
+
+vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&headerType=none&fp=random&spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40manVPN
+
