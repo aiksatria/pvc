@@ -26,3 +26,5 @@ vless://ddef83b7-0269-fc4f-bd8e-c33e2c5df807@89.124.72.86:5398?type=tcp&security
 
 vless://360f1d71-f8dd-4c71-aa4f-347486312dca@hk.chinablog.xyz:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bXstTdAgEyOn8LEMM_K2gIOw7T2iKhr6l-lXcrF4PlM&sni=www.liblib.art#%F0%9F%87%AD%F0%9F%87%B0%20TCP-Reality%20%7C%20%40v2nodes
 
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
