@@ -466,3 +466,5 @@ vless://0369f670-2a36-49aa-b1ff-7be054916aec@188.121.113.16:3?security=none&encr
 
 vless://453def6b-1f01-44d5-8959-8821c00c5d6e@nobitex.ir:80?path=%2F&security=none&encryption=none&host=support.mindigosupport.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40anty_filter
 
+vless://1b50eb2c-ee25-479e-b593-ec80db9a54a0@red.docos.tech:443?security=tls&type=ws&headerType=&path=%2Fred%2F&host=red.docos.tech&sni=red.docos.tech&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40VIPV2rayNGNP
+
