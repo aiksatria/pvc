@@ -1,7 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=%2Fapi%2Fv1%2Fusers&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nexus.itsazan.info&fp=chrome&type=ws&allowInsecure=0&sni=nexus.itsazan.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
-
 trojan://telegram-id-directvpn@15.236.132.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.132.94:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
