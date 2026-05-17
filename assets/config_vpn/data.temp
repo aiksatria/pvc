@@ -169,3 +169,4 @@
 1779046095.934594|DirectVPN|trojan://telegram-id-directvpn@13.38.225.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 1779046095.934594|VlessConfig|vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.225.194:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
 1779046095.934594|PrivateVPNs|trojan://telegram-id-privatevpns@13.38.225.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+1779049113.470473|VIPV2rayNGNP|vless://88e8243a-fc9a-4022-80d4-e0c5801c2256@snapp.ir:80?encryption=none&security=none&type=ws&headerType=none&path=%2Fgraphql%3Fed%3D2560&host=ss2.limitless-cloud.ir#@vipV2rayNGnp
