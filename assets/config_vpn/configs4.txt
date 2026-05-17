@@ -1,12 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://telegram-id-directvpn@63.182.26.197:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+vmess://eyJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjaXAuc2FsaW1vcmUuY29tIiwgImlkIjogIjlkMmJiNmIwLTlkNWYtNDU2OC1hOTdhLTZjNzQ3Y2EwOTZmNCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBhbnR5X2ZpbHRlciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.26.197:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+vmess://eyJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjaXAuc2FsaW1vcmUuY29tIiwgImlkIjogImZmMTFhODgxLTE5NzAtNDU0OC1hYWJlLTU1YTFmYjgzN2FhZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBhbnR5X2ZpbHRlciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
-trojan://telegram-id-privatevpns@63.182.26.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+vmess://eyJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjaXAuc2FsaW1vcmUuY29tIiwgImlkIjogIjYzMWJkZGFjLTMwN2ItNDlkYy04ZmYwLWNmZjA1MmE2NGY1MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBhbnR5X2ZpbHRlciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
-vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?encryption=none&type=ws&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+vmess://eyJhZGQiOiAiY2lwLnNhbGltb3JlLmNvbSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjaXAuc2FsaW1vcmUuY29tIiwgImlkIjogIjAwNTVkNGM4LWVkZTAtNGNhZi04NTk3LWQyYmQ3M2M4MTU3NiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBhbnR5X2ZpbHRlciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
 
-vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@172.67.9.145:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=kssepa.sabzipolobamahi.dpdns.org&fp=random&type=ws&sni=kssepa.sabzipolobamahi.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+vless://97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40anty_filter
+
+vless://50023428-2a69-403b-81d2-7a7690d53b3f@telegrampdavpn.iddns.ir:3030?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40anty_filter
+
+vless://17aab239-189a-46a3-99ae-dc12f0cc419f@nexorad.bexora.ir:2082?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40anty_filter
+
+vless://4d099dc1-85c6-4414-b372-8fcbe1795112@blubank.sb24.ir:80?type=ws&encryption=none&path=%2F&host=api.sobhan.cam&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
