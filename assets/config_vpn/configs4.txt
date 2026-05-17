@@ -1,28 +1,12 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://lygyizxe-pz0g-7xut-rfe5-qzw2whos41ie@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://rwvh3s8t-071m-d45j-ztl0-oy3jdngablny@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://94nrzsow-c4b3-6k0u-6fhf-auiwaz43x9q3@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://be6e3911-e611-407f-b384-f4c7c30e13f0@rob.gladyshopnine.com:57713?type=tcp&security=reality&sni=www.aparat.com&fp=chrome&pbk=_sWh3QZdUwXQ2hoP431q5rqf_pQIufaOXSef1qbEwjs&sid=99#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-trojan://jzp6vzoq-l3r2-ulei-cyze-dheq7ej8c6np@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://azymvzoi-heuq-1f3h-tpp9-3r7j5ryqr78q@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://1wr3zp98-pu6m-373c-kyyt-vlcf7c72b42u@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://73bcd72f-9545-4cb8-8daf-7d004501880d@83.229.126.127:32237?type=ws&security=tls&path=/&sni=dcsrzh.ccwu.cc&fp=chrome#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Trick_mobil
-
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@de.skysafe.online:8443?type=tcp&security=reality&sni=de.skysafe.online&flow=xtls-rprx-vision&pbk=nMZty6MwsYsHk180yJ5PiKaHdY40bpdD9yUIycZYmCc&sid=ea9158334ab2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://f469bb82-6b82-41a0-887e-11492595a7fe@185.143.233.5:2096?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Free_World2
-
-vless://b307fe07-659d-4159-b82a-050af0982f2b@anten.ir:8080?type=ws&encryption=none&path=%2F&host=fdcluma-c0a1c-fbc-4c77-60c8nf.daravento.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Free_World2
-
 vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=%2Fapi%2Fv1%2Fusers&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nexus.itsazan.info&fp=chrome&type=ws&allowInsecure=0&sni=nexus.itsazan.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+trojan://telegram-id-directvpn@15.236.132.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.132.94:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@15.236.132.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A8%F0%9F%87%B5%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://ae547922-edca-95df-5a00-03fff1a3b2b4@varzesh3.com:8080?path=%2F&security=&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
 
