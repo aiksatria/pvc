@@ -24,3 +24,5 @@ trojan://q106lr82-f00a-1t1w-s54v-r1wmm46ww24j@127.0.0.1:2080?security=tls&type=t
 
 trojan://hs5z2met-ntoj-na1a-0l7z-uj1cl48mgk3c@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.247.198:443?security=reality&type=tcp&sni=eh.vk.com&fp=qq&flow=xtls-rprx-vision&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
+
