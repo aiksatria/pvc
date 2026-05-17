@@ -1,5 +1,11 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://hs5z2met-ntoj-na1a-0l7z-uj1cl48mgk3c@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://tpyl75ah-2pz6-bb46-ytat-ccykgtp9bg2a@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://gc8op81w-n7gw-9a0o-nipn-mt4d5n0q8fsd@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
 trojan://gx8i9snx-4qbi-ddjw-nc7z-9ztp3ct617fh@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://telegram-id-privatevpns@52.47.169.8:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -68,13 +74,7 @@ vless://f469bb82-6b82-41a0-887e-11492595a7fe@185.143.233.5:2096?path=%2F&securit
 
 vless://b307fe07-659d-4159-b82a-050af0982f2b@anten.ir:8080?type=ws&encryption=none&path=%2F&host=fdcluma-c0a1c-fbc-4c77-60c8nf.daravento.ir&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40Free_World2
 
-vless://54c47dee-eaee-417c-9b3c-339c5e00eeb7@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=0&sni=trex.docos.tech#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
-
-vless://2fe27e8f-3d31-4083-8105-41f62c6b88ef@rayan.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
-
-vless://0dbe1ae8-e9a6-4f48-aa52-4dd2c7dd949e@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
-
-vless://81afcf8f-b7dd-43b2-b734-c983bf3cb930@snapp.ir:2082?path=%2F&security=none&encryption=none&host=vip.singbox2.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=%2Fapi%2Fv1%2Fusers&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nexus.itsazan.info&fp=chrome&type=ws&allowInsecure=0&sni=nexus.itsazan.info#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
 
 vless://43948622-52bf-4dba-8198-7816518b2e9a@185.143.232.5:80?path=%2Fccore&security=none&encryption=none&host=jpy.segaltejarat.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40proxymaann
 
@@ -137,10 +137,4 @@ trojan://telegram-id-privatevpns@15.237.55.229:22222?sni=trojan.burgerip.co.uk&p
 trojan://wl5h5nac-53np-i334-5uf8-fwt6pfnphoot@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://q106lr82-f00a-1t1w-s54v-r1wmm46ww24j@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://hs5z2met-ntoj-na1a-0l7z-uj1cl48mgk3c@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://tpyl75ah-2pz6-bb46-ytat-ccykgtp9bg2a@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://gc8op81w-n7gw-9a0o-nipn-mt4d5n0q8fsd@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
