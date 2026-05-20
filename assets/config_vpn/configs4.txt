@@ -1,26 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://25a2d4cf-bc20-6e83-daf9-1b0b3e1425dd@digipay.ir:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&echfq=none&fp=chrome&allowinsecure=0&type=ws&sni=cdn-665e-o0g.fars-rehan.ir#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
+trojan://telegram-id-directvpn@63.176.4.250:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
 
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.149.78.144:8443?host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&sni=Koma-YT.PAGeS.Dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.4.250:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.76.60.96:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+trojan://telegram-id-privatevpns@63.176.4.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
 
-vless://43488128-319e-f480-64ea-0acdc712e2a8@70.34.201.81:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Mm-d06LgjpLq_Y0aTRuf8cbueCumBku9r4ygFUGTE2o&security=reality&sid=7b7c7376cba460cf&sni=www.booking.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://3bd5ee9c-8307-49a0-8f97-a9a0f54481eb@185.143.234.122:2095?path=%2F&security=none&encryption=none&host=en.TheRetro.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
-vless://db0206da-a1ee-4844-ae6b-1bdc6220dedf@varzesh3.com:80?encryption=none&host=iran.modiranarshaddds.ir&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://b9653688-1470-f844-f106-a12f10fb3517@porttt4.webchipro2.ir:3040?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayng_Fast
 
-vless://8124f481-d30f-4d43-af0c-89a50cebeeb0@snapp.ir:80?type=ws&encryption=none&path=%2F&host=r2.shopbertar.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
+vless://416560bf-9ebb-4a43-96b6-e353e3d3572a@45.140.204.121:443?encryption=none&fp=chrome&headerType=none&pbk=MYU0vSA5rfofPjIwynqoPsr60F_swjCHCDX0yJPKwT0&security=reality&sid=08bf&sni=yahoo.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
-vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=yahoo.com&sid=94f9&fp=chrome&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&spx=/&headerType=none#%F0%9F%87%A8%F0%9F%87%AD%20TCP-Reality%20%7C%20%40v2ray_configs_pool
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=random&type=tcp&sni=www.speedtest.net&sid=69#%F0%9F%87%AC%F0%9F%87%A7%20TCP-Reality%20%7C%20%40manVPN
 
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.157.213.215:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://badc7a4a-073f-30e3-2e61-8b089a068c36@18.192.95.247:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.35.169:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.latonyamadeline.ndjp.net&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.latonyamadeline.ndjp.net&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@50.228.203.26:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560&Telegram#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.146.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40v2ray_configs_pool
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
