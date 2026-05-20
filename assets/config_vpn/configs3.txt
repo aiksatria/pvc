@@ -350,3 +350,9 @@ vless://0b6cc407-50e2-1efb-f49c-524e05668e55@18.194.137.197:443?type=tcp&encrypt
 
 vless://523bee30-6167-432a-3208-91ca147d9410@18.159.118.65:443?type=tcp&encryption=none&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40VIPV2rayNGNP
 
+vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80?path=%2F&security=none&encryption=none&host=user.neternet.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40v2rayNG_Matsuri
+
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AE%F0%9F%87%B7%20GRPC-None%20%7C%20%40manVPN
+
+vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=random&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40manVPN
+
