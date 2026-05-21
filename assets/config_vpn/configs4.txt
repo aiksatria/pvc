@@ -10,3 +10,31 @@ vless://4649d681-7f26-4959-a3f2-02eb8866230f@159.195.82.187:9443?encryption=none
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+trojan://pkqcnfd7-xvg8-jn94-krmr-alqj9i4dkkax@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://modkhob2-c78e-jq23-xybu-qv04ljs4i4iw@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://trsq31yj-xoo7-52yw-7554-85re4pwo4mfw@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.109.130:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://02ca6335-4c91-412c-956f-f7f9e5630b6c@151.247.219.166:8443?type=tcp&security=reality&sni=www.microsoft.com&flow=xtls-rprx-vision&pbk=g3m27BDO4X4sUsRkm5PcrqNxEH1stxgrrCAuUdFKHHo&sid=e0251211bd#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://027ddfdf-59c3-4cce-b75a-d6cec7ace390@89.125.37.77:443?type=tcp&security=reality&sni=www.nvidia.com&flow=xtls-rprx-vision&pbk=mO8C8IMouuBMVJA63JnS4xcdY7knrc7Hg_IclJR_MnE&sid=75#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://sfjed852-nis8-w7rv-p52c-yh7acknlzbl6@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://5vz6gww9-ydr9-p4o7-o82y-455y2dmymaxc@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://6kcq0vpz-5xv2-igpm-8qrd-6z1n0plr5koc@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://escovpn_69551ragul@94.177.13.135:442?type=tcp&security=reality&sni=google.com&fp=random&flow=xtls-rprx-vision&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&sid=60#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+vless://ff03e357-b531-4f30-9f47-ba9b57dd384f@94.131.118.117:4443?type=tcp&security=reality#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
+
+trojan://ozw2hya2-twxx-29cd-tzek-z7ud60pojvot@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://7ictd5rf-p1ay-b2jx-juoq-dy6a2f64b3um@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://55fsku6h-39wq-2bsj-mod3-4kdmvq9pndtj@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
