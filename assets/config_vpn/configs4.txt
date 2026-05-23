@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://425a1d1e-a31a-4b2e-95fb-8108f0d40fab@varzesh3.com:2082?type=ws&encryption=none&path=%2F&host=ir1.scienceuniversitycollege.shop&security=none#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@183.99.227.24:26257?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2ray_configs_pool
-
-vless://5b34187f-f811-58b1-7e68-3cc63df5df3b@meli.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40v2ray_configs_pool
-
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@noc.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%20GRPC-None%20%7C%20%40v2ray_configs_pool
 
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@portal.sane-new-eb.net:8080?encryption=none&security=none&type=grpc&headerType=none&mode=gun#%F0%9F%87%B9%F0%9F%87%B7%20GRPC-None%20%7C%20%40v2ray_configs_pool
@@ -71,4 +65,6 @@ vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2052?encryption=none&
 vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2095?encryption=none&security=none&type=ws&headerType=none&path=%2FTR%3Fed%3D2560&host=console.nonserver.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
+
+vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&sni=www.icloud.com&sid=f690c1046814dc9d#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 

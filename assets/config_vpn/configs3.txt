@@ -416,3 +416,5 @@ vless://aa3e8bb7-d554-4a8d-bbb4-2b0948d3c8c6@arvancloud.ir:2095?encryption=none&
 
 trojan://humanity@2.144.23.72:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40ConfigX2ray
 
+vless://dc540911-cd1d-41e9-9301-ecb5a507b788@ru3.banovano.space:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=JbxZQuL2t4eews1QuA8O4jpsU_NXPMpmzKwlxSQj5Sk&sni=www.icloud.com&sid=f690c1046814dc9d#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
