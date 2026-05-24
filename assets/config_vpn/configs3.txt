@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://411e540f-d455-4fb8-aef8-a3926c2fc49d@198.169.2.1:443?mode=auto&path=%2Fpath&security=tls&alpn=h2&encryption=none&insecure=0&host=amonext-eta.vercel.app&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40proxymaann
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.30:22231?sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
-
 trojan://pz0wceum-vjp3-x2vs-axjs-7qkr1fd9uhn3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://4i0s4af8-mck9-e9u1-xh2i-i8d6p08mosff@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -147,6 +141,8 @@ vless://4d400592-45a1-4e05-80f6-8581658e71eb@5.159.54.140:443?type=tcp&security=
 vless://Telegram-Parsashonam@127.0.0.1:40443?encryption=none&security=tls&sni=Parsashonam.atlasq.ir&insecure=0&allowInsecure=…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Parsashonam
 
 vless://5ce600a8-9be9-4d10-9a6b-09c4569ebb2c@62.220.120.123:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=o21.netsecureteam10.ir#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
 vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@frnl.locklance.lol:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OduZo3TA4hyCu8FUh06W1_bNtIHjLEpyFJzGUsr2fzU&security=reality&sid=1368eab8bfaf0127&sni=frnl.locklance.lol&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
 
