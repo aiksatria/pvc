@@ -238,3 +238,17 @@ vless://b58cc30b-786c-4251-954e-d7d3f47e1501@arvancloud.ir:8080?path=%2F&securit
 
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40anty_filter
 
+vless://bc901ad8-a6da-4483-ad46-7a13c675e36e@193.151.129.116:443?path=%2Fws%3Fed%3D500&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=r1-vod.varzesh3.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2rayNG_Matsuri
+
+vless://49ad2ef2-1849-4a08-8b4f-bbbf65aa5c49@ls.irfallen.shop:2052?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40prrofile_purple
+
+vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
+
+vless://9de45eb1-188e-404b-bcac-2756afe53cd5@185.143.232.200:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+
+trojan://BxceQaOe@13.114.188.23:8359?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Raiv2mmr
+
+trojan://8r%3C%5B9%27l6hAO%238ZQi@127.0.0.1:40443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Raiv2mmr
+
