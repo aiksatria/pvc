@@ -28,3 +28,5 @@ trojan://bpb-trojan@2606:4700:310c::ac42:2c57:443?sni=10-BpB-worKeR-pAnEL.paGEs.
 
 vless://6beee13a-f356-4a51-8e65-75f776508e8f@78.159.131.5:443?type=tcp&security=reality&sni=al.cdn.stun.su&fp=chrome&flow=xtls-rprx-vision&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=8051d89749e0d400#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
 
+vless://411e540f-d455-4fb8-aef8-a3926c2fc49d@198.169.2.1:443?mode=auto&path=%2Fpath&security=tls&alpn=h2&encryption=none&insecure=0&host=amonext-eta.vercel.app&fp=chrome&type=xhttp&allowInsecure=0#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40proxymaann
+
