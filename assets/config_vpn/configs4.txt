@@ -22,3 +22,7 @@ vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reali
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40manVPN
 
+vless://59bff66e-5dfa-4597-b270-db9d7cd77c95@varzesh3.com:80?path=%2Fws&security=none&encryption=none&host=nobody.fasterspeed.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://70a1790b-a635-46f1-b473-e2ed1b4b491f@185.143.233.5:8880?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
