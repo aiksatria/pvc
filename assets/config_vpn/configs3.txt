@@ -298,3 +298,7 @@ vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&secur
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%2B%40ProxyVPN11&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
 
+vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
+
+trojan://humanity@104.17.72.206:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
+
