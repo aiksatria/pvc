@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://Telegram-Parsashonam@127.0.0.1:40443?encryption=none&security=tls&sni=Parsashonam.atlasq.ir&insecure=0&allowInsecure=…#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Parsashonam
-
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@frnl.locklance.lol:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OduZo3TA4hyCu8FUh06W1_bNtIHjLEpyFJzGUsr2fzU&security=reality&sid=1368eab8bfaf0127&sni=frnl.locklance.lol&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://200290dc-8698-4284-a6e5-0ffd91be8589@45.89.244.210:35750?security=reality&type=raw&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=01f43c37b8&pbk=rtqKOfjHLaN8qzlOOGHXrxWnEoqzQKQLSi8ZGIMjVlQ&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20TCP-Reality%20%7C%20%40v2nodes
-
-vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
-vless://5d875dbe-926b-45f7-96a6-8e6a125c14c3@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40VIPV2rayNGNP
-
 trojan://pz0wceum-vjp3-x2vs-axjs-7qkr1fd9uhn3@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
 
 trojan://4i0s4af8-mck9-e9u1-xh2i-i8d6p08mosff@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
@@ -142,6 +130,8 @@ vless://38d1377b-21dd-4669-8f2d-a326cb8417ee@94.182.179.188:58838?security=none&
 
 trojan://8r%3C%5B9%27l6hAO%238ZQi@94.101.177.20:2087?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayng_Fast
 
+vless://17574dcf-0fa4-4693-ba3e-5dda6894f507@f.pvnet.ir:8880?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
 vless://f30b3eee-2223-4328-b0a4-a66fb2c5ac98@snapp.ir:80?encryption=none&type=ws&path=%2F&host=gamedl.yeksancloud.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_Vpn
@@ -173,6 +163,8 @@ vless://49ad2ef2-1849-4a08-8b4f-bbbf65aa5c49@ls.irfallen.shop:2052?mode=auto&pat
 vless://c931f737-cafe-4e4f-998a-a65517941256@node-fi.dostup-est.info:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40prrofile_purple
 
 vless://9de45eb1-188e-404b-bcac-2756afe53cd5@185.143.232.200:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@r1.mizulina.top:22231?allowInsecure=0&sni=r1.mizulina.top&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://BxceQaOe@13.114.188.23:8359?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
 
