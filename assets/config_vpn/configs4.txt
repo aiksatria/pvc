@@ -1,20 +1,20 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://gnddkzyj-32vh-ypze-niwm-2tvjiicqbn2h@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://67tf75dn-kpal-s0wm-xw0g-tjjky9iq70dp@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-trojan://y4rkuc52-4pzu-7rwj-f2jg-em90gcxdwjdd@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
-
-vless://be4494a3-9544-4eb6-b166-5a733706d505@ru-1.videoproeditor.com:443?type=tcp&security=reality&sni=ru-1.videoproeditor.com&flow=xtls-rprx-vision&pbk=ivgTfLR13A6xBsicIA28OPoav2tXlsstTTmGuETfnSk&sid=6d6f13013d3e1d0c#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://11697f33-7b99-45ad-ba9d-7e6b3574e916@144.31.109.243:50574?type=tcp&security=reality&sni=kinopoisk.ru&flow=xtls-rprx-vision&pbk=CVJiOkrMyWN6mIX85kT5xqTlzOtW0_d08eoBIHw8Iyg&sid=cbae7fd41d21563e#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://256c5f48-4908-4255-83d1-c86cb58f22b4@fr.denditop.site:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Trick_mobil
-
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%2B%40ProxyVPN11&security=&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40ConfigX2ray
-
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@download.spectrum.vu:443?security=reality&type=tcp&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8&encryption=none#%F0%9F%87%A6%F0%9F%87%AA%20TCP-Reality%20%7C%20%40v2nodes
 
 trojan://humanity@104.17.72.206:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40netmelli15
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%2B%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40prrofile_purple
+
+vless://b7c8d9e0-f1g2-3h4i-5j6k-7l8m9n0o1p2q@188.114.96.4:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=wallweb.wyxalao.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=wallweb.wyxalao.workers.dev#%F0%9F%8C%90%20WS-TLS%20%7C%20%40prrofile_purple
+
+vless://7fcdf709-e157-487c-8e22-5d1537ae99c2@snapp.ir:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=blog.kalbodtm.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=blog.kalbodtm.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40prrofile_purple
+
+trojan://7c9fea7c-8def-3dd5-853a-5844f9b04146@ikuai.bot.nu:11777?security=tls&sni=windows11.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://humanity@193.151.153.23:40443?security=tls&sni=www.ignitelimit.com&allowInsecure=true&type=ws&host=www.ignitelimit.com&path=/assignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40BrilliantGift
+
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
