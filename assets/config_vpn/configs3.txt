@@ -706,3 +706,21 @@ vless://3cbd560c-8063-4671-835b-47ba18a0f05f@199.232.57.91:80?path=%2F%3Fed%3D80
 
 trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40VIPV2rayNGNP
 
+trojan://mitivpn@45.130.125.76:443?type=ws&security=tls&path=%2F%3Fed%3D2048&sni=www.app-cloud.ir&alpn=http%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://58999ea1-60cb-4f30-8ca4-112bcc6d2978@3.124.255.170:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
+
+vless://4c843ffe-ba71-4a31-9e9f-acffa72073ef@104.17.163.1:443?encryption=none&type=ws&security=tls&path=%2F&host=library-mirror.sisshark.win&sni=library-mirror.sisshark.win&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.17.121.71:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.lezzatzone.ir#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40Free_World2
+
+vless://d4305704-a108-4ce0-8ef0-66076e6227e9@3.66.32.10:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40BrilliantGift
+
+vless://AliTignal200GB@151.101.1.57:80?encryption=none&security=none&type=xhttp&host=tignaltofansv5.global.ssl.fastly.net&path=%2FTignal&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40BrilliantGift
+
+vless://4dc0eec9-f0e1-4755-be7e-7ba628522d1b@91.99.145.207:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayngSeven
+
+vless://28154b7e-afc2-449b-8a78-bf1eba31bd05@185.143.233.235:8880?path=%2F&security=none&encryption=none&host=a.darafiq.ir&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40V2rayNG_SPDNet
+
