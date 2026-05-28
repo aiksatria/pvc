@@ -64,3 +64,23 @@ vless://bed120da-8602-4efe-a2cf-5d10e0b11e01@45.131.6.203:2083?mode=auto&path=%2
 
 vless://3f879a9a-7039-4bfc-946c-d8bc61593be4@snapp.ir:80?path=%2F&security=none&encryption=none&host=hoosh.sabasarmaye.ir&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40tik7net_vpn
 
+vless://6a0e628b-e689-4c00-8a6e-e039ac7db08d@free-server.techsonic.ggff.net:443?encryption=none&security=tls&sni=android.googleapis.com&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&type=raw&headertype=none#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40DeamNet_proxy
+
+trojan://humanity@www.creationlong.org:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?encryption=none&security=tls&sni=index.arcane509.workers.dev&fp=chrome&insecure=1&type=ws&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://ae0dd58e-e222-40bf-84ae-365a97532737@xin.usfox.qzz.io:443?encryption=none&security=tls&sni=pagescm.freen3.de5.net&insecure=1&type=ws&host=pagescm.freen3.de5.net&path=%2Fzh%2Fplayer%2Fshop#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai202.000444.cn:8880?encryption=none&security=none&type=ws&host=frejd.11258.workers.dev&path=%2Ftelegram%F0%9F%87%A8%F0%9F%87%B3@wangcai2%2F%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.227.227:443?encryption=none&security=tls&sni=sni.skylee4.cloudns.ch&insecure=1&type=ws&host=sni.skylee4.cloudns.ch&path=%2Fproxyip#%F0%9F%87%BA%F0%9F%87%B8%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@openai.com:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.cnmfangbinxing-p.workers.dev&path=%2Ffp#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime37.workers.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://e258977b-e413-4718-a3af-02d75492c349@172.64.47.168:2096?encryption=none&security=tls&sni=jp.aniua.qzz.io&fp=chrome&insecure=1&type=ws&host=jp.aniua.qzz.io&path=%2F%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime47.workers.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40DeamNet_proxy
+
