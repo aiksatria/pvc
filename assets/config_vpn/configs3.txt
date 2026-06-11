@@ -1462,3 +1462,29 @@ vmess://eyJhZGQiOiAiMTYyLjE1OS4yNDAuMTAyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6
 
 vless://5f65c1ae-9e7a-48ea-8ecf-6822365cd177@vxc.galardoxtn.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=apiv2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=speedtest.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayNG_SPDNet
 
+trojan://telegram-id-privatevpns@13.39.52.165:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.33:443?security=tls&sni=hg.kpcloud.eu.org&type=ws&path=%2Fblue#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://4c49efe4-2749-451b-b6d5-2ad776cb869c@64.176.190.32:2052?security=none&type=httpupgrade&host=64.176.190.32&path=%2Fspiknet%3Fed%3D2560#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Hope_Net
+
+trojan://b12f4be0-e874-568e-954f-942dcc3a67e9@172.67.204.84:2096?security=tls&sni=trojan.trojan0.woRkeRS.deV&type=ws&host=trojan.trojan0.woRkeRS.deV&path=%2Ftrojan-ws%2F%3Fed%3D2048&fp=chrome&alpn=http%2F1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@162.159.152.149:443?path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://8ceda463-5162-4b65-b998-6d0a3ee87cfa@172.66.44.106:443?security=tls&sni=ntsafe.pages.dev&type=ws&host=ntsafe.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://telegram-id-privatevpns@3.9.153.161:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiMTk4LjIuMjE4LjIxNiIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
+trojan://d02e3bb7e6b3333e818d36866d40de6e@43.198.151.48:2008?security=tls&sni=www.nintendogames.net#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjJhMDI6NmVhMDpkMzJmOjpmOGZlOjM0OWIiLCAicG9ydCI6ICIyNDIwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYjIwYTcwNDItNzBmZi00Mzc2LWE3OWYtYjY4ZjllZGI3NTE5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OS1uZXdwYWMvZmFucWlhbmciLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiOTMuOTMuODkuOTkiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwgImhvc3QiOiAicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsICJ0bHMiOiAidGxzIn0=
+
+trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.creationlong.org&ws=1&wspath=%2Fassignment#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiNDUuODkuMjMwLjE5NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOGY5ZjUyNmItY2FiNi00MWQyLTk0MjQtY2JkZGU5NGVhMTRmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+
