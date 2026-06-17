@@ -664,3 +664,5 @@ vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.67:8443?security=tls&enc
 
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxy_tunnel
 
+vless://8ea30880-141b-4818-ba05-61921b123441@143.246.136.166:8085?security=reality&encryption=none&pbk=d-P-gTEyIqLzy-Qol61YDK4DtPkCufG_74xC4Yjx-0Y&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=668a36840984ddb5#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
+
