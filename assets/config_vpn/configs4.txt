@@ -1,2 +1,18 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
+trojan://SoftNetConnect@194.5.193.58:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%F0%9F%87%B9%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40FreakConfig
+
+trojan://SoftNetConnect@194.5.193.58:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.58:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://ed0a1821-eae7-4f7a-ae0b-885b0bed1490@70.34.197.55:443?security=reality&encryption=none&pbk=hLMSRuFE8lh6xGR554TWw6-_lQMdvutvzPmJ4xdEkGQ&headerType=none&fp=chrome&spx=%2FYMZw8kd5wZqg0lO&type=tcp&sni=www.oracle.com&sid=c4#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=DEY.iraniranshopdashnoard.ir&fp=chrome&type=ws&allowInsecure=0&sni=DEY.iraniranshopdashnoard.ir#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@91.193.58.201:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Dnlu.iraniranshopdashnoard.ir&fp=firefox&type=ws&allowInsecure=0&sni=Dnlu.iraniranshopdashnoard.ir#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40FreakConfig
+
+trojan://SoftNetConnect@194.5.193.58:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40FreakConfig
+
+vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-None%20%7C%20%40FreakConfig
+
