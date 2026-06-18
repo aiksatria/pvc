@@ -72,3 +72,11 @@ vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40tik7net_vpn
 
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:7010?security=reality&encryption=none&pbk=WmqD1Ek-eJLaxLGWOgTktqaopw9-0EN_jsVmR-lKJ3g&headerType=none&fp=chrome&spx=%2FOwniGe6RQdX0TBa&type=tcp&sni=wiredminds.de&sid=29c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2RAYROZ
+
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:31907?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=GQxD1sszDEZxwGZgcAuiJEN-QEtfL7k2xrYFkkoXOBU&fp=chrome&spx=%2F1MRo3Ov5q0lLNlJ&type=xhttp&sni=wiredminds.de&sid=a3244b9d#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2RAYROZ
+
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:7030?mode=gun&security=reality&encryption=none&pbk=QFeo4j66Ux-dchHsShh5CMBdaXR7ta0sBurNSNhc9ys&fp=chrome&spx=%2Fjqf4u1pEFZaGN0h&type=grpc&sni=wiredminds.de&sid=0adf5b#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2RAYROZ
+
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxy_tunnel
+

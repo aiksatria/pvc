@@ -1,23 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://SoftNetConnect@194.5.193.58:2087?mode=gun&security=reality&authority=185.204.169.129&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&fp=chrome&spx=%2F&type=grpc&sni=www.yahoo.com&sid=96a17085678b#%F0%9F%87%B9%F0%9F%87%B7%20GRPC-Reality%20%7C%20%40FreakConfig
-
-trojan://SoftNetConnect@194.5.193.58:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://89049f79-320b-48a0-b1cf-110165cae30c@194.5.193.58:2083?security=reality&encryption=none&pbk=l1Ekgk-8T5rB-yolp5OIpc0XZTcd2gBeqmIR2bytKXY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=4e590fdc#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://ed0a1821-eae7-4f7a-ae0b-885b0bed1490@70.34.197.55:443?security=reality&encryption=none&pbk=hLMSRuFE8lh6xGR554TWw6-_lQMdvutvzPmJ4xdEkGQ&headerType=none&fp=chrome&spx=%2FYMZw8kd5wZqg0lO&type=tcp&sni=www.oracle.com&sid=c4#%F0%9F%87%B8%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
-
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=DEY.iraniranshopdashnoard.ir&fp=chrome&type=ws&allowInsecure=0&sni=DEY.iraniranshopdashnoard.ir#%F0%9F%87%A6%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
-
-trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40FreakConfig
-
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@91.193.58.201:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=Dnlu.iraniranshopdashnoard.ir&fp=firefox&type=ws&allowInsecure=0&sni=Dnlu.iraniranshopdashnoard.ir#%F0%9F%87%AC%F0%9F%87%A7%20WS-TLS%20%7C%20%40FreakConfig
-
-trojan://SoftNetConnect@194.5.193.58:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%B9%F0%9F%87%B7%20TCP-TLS%20%7C%20%40FreakConfig
-
-vless://a8301ae5-8530-43c7-b21e-72678f83aec2@94.140.0.100:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=KUI.fastspeeds.ir&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-None%20%7C%20%40FreakConfig
-
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
 
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Trick_mobil
@@ -128,6 +110,8 @@ trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F
 
 trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
+trojan://MiTiVPN@172.67.210.215:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
 vless://9a1ca418-134f-4750-b97a-55ea81135742@167.82.101.251:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
 
 vless://9a1ca418-134f-4750-b97a-55ea81135742@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
@@ -193,6 +177,8 @@ vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@i.nonpath.ir:42542?security=&encryp
 vless://0970ff22-ef41-4dce-b05c-0ba0d1f73e67@s1.gmax12.ir:42542?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2HUBIR
 
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
+
+trojan://SoftNetConnect@194.5.193.58:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=c7#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2HUBIR
 
 vless://9126b19d-53c8-4236-9f87-3bb88bf37804@mci.connectingissues.ir:80?mode=auto&path=%2F%3Fed&security=&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shirin-kose.de&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2HUBIR
 
@@ -625,4 +611,12 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality
 vless://4bf5a71c-d726-4585-b095-7396675706d5@72.56.81.165:40443?security=reality&encryption=none&pbk=D_ks4Yyk4-osnWBxCFvd0_UEgohUXvR2zJoWQg1CACU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=c84f#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40FarazV2ray
 
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20WS-TLS%20%7C%20%40tik7net_vpn
+
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:7010?security=reality&encryption=none&pbk=WmqD1Ek-eJLaxLGWOgTktqaopw9-0EN_jsVmR-lKJ3g&headerType=none&fp=chrome&spx=%2FOwniGe6RQdX0TBa&type=tcp&sni=wiredminds.de&sid=29c9#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2RAYROZ
+
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:31907?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=GQxD1sszDEZxwGZgcAuiJEN-QEtfL7k2xrYFkkoXOBU&fp=chrome&spx=%2F1MRo3Ov5q0lLNlJ&type=xhttp&sni=wiredminds.de&sid=a3244b9d#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2RAYROZ
+
+vless://f614df48-afb1-4ab4-a43e-088607ce1433@91.107.154.73:7030?mode=gun&security=reality&encryption=none&pbk=QFeo4j66Ux-dchHsShh5CMBdaXR7ta0sBurNSNhc9ys&fp=chrome&spx=%2Fjqf4u1pEFZaGN0h&type=grpc&sni=wiredminds.de&sid=0adf5b#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2RAYROZ
+
+vless://dc109a0f-04e7-4e27-8df0-4decdc4fc90c@g-de2-x9cr8bwsquaj.radshim.com:443?path=%2Fws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40proxy_tunnel
 
