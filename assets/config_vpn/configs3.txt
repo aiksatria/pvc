@@ -470,3 +470,19 @@ vless://5a802fbb-00ed-4447-bece-3e0faf45e213@newus.mmrknight.app:80?path=%2FTele
 
 trojan://cc7ad2444ad9481b9d038924cc5916cd@191.40.5.169:2087?path=%2F&security=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vpnplusee_free
 
+vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:2053?path=%2Fws&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40Free_World2
+
+vless://45e46414-6147-440e-9733-059e5b48aaba@g-de2-x9cr8bwsquaj.radshim.com:8080?path=%2Fapi&security=none&encryption=none&type=httpupgrade#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Free_World2
+
+trojan://telegram-id-directvpn@35.158.190.80:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40DirectVPN
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.158.190.80:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40VlessConfig
+
+trojan://telegram-id-privatevpns@35.158.190.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40PrivateVPNs
+
+vless://c19069b6-0766-4df7-a405-a33acdc6a8b6@iiiiserver.imagician.shop:45617?mode=auto&path=%2FGyJhshsqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NkZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=digikala.com&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayng_Fast
+
+vless://d27d0ec3-81b7-4f09-ba3d-788e27100b00@varzesh3.com:80?encryption=none&type=ws&path=%2F&host=sajjad.panivo.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayng_Fast
+
+vless://96fcb9a4-7627-4ee9-aba7-3ac92a9a851a@de3.expiredpicks.com:443?mode=auto&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&insecure=0&host=de3.expiredpicks.com&type=xhttp&allowInsecure=0&sni=de3.expiredpicks.com#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40V2rayng_Fast
+
