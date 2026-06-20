@@ -66,3 +66,19 @@ trojan://CBIO9r68xR5fRBvneMKfaw@sv5.hosttbd.ir:10005?security=none&headerType=no
 
 vless://fa1494d1-d388-49fb-8977-3797f10082f2@65.109.186.115:8080?security=reality&encryption=none&pbk=IiXOtrr72OAumtdjHDdvqxwyiInUq8_5b2wG477U40k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=cee5cf0cb56d9912#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40proxymaann
 
+vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@fin.oplatasite.ru:8443?security=tls&encryption=none&headerType=none&fp=edge&allowinsecure=0&type=tcp&sni=vpn.oplatasite.ru#%F0%9F%87%A9%F0%9F%87%AA%20TCP-TLS%20%7C%20%40BigSmoke_Config
+
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=none&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#%F0%9F%87%A8%F0%9F%87%A6%20HTTPUpgrade-None%20%7C%20%40FreakConfig
+
+vless://1970926e-e41b-44e2-8f1e-e2eacb985f57@65.109.248.144:5742?mode=multi&security=reality&encryption=none&pbk=awJWCmY2Ba9kY_dZj7nSylvtzAP1I5unwa_xp6qrvGA&fp=firefox&spx=%2FjVErh2En06eEq0Q&type=grpc&sni=play.google.com&sid=1d9b1242d5#%F0%9F%87%AB%F0%9F%87%AE%20GRPC-Reality%20%7C%20%40FreakConfig
+
+vless://17186ef5-7a33-4d80-bece-9feb3743532d@forallpanel.srtongston.ir:8880?path=%2F%3Fed%3D2082&security=&encryption=none&host=Cdn8-pro.postshup.ir.&type=httpupgrade#%F0%9F%87%AB%F0%9F%87%B7%20HTTPUpgrade-None%20%7C%20%40FreakConfig
+
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.20.6.134:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&type=ws&allowInsecure=0&sni=4dcb0d80784f3081.hozheen.ir#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
+trojan://SoftNetConnect@77.110.114.75:2087?security=reality&pbk=pnrbo0MG4n719Yt3YhvL_SvV37NOmHm0_vbRnbRxaz0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=3e503fccee5701#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40FreakConfig
+
+trojan://SoftNetConnect@77.110.114.75:8443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bIzRyt6-wut4bghVAF7v_12wkM1McpzZFwsPAqCtrHY&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=78851a413f5033b0#%F0%9F%87%BA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40FreakConfig
+
+vless://cd6a9e75-2df3-4fad-9bd1-0752bb1bf30c@64.118.155.66:44918?encryption=none&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20TCP-None%20%7C%20%40vpnplusee_free
+
