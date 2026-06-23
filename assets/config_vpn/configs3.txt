@@ -616,3 +616,25 @@ vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.27.99:443?security=reality&
 
 vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@95.133.245.163:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40FarazV2ray
 
+trojan://66qcf6g7-wm7o-hw1t-szet-pp5ihlbg4tn5@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://hj8gceva-4ogg-ysa4-boi1-lslvaia4gb2c@127.0.0.1:2080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://qftea2tu-msfx-e4jk-n4q4-199swqq83mbw@127.0.0.1:4080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@47.245.62.4:8443?sni=dxy1h.twiladaphne.ndjp.net&peer=dxy1h.twiladaphne.ndjp.net&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+trojan://3c4e10af98c30972@23.247.137.64:443?sni=n2.gladns.com&peer=n2.gladns.com&security=tls#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@it.ipa-lornaomega-company.lornaomegacompany-powerfull.ir.lornaet.ir.lornanet.ir:4443?mode=auto&path=%2F%3Fed%3D2560&security=reality&encryption=none&pbk=mASz_I_F0STLXSd7YNrVmA8WEpMR_wVVvbK2kVCAkhk&host=it.ipa-lornaomega-company.lornaomegacompany-powerfull.ir.lornaet.ir.lornanet.ir&fp=random&spx=%2F%3Fed%3D3560&type=xhttp&sni=www.yahoo.com&sid=4cb33e81#%F0%9F%87%B8%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40V2rayNG_SPDNet
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@sp.vncbiz.infom.ew.usdtbama.site:1082?mode=auto&security=reality&encryption=none&pbk=DwjRypKA6yHbst-rKz-oJgfbrEC9n_3e6kUvdGaOCCY&host=sp.vncbiz.infom.ew.usdtbama.site&fp=chrome&spx=%2F%40V2rayNG_SPDNet&type=xhttp&sni=www.yahoo.com&sid=9bff024e#%F0%9F%87%AA%F0%9F%87%B8%20XHTTP-Reality%20%7C%20%40V2rayNG_SPDNet
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site:2099?mode=auto&path=%2F%2F%3Fed%3D2560%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet&security=reality&encryption=none&pbk=bm1X5R9OZK5AhcDhrn7j14rvTualxKopRR3lp065yWI&host=brt.rta-lornamason-combaccompany-powerfull.ir.usdtbama.site&fp=chrome&spx=%2F%40V2rayNG_SPDNet&type=xhttp&sni=www.yahoo.com&sid=5a8dba4b#%F0%9F%87%A6%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40V2rayNG_SPDNet
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@debug.php007.usdtbama.site:2096?mode=auto&path=%2F%2F%3Fed%3D2560%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet&security=reality&encryption=none&pbk=_66EsZhvxs_XgA056vTtE5JEzbDZmVMzbXT2bd_-JiA&host=debug.php007.usdtbama.site&fp=chrome&spx=%2F%40V2rayNG_SPDNet&type=xhttp&sni=www.yahoo.com&sid=8d03ccdb#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40V2rayNG_SPDNet
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@debug.php007.usdtbama.site:2086?mode=auto&path=%2F%2F%3Fed%3D2560%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet%2FJOIN%2FV2rayNG_SPDNet&security=reality&encryption=none&pbk=cdstSZCq7cbczrcuYGWnCLB2XTGc9m7yEAVV9yjbgj0&host=debug.php007.usdtbama.site&fp=edge&spx=%2F%40V2rayNG_SPDNet&type=xhttp&sni=www.rEfErSion.Com&sid=66f6a12b#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40V2rayNG_SPDNet
+
+vless://18059398-6c3a-0e59-24e0-b3a83879091c@it.ipa-lornaomega-company.lornaomegacompany-powerfull.ir.lornaet.ir.lornanet.ir:4443?mode=auto&path=%2F%3Fe…#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayNG_SPDNet
+
