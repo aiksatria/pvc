@@ -1068,3 +1068,25 @@ vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?security=reality
 
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.93:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40vpnaloo
 
+vless://a3585167-b919-4067-c770-972d53aedc5e@mpt.com.mm:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=vip.sirsis2.my.id&type=ws&allowInsecure=0&sni=vip.sirsis2.my.id#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+trojan://humanity@45.130.125.126:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.172:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayBaaz
+
+vless://85b62084-d81e-52cd-a016-944f261d34a0@45.144.165.11:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#%F0%9F%8C%90%20XHTTP-None%20%7C%20%40V2rayBaaz
+
+trojan://humanity@45.130.125.32:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayBaaz
+
+vless://f77bcbf0-76ac-462f-b789-22f99838bcd9@d2.cvbesty.ir:39980?mode=gun&security=reality&encryption=none&pbk=rvASQZqW6BWYuVuV_wfzoaTz3kPXRB1i6VJlUYUwZB4&fp=chrome&spx=%2F&type=grpc&sni=play.google.com&sid=3e64c3#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40mehrosaboran
+
+trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
+
+vless://b08d0906-8840-4b27-9261-0fe72600de7f@217.195.200.171:44904?#%F0%9F%87%A6%F0%9F%87%AA%20TCP-None%20%7C%20%40v2nodes
+
+vless://e4468d51-2528-4d40-a92d-5cf409d00dac@fry2.brocollisuper.click:443?allowInsecure=0&sni=fry2.brocollisuper.click&type=grpc&serviceName=grpc-api&security=tls#%F0%9F%87%AB%F0%9F%87%B7%20GRPC-TLS%20%7C%20%40v2nodes
+
+vless://33de2596-d95d-412b-a8c2-410be7060ca3@109.73.194.240:443?flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40v2nodes
+
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@suolar.yellowsky.ir:2053?mode=auto&path=%3Fed%3D2560%2FJOIN%2FAV2rayBot%2FJOIN%2FAV2rayBot%2FJOIN%2FAV2rayBot%2FJOIN%2FAV2rayBot%2FJOIN%2FAV2rayBot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&host=nuren1.aPPleseraj.IR.&fp=chrome&type=xhttp&allowInsecure=0&sni=nuren1.aPPleseraj.IR.#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40V2rayNG_SPDNet
+
