@@ -42,3 +42,13 @@ vless://362a79a2-ce89-8d2d-355c-f1f5071a445f@188.114.96.7:8443?path=%2Fsync&secu
 
 vless://77f5211d-055e-494c-af83-4ae460d982b3@free1.ziroxcompany.ir:8880?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=free.ziroxcompany.ir&insecure=0&fp=chrome&type=grpc&serviceName=%2Fdashboard&allowInsecure=0&sni=free.ziroxcompany.ir#%F0%9F%87%AC%F0%9F%87%A7%20GRPC-TLS%20%7C%20%40FreakConfig
 
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.247:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40vmess_ir
+
+vless://fa420bad-1a7a-46b9-ab44-05caa7255931@65.109.186.44:45026?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmess_ir
+
+vless://4a1c9d95-619c-410b-5f3d-522b7c468d74@s1.zynavo.ir:2087?pcs=cfaf89f7dc2bc4364ecd891d7937642c0ae54a91536850ab6b32a68064c8b084&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=xhttp&sni=sub.zynavo.ir&mode=auto&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=1&host=sub.zynavo.ir&allowInsecure=1#%F0%9F%8C%90%20XHTTP-TLS%20%7C%20%40vmesc
+
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.101:443?path=%2Frsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Outline_ir
+
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.245:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_ir
+
