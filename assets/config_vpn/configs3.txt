@@ -612,3 +612,17 @@ vless://b9a413cd-2bfd-45b5-ac4a-4c0d067da613@3o24i.pastilbastani.ir:443?encrypti
 
 vless://ecad47b0-249e-4f6f-adff-e3c8f02b1897@185.231.101.89:443?flow=xtls-rprx-vision&encryption…#%F0%9F%8C%90%20TCP-None%20%7C%20%40vpnsal
 
+trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40Ni4zNiIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInRscyI6ICIifQ==
+
+vless://7e9cfe7c-4cb5-4529-bc49-8b11d2143038@151.101.194.219:443?security=tls&sni=speedtest.net&type=ws&host=hostiran.net&path=%2F%3Fed%3DTELEGRAM-MARAMBASHI%2F%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.95.21:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://telegram-id-privatevpns@13.43.171.172:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.140.54:443?security=tls&sni=azADNet-FReeDoM-irANIAn.pages.DEV&type=ws&host=azAdneT-FREeDom-IraniaN.PAGES.dEv&path=%2Ftelegram-proxy_mtm-Telegram-proxy_mtm-Telegram-proxy_mtm%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLU5vbmUgfCBASG9wZV9OZXQiLCAiYWRkIjogIjEwNC4xOS40Ny4xMjIiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAiIn0=
+
