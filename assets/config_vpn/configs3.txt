@@ -572,3 +572,35 @@ vless://ed7c470f-8462-bb4b-cd44-b7b57a6c98ac@x4g-production-1b3b.up.railway.app:
 
 vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@ad-020.vector2llqn.info:8443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ad-020.vector2llqn.info#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40V2HUBIR
 
+trojan://Fvv4Bz926a@104.21.46.33:80?security=none&type=ws&host=admin.irayanconfig.ir#%F0%9F%8C%90%20WS-None%20%7C%20%40Hope_Net
+
+trojan://6d25dd28-80a4-4f63-80c6-f36d6ce1d25f@94.131.122.157:2053?#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+trojan://tg-dns68@162.159.152.207:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://Watashi_VPN@104.18.38.122:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.246.120.113:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://0cb8f9ab-d645-4e04-9b85-59d6055361e3@104.17.147.22:2052?security=none&type=httpupgrade&host=google2.itcenter.blog.speedtest-check.site&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024#%F0%9F%8C%90%20HTTPUpgrade-None%20%7C%20%40Hope_Net
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwIFdTLVRMUyB8IEBIb3BlX05ldCIsICJhZGQiOiAiMTA0LjIxLjk0LjY0IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjM5Y2VjMThmLWE0MzktNDI3Yy05YTRlLWFlYjZmY2RmNmY1MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyIsICJzbmkiOiAibGluamEwNS5od2Nhci5zYnMiLCAidGVzdF9uYW1lIjogIjg2In0=
+
+trojan://tg-dns68@162.159.152.227:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://babcaac-baac-cbaa-cbad-cabccbaababc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+trojan://Libertas*One*E*@104.21.67.195:443?security=tls&type=ws&sni=ironone.libertasiran.cloud&path=/n890#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://IQ68037294@moving-wren.rooster465.autos:443?allowInsecure=1&sni=moving-wren.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://IQ68037294@amazed-burro.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20TCP-None%20%7C%20%40v2nodes
+
+trojan://IQ68037294@whole-perch.rooster465.autos:443?allowInsecure=1&sni=whole-perch.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
+
+trojan://IQ68037294@enhanced-dassie.rooster465.autos:443?allowInsecure=0&sni=enhanced-dassie.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
+
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
+
