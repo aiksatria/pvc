@@ -562,3 +562,17 @@ vless://153560b0-1a33-4b44-b059-ca5b22e55c19@201.51.12.73:443?encryption=none&fl
 
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+trojan://tg-dns68@162.159.152.92:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://telegram-id-directvpn@3.73.221.195:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiMTA0LjI2LjEwLjExIiwgImFpZCI6IDAsICJob3N0IjogImlwMS4xNzg5MDM0Lnh5eiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAicG9ydCI6IDIwODYsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtTm9uZSB8IEBIb3BlX05ldCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+
+trojan://tg-dns68@162.159.153.13:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://telegram-id-directvpn@44.196.17.15:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+trojan://telegram-id-directvpn@13.41.220.188:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Hope_Net
+
+vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS4zNiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTAgV1MtVExTIHwgQEhvcGVfTmV0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+
