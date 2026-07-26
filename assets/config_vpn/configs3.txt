@@ -490,3 +490,21 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&en
 
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+trojan://f653ef08c54e21b3@13.114.31.41:3306?security=tls&type=ws&sni=TG.WangCai2&path=/gateway/connect&host=TG.WangCai_1#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=6b777a91&host=jobscareertoday.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://6d25dd28-80a4-4f63-80c6-f36d6ce1d25f@94.131.122.157:2053?#%F0%9F%8C%90%20TCP-None%20%7C%20%40Hope_Net
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@124.199.44.146:30064?allowInsecure=0&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=/?ed=2048security=tls#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.244:443?sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg@zdyz2securityfp=chrome&security=tls#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+trojan://tg-dns68@43.156.56.22:7676?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Hope_Net
+
+vless://1f6531a1-a6eb-4274-9f51-4a0899456fcf@195.254.165.243:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=zSjG6wndmLAzE8ykCBXpAm2eh0viWVSy3gt2juXF4EE&sid=eaa8&spx=%2FgiyWVcXDg48T294&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
+
+trojan://Xpp4J8jfbWRwCFPbFQ0PaugqS8VZLKkm@0101010101010101010101001010101010110010101010101010101010101.poki-pakipon.ir:18936?security=reality&sni=rd.autos.yahoo.com%3A443&fp=firefox&pbk=myxNd1bvr963QPX-04CKcKkXSUfiUn2lLEQrdN4I4ms&sid=141d17dfc73efe2c&allowinsecure=0&type=grpc&mode=gun&authority=&serviceName=%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79------%42%61%6e%56%32%72%61%79-------%42%61%6e%56%32%72%61%79#%F0%9F%87%A9%F0%9F%87%AA%20GRPC-Reality%20%7C%20%40BigSmoke_Config
+
+vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@tu2.petshopcloud.ir:44217?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=a1VvM3k8ETY4UZVL_eUbKwFwpVveNqD0ObMZ1dtwLj0&sid=2adcb0c184d15c1a&spx=%2Fc35feea118504ea&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
+
