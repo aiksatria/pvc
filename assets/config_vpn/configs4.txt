@@ -1,24 +1,2 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJAUHJveHlWUE4xMSIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8gQFByb3h5VlBOMTEiLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJcdWQ4M2NcdWRmMTAgVENQLU5vbmUgfCBAVjJyYXlORzMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&type=tcp&sni=deepl.com&sid=aae8#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayNG3
-
-vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448?security=reality&encryption=none&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=cd21e552537c7c0b#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayNG3
-
-vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40V2rayNG3
-
-vless://ae9bcc43-5fd8-4891-b06e-1c93e2747ed9@45.74.178.41:719?security=none&type=ws&host=play.google.com&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayNG3
-
-vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayNG3
-
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=po.fastbrokencompony.com&fp=chrome&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40V2rayNG3
-
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?mode=gun&security=none&serviceName=grpc&type=grpc&encryption=none#%F0%9F%8C%90%20GRPC-None%20%7C%20%40V2rayNG3
-
-vless://d92afe21-8e8b-42c7-98c2-8a33da64d28f@39.109.117.110:43646?path=%2Fd92afe21&encryption=none&type=ws&security=none#%F0%9F%8C%90%20WS-None%20%7C%20%40V2rayNG3
-
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#%F0%9F%8C%90%20GRPC-Reality%20%7C%20%40V2rayNG3
-
-vless://eda6b321-aa59-4b1e-b823-3616af020b4a@194.5.207.6:443?type=tcp&sid=d6c3c9&pbk=8Cho6K3KB6Aoty9x_TCAbY3yv7m-ToCHqaKkZTxR3jM&sni=play.google.com&encryption=none&security=reality&headerType=none&fp=chrome&spx=%2F#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayNG3
-
