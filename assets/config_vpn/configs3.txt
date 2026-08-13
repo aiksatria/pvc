@@ -842,3 +842,23 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.151.199:443?security=none&enc
 
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
 
+vless://%58pnTeam-37@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-36@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40bored_vpn
+
+vless://%58pnTeam-37@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
+
+vless://%58pnTeam-36@140.248.186.45:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40mehrosaboran
+
+vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@158.94.216.232:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=5e06032a9c448538#%F0%9F%87%B9%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@158.94.216.232:8088?mode=auto&path=%2Fpath&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=hYLvEGoxIMNpQkqxVJt298bBGE1Tz8dhtXGsPsLznj0&host=hostname&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2acf8977eb67ea0c#%F0%9F%87%B9%F0%9F%87%B7%20XHTTP-Reality%20%7C%20%40FreakConfig
+
+vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@57.130.46.48:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=5e06032a9c448538#%F0%9F%87%AB%F0%9F%87%B7%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://de9f46e2-5785-4978-b1d0-c6b308a66b35@95.38.182.182:995?path=%2Fmmd&security=none&encryption=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20WS-None%20%7C%20%40FreakConfig
+
+vless://14b48651-3738-4926-bc09-4c04e87ff80b@static.lotussec.com:443?mode=stream-one&path=%2FJoin-JavidnamanIran-on-Telegram&security=tls&alpn=h2&encryption=none&insecure=0&host=static.lotussec.com&fp=firefox&type=xhttp&allowInsecure=0&sni=static.lotussec.com#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://4038f946-bd95-5505-a111-196c05d6d92f@92.42.96.240:443?path=%2F&security=tls&encryption=none&insecure=0&host=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&type=ws&allowInsecure=0&sni=mAhaNrEaliteAm.MaHkHan.iR#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40FreakConfig
+
