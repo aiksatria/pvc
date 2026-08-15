@@ -1,55 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://fd919d3f-464f-43f1-9b6d-705c8f1ca3c6@185.218.139.146:1200?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=C8oWirjYL_yGBmMKU-5oIJMX8yjvCWONqDGdNaXBUTY&sid=2a518a5bf289c2&spx=%2FoOIuKgH0MPgJghA&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://fd919d3f-464f-43f1-9b6d-705c8f1ca3c6@185.218.139.146:500?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=f1JRjNNbeEYEBHfa4cW3qaukkaprWDo0rl979Ev8Egg&sid=39&spx=%2FYjy7Ghj1yRqHJLL&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?encryption=none&security=reality&sni=www.amd.com&fp=firefox&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&sid=29b21343ab4d&spx=%2Fy52f8gp4rv1il6u&type=xhttp&path=%2F%3F%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&mode=auto&extra=%7B%22mode%22%3A%22auto%22%7D#%F0%9F%8C%90%20XHTTP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&sid=02f1&spx=%2F37e22857a63bac7&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40v2ray_configs_pool
-
-vless://b3764969-ffeb-4436-8f83-ca9f1774edb9@72.56.7.195:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
-
-vless://c1c4a6bd-526e-4e02-b3fe-3f4a4498011f@185.185.142.79:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
-
-trojan://humanity@2.144.21.112:40443?encryption=none&security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
-
-vless://fec70375-29cf-46cf-b314-536c74feee94@172.67.74.10:8443?encryption=none&security=tls&sni=ratatouille.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=ratatouille.adaspoloandco.com&path=%2Fadmin.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&security=none&encryption=none&type=ws#%F0%9F%8C%90%20WS-None%20%7C%20%40vmess_ir
-
-vless://f9f8e019-7d71-4aee-8ea3-20e8dba4f4b8@31.57.158.25:21854?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesc
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40vmesc
-
-vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?fp=chrome&encryption=none&sid=02f1&type=tcp&security=reality&sni=www.cloudflare.com&spx=%2F37e22857a63bac7&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Free_World2
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22222?headerType=none&security=none&encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
-
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.78.155.1:22224?headerType=none&security=none&encryption=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40Free_World2
-
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40Outline_ir
-
-vless://64430c88-1b87-48b2-b472-135a3f4c765e@89.251.8.180:43080?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=_XtSAi2l8vY_YH5ZnFahRL3eenmStUUFAjsCYg15p0Y&sid=02f1&spx=%2F37e22857a63bac7&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40BigSmoke_Config
-
-vless://0a036b1d-b915-439f-b4b3-caa637c61e3a@sakura.proxy.rlwy.net:44917?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=lnW0ggGLrSk5E4Iabw30DGHretuTV2KQcWlqDCcVKmc&sid=526a2c8a4326dad0&spx=%2F3077e4a605954fa&allowinsecure=0&type=xhttp&mode=auto&path=%2Fassets&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%2270-50%22%7D#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40BigSmoke_Config
-
-vless://01f441ab-00e1-4865-90ca-6b2eff143506@68.183.41.47:36180?encryption=none&security=none&type=tcp&headerType=http&host=store.steampowered.com#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40BigSmoke_Config
-
-vless://7d3963b5-4029-4878-a251-2437deaebcd7@apn.zyro-lab.com:1324?encryption=none&security=none&type=ws&host=api16-access-wf-sg.pangle.io&path=%3Fed%3D2560#%F0%9F%87%A9%F0%9F%87%AA%20WS-None%20%7C%20%40BigSmoke_Config
-
-vless://26bf95c1-b78c-40eb-b11e-b38b8962ddb2@104.17.122.116:2052?encryption=none&security=none&type=xhttp&mode=packet-up&host=www.digikala.com.www.speedtest.net.savteam2.ip-ddns.coM.&path=%2FMoltivers%3Fed%3D2095#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-None%20%7C%20%40BigSmoke_Config
-
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40manVPN
-
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://8887d7e2-1c73-49b1-9d60-ce7546053370@230920393.f-sub.com:3799?type=tcp&headerType=http&host=speedtest.net&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
-
-vless://4380f668-616f-4cdf-876e-627c4c02c7d0@91.99.166.65:80?type=xhttp&mode=auto&host=shahin2001lunavo.global.ssl.fastly.net&path=/lunavo-vpn&security=reality&fp=chrome&sni=aider.chat&pbk=nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE&sid=39f0afc3&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20XHTTP-Reality%20%7C%20%40manVPN
-
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%23TELEGRAM-TOOTFFARANGI_TOOTFFARANGI%3Fed%3D2560#%F0%9F%8C%90%20WS-TLS%20%7C%20%40v2ray_configs_pool
 
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@95.38.102.243:443?encryption=none&security=tls&sni=new01.asaltabie.monster&fp=qq&type=ws&host=new01.asaltabie.monster&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-TLS%20%7C%20%40DeamNet_proxy
@@ -57,4 +7,10 @@ vless://d0f4d620-db2b-45e0-8353-a073461b1130@95.38.102.243:443?encryption=none&s
 vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&fp=chrome&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php%23telegram-marambashi_marambashi_marambashi_marambashi_marambashi%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
 
 vless://3536e1fa-0850-44d1-b123-925ce12476cf@dey.lnmarketplace.net:443?mode=stream-one&path=%2Fkavir&security=tls&alpn=h2&encryption=none&insecure=0&host=dey.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=dey.lnmarketplace.net#%F0%9F%87%B3%F0%9F%87%B1%20XHTTP-TLS%20%7C%20%40FreakConfig
+
+vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@185.247.16.117:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
 
