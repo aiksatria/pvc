@@ -1,11 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://2a88091e-e3f8-4478-9751-6ce0557a7f2e@185.247.16.117:2200?encryption=none&security=none&type=ws&host=rzd.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
-
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@172.67.74.10:2087?encryption=none&security=tls&sni=amphetamine.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=firefox&type=ws&host=amphetamine.adaspoloandco.com&path=%2Fdownload.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
-
-vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B7%F0%9F%87%BA%20WS-None%20%7C%20%40DeamNet_proxy
-
 trojan://FH72359861@pretty-adder.rooster465.autos:443?allowInsecure=0&sni=pretty-adder.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://FH72359861@internal-mongoose.rooster465.autos:443?allowInsecure=0&sni=internal-mongoose.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
@@ -595,4 +589,16 @@ vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@31.76.66.5:443?encryption=none&flow
 vless://d0f4d620-db2b-45e0-8353-a073461b1130@new01.asaltabie.monster:443?encryption=none&security=tls&sni=new01.asaltabie.monster&fp=ios&type=ws&host=new01.asaltabie.monster&path=%2F#%F0%9F%8C%90%20WS-TLS%20%7C%20%40meliproxyy
 
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@deconverter.teddylink.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deconverter.teddylink.com&fp=qq&pbk=OjYfFyxxb6SWmbxAoj00xWXqBzs-IuXr3xaShB_cIDI&sid=9ba2199aa517c9&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime06.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube@zyfxs%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A7%F0%9F%87%BF%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=%2F#%F0%9F%87%AE%F0%9F%87%B7%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.48.194:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.48.194:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.48.194:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%20TCP-None%20%7C%20%40PrivateVPNs
+
+vless://chanel%3Av2ray_fa3t@1626282bs96377171.trivoxa.ir:49239?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2ray_fa3t
 
