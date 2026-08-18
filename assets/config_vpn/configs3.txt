@@ -756,3 +756,11 @@ trojan://fVZMat1g9H@172.236.133.188:52?security=tls&insecure=1&headerType=none&f
 
 hysteria2://t8t2qojzsykqazfu@assets.gateway-stream.com:52026?security=tls&obfs=salamander&obfs-password=d6pv15sghiq1onts&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20Hysteria-TLS%20%7C%20%40FreakConfig
 
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.145.202:2095?encryption=none&security=none&type=ws&host=fangbinxingnmsl.pusytroller.gq&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?encryption=none&security=none&type=raw&headertype=none#%F0%9F%87%AE%F0%9F%87%B7%20TCP-None%20%7C%20%40DeamNet_proxy
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.149.244:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=t11.qifei.app#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40V2rayBaaz
+
