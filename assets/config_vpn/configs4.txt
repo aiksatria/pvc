@@ -1,17 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-vless://76fd8cd7-cff8-42fa-9b65-d10532536ae7@2.59.223.72:667?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40V2rayBaaz
-
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443?security=reality&encryption=none&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=baltic.cendora.ru&sid=4a46213c935e2ee4#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40V2rayBaaz
-
-trojan://HC04361579@driven-doberman.rooster465.autos:443?allowInsecure=0&sni=driven-doberman.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://HC04361579@quick-ant.rooster465.autos:443?allowInsecure=0&sni=quick-ant.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40manVPN
-
-vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
-
 vless://16569657-116c-46ed-8920-758ab8abaac4@djuc1.rapidmesh.ir:2096?security=reality&encryption=none&pbk=jqDgERbgQ5DVnJvw4p_j8XnM4GXUSXvPEn2t0TOtMms&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c2b19b0e0e625d01#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
 
 vless://bf840e65-ae71-4d9d-afe8-bf77f032c63b@109.122.198.243:443?security=reality&encryption=none&pbk=2W02YfNDSkJAkRpu8t2fOwdcjx9DXr0X6IFp5eCrGDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=info.lagzero.ru#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40meliproxyy
@@ -79,4 +67,42 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22224?encryption=none
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.235.95:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
 
 vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER&security=tls&encryption=none&insecure=1&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%87%B3%F0%9F%87%B1%20WS-TLS%20%7C%20%40FreakConfig
+
+vless://dc53f855-5025-45c8-9a85-981036839c5c@172.67.187.219:8880?encryption=none&security=none&type=ws&host=summer-breeze-0574.279.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.28.234:2095?encryption=none&security=none&type=ws&host=fuckingfangbinxing.pusytroller.cf&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://d171491a-9995-46ce-8719-f64463ca3a45@188.114.97.4:443?encryption=none&security=tls&sni=sertraline.adaspoloandco.com&alpn=http%2F1.1%2Ch2&fp=chrome&type=ws&host=sertraline.adaspoloandco.com&path=%2Fdownload.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://df26029b-bffe-4ce2-9246-25b52ed2b1c7@log.bpminecraft.com:8880?encryption=none&security=none&type=ws&host=polished-field-4448.186-705.workers.dev&path=%2Fpyip#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://f5c01a38-a92a-46a1-8968-a0582f4e2f2a@104.16.107.139:8880?encryption=none&security=none&type=ws&host=steep-frost-8b18.350-c77.workers.dev&path=%2Fpyip%3Dproxyip.us.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://78b73cc4-8c3c-40ce-bb74-d5dcd3277c67@104.18.34.245:8880?encryption=none&security=none&type=ws&host=white-hill-f907.23-b68.workers.dev&path=%2Fpyip%3Dproxyip.jp.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.72.41:2095?encryption=none&security=none&type=ws&host=fuckfangbinxing.pusytroller.gq&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://392ed37c-c0cd-472e-8765-a94677005b0b@104.21.88.129:8880?encryption=none&security=none&type=ws&host=frosty-bread-788f.398.workers.dev&path=%2Fpyip%3Dproxyip.sg.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=%2Fv1#%F0%9F%87%B8%F0%9F%87%A8%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://48b1d8af-1720-4462-a0ec-de493331ceb3@104.21.88.129:8880?encryption=none&security=none&type=ws&host=square-mountain-1d69.356-977.workers.dev&path=%2Fpyip%3Dproxyip.kr.cmliussss.net#%F0%9F%87%A8%F0%9F%87%A6%20WS-None%20%7C%20%40DeamNet_proxy
+
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?encryption=none&security=tls&sni=maple.adaspoloandco.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=maple.adaspoloandco.com&path=%2Fuploader.php#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40DeamNet_proxy
+
+vless://cac6ec8f-99f0-44c5-814f-2f3f65e4db74@170.114.46.6:80?encryption=none&security=none&type=ws&host=speed.dulacloud.store&path=%2Fdula#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40DeamNet_proxy
+
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40V2rayBaaz
+
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2FTelegram-DailyConfigsTelegram-DailyConfigsTelegram-DailyConfigs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.18.37.228:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2FTelegram-DailyConfigsTelegram-DailyConfigsTelegram-DailyConfigs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&security=tls&sni=josni.hoyes.cloudns.ch&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=josni.hoyes.cloudns.ch&path=%2FTelegram-DailyConfigsTelegram-DailyConfigsTelegram-DailyConfigs#%F0%9F%8C%90%20WS-TLS%20%7C%20%40daily_configs
+
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&security=reality&sni=shop-eu-de.amd.com&fp=firefox&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sid=09&spx=%2Fd1391238c7e6e89&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://7d2bac5e-6ff9-45c9-844e-6bfc5a384a42@yt.orpheous.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=firefox&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&sid=9e4eced6e98ed4d4&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
+
+vless://042a4a95-68f5-4179-89b3-69475a5d4908@91.132.161.245:18456?encryption=none&security=reality&sni=shop-eu-de.amd.com&fp=firefox&pbk=XmOcGjsWDWRVvRTF7rV77kRp63qwIYbQ_s-YK3U7FkM&sid=09&spx=%2Fd1391238c7e6e89&type=tcp&headerType=none#%F0%9F%8C%90%20TCP-Reality%20%7C%20%40daily_configs
 
