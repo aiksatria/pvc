@@ -1,19 +1,5 @@
 ss://bm9uZTpmOGY3YUN6Y1BLYnNGOHAz@lil:360#%F0%9F%91%91
 
-trojan://EQ30679154@well-goshawk.rooster465.autos:443?allowInsecure=0&sni=well-goshawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2nodes
-
-vless://74fbbe74-906d-5452-a27c-a85fc758bc9f@31.76.53.16.fwqfw783rg2dad.website:443?sni=31.76.53.16.fwqfw783rg2dad.website&alpn=http/1.1&type=ws&host=31.76.53.16.fwqfw783rg2dad.website&path=/websocket?ed=2560fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%20WS-TLS%20%7C%20%40v2nodes
-
-vless://7579a712-b8c6-4506-9aad-70b157cdabad@176.120.17.7:48537?#%F0%9F%87%B3%F0%9F%87%B1%20TCP-None%20%7C%20%40v2nodes
-
-trojan://EQ30679154@3.36.124.155:443?allowInsecure=0&sni=novel-kodiak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://EQ30679154@57.180.56.235:443?allowInsecure=0&sni=gentle-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://fg20mtCFHy@172.232.42.44:5577?allowInsecure=1&sni=gtyxz.southbyte.xyz#%F0%9F%87%AB%F0%9F%87%B7%20TCP-TLS%20%7C%20%40v2nodes
-
-trojan://fg20mtCFHy@172.105.197.232:5710?allowInsecure=1&sni=jpcaw.southbyte.xyz#%F0%9F%87%AF%F0%9F%87%B5%20TCP-TLS%20%7C%20%40v2nodes
-
 vless://5c025078-2eae-4c53-bad1-5e491f33395e@translate.magazinetut.online:443?sni=translate.magazinetut.online&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%AD%20TCP-TLS%20%7C%20%40v2nodes
 
 trojan://EQ30679154@direct-hawk.rooster465.autos:443?allowInsecure=0&sni=direct-hawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20TCP-TLS%20%7C%20%40v2nodes
@@ -537,4 +523,16 @@ vless://4e7eb9d5-022a-4b0a-ba37-2d1be458947b@gr1.levikogjgfdd.ir:443?security=re
 trojan://humanity@gr3.levikogjgfdd.ir:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%87%A9%F0%9F%87%AA%20WS-TLS%20%7C%20%40Tunder_vpn
 
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fi1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88#%F0%9F%87%AB%F0%9F%87%AE%20TCP-Reality%20%7C%20%40Tunder_vpn
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22223?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40DirectVPN
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22224?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40VlessConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@52.59.78.15:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
+
+vless://b4b3b4e3-5b3c-48f7-800a-ce69aeb25c51@151.101.56.6:443?path=%2F%3FTELEGRAM--BYA--CHANEL---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN---@JKVPN--@JKVPN---@JKVPN---@JKVPN---@JKVPN&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9F%87%AB%F0%9F%87%AE%20WS-TLS%20%7C%20%40JKVPN
+
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20WS-None%20%7C%20%40manVPN
+
+vless://8887d7e2-1c73-49b1-9d60-ce7546053370@all49-vip.f-sub.com:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir&security=none#%F0%9F%8C%90%20TCP-None%20%7C%20%40manVPN
 
