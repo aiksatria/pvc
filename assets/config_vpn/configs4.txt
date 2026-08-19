@@ -6,3 +6,9 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22224?encryption=none
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.182.189.87:22222?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40PrivateVPNs
 
+vless://919eef53-e931-4928-83f7-d880ee7b9804@185.178.46.50:443?security=reality&encryption=none&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=423bccc9c13fb509#%F0%9F%87%B7%F0%9F%87%BA%20TCP-Reality%20%7C%20%40FreakConfig
+
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#%F0%9F%87%A9%F0%9F%87%AA%20Hysteria-TLS%20%7C%20%40FreakConfig
+
+vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
