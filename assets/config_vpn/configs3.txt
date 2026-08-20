@@ -870,3 +870,17 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.9.154:80?security=none&type=
 
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.co…#%F0%9F%8C%90%20WS-TLS%20%7C%20%40one_shop_official
 
+vless://56971dae-1974-4ebe-a903-00e310828dd5@163.53.244.247:443?security=reality&encryption=none&pbk=KdveJDEjZkGpf3Ymw3Ptu0cjDQ9geOY3ueMniWuWa2E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=2694d28edfdd2c38#%F0%9F%87%A9%F0%9F%87%AA%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://9e27f64b-7ae9-461b-b4c4-99696276633b@de3.voronvpn.com:443?security=reality&encryption=none&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=54861d36#%F0%9F%87%BA%F0%9F%87%B8%20TCP-Reality%20%7C%20%40FreakConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22224?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22222?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.187.248.131:22223?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20TCP-None%20%7C%20%40FreakConfig
+
+vmess://eyJhZGQiOiAiMi4yNy4xNzQuMTEwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmZDJjM2M3Ny0xOTg0LTRmN2MtYmVmZS1lZmJhMDM0ZTFmM2MiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNzk0IiwgInBzIjogIlx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyBUQ1AtTm9uZSB8IEBGcmVha0NvbmZpZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+
+vless://72820b3c-b6a0-4e7c-8608-c37881f9a7d2@46.8.102.142:443?security=none&encryption=mlkem768x25519plus.native.0rtt.VXTDd25SpdN5eMoxAN28vhzD77EvglbaEFYL2qhvLyc&headerType=none&type=tcp#%F0%9F%8C%90%20TCP-None%20%7C%20%40FreakConfig
+
